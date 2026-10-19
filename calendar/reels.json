@@ -69,7 +69,7 @@
   "cover_style": "ivory"
  },
  {
-  "date": "2026-10-25",
+  "date": "2026-10-23",
   "type": "reel",
   "series": "Amanda Ree x AyurPet",
   "reel": "05",
@@ -80,7 +80,6 @@
    "ayurpetofficial": "13:00"
   },
   "accounts": [
-   "ayurpet_global",
    "ayurpetofficial"
   ],
   "video_urls": {
@@ -101,7 +100,38 @@
   "cover_style": "ivory"
  },
  {
-  "date": "2026-10-28",
+  "date": "2026-10-24",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet",
+  "reel": "05",
+  "title": "Your dog hears your stress",
+  "status": "HOLD: Karan to OK the v2 edit",
+  "times_ist": {
+   "ayurpet_global": "07:00",
+   "ayurpetofficial": "13:00"
+  },
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/amanda-05-hear-your-stress-in.mp4",
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/amanda-05-hear-your-stress-gl.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/amanda-05-hear-your-stress-cover.jpg",
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "captions": {
+   "ayurpetofficial": "Your dog can hear your stress, in your breath. 🐾 It's how service dogs tune in to their humans.\n\nBefore the festive rush, try this tonight with Amanda Ree of @samadogwellbeing:\n1. Watch their breath\n2. Mirror their pace\n3. Slow it down and sigh it out\n\nNotice if they follow you. Send this to someone whose dog always knows when they've had a bad day.\n\nSome B-roll clips in this video were made with AI.\n\n#AyurPet #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #DiwaliWithPets",
+   "ayurpet_global": "Your dog can hear your stress, in your breath. 🐾 It's how service dogs tune in to their humans.\n\nTry this tonight with Amanda Ree of @samadogwellbeing:\n1. Watch their breath\n2. Mirror their pace\n3. Slow it down and sigh it out\n\nNotice if they follow you. Send this to someone whose dog always knows when they've had a bad day.\n\nSome B-roll clips in this video were made with AI.\n\n#AyurPet #AyurvedaForPets #HolisticDogCare #DogBodyLanguage #AnxiousDog #SamaDog"
+  },
+  "cover_style": "ivory"
+ },
+ {
+  "date": "2026-10-25",
   "type": "reel",
   "series": "Amanda Ree x AyurPet",
   "reel": "04",

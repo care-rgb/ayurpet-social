@@ -48,8 +48,8 @@
   "status": "POSTED",
   "accounts": [
    "ayurpetofficial",
-   "ayurpet_global",
-   "facebook"
+   "facebook",
+   "ayurpet_global"
   ]
  },
  {
@@ -138,7 +138,7 @@
  {
   "day": 4,
   "week": 1,
-  "date": "2026-10-23",
+  "date": "2026-10-22",
   "post_time_ist": "19:00",
   "title": "Turmeric works, the dose does not",
   "folder": "W1-04 - Wed 21 Oct - Turmeric works the dose does not",
@@ -190,7 +190,7 @@
  },
  {
   "day": 0,
-  "date": "2026-10-23",
+  "date": "2026-10-22",
   "post_time_ist": "19:00",
   "title": "P2: What families say vs what vets say",
   "slides": 8,
@@ -232,7 +232,7 @@
  {
   "day": 6,
   "week": 1,
-  "date": "2026-10-27",
+  "date": "2026-10-23",
   "post_time_ist": "19:00",
   "title": "Caring for an old dog",
   "folder": "W1-06 - Fri 23 Oct - Caring for an old dog",
@@ -282,7 +282,7 @@
  },
  {
   "day": 0,
-  "date": "2026-10-27",
+  "date": "2026-10-24",
   "post_time_ist": "19:00",
   "title": "P4: The six pet parents of Diwali night",
   "slides": 8,
@@ -324,7 +324,7 @@
  {
   "day": 7,
   "week": 1,
-  "date": "2026-10-30",
+  "date": "2026-10-25",
   "post_time_ist": "19:00",
   "title": "That face is not guilt",
   "folder": "W1-07 - Sat 24 Oct - That face is not guilt",
@@ -365,11 +365,341 @@
   "github_repo": "care-rgb/ayurpet-social",
   "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-07/Captions%20-%20W1-07.docx",
   "version": "v3 (Week 1, new standard)",
-  "status": "HOLD: needs a yellow cover version (Western home photo) for the grid",
+  "status": "READY",
   "accounts": [
    "ayurpet_global"
   ],
   "grid": "yellow"
+ },
+ {
+  "day": 2,
+  "week": 1,
+  "date": "2026-10-26",
+  "post_time_ist": "19:00",
+  "title": "Sleeping position weather report",
+  "folder": "W1-02 - Mon 19 Oct - Sleeping position weather report",
+  "slides": 7,
+  "files": {
+   "A_drawn": [
+    "A_drawn/w1-02/slide-01.png",
+    "A_drawn/w1-02/slide-02.png",
+    "A_drawn/w1-02/slide-03.png",
+    "A_drawn/w1-02/slide-04.png",
+    "A_drawn/w1-02/slide-05.png",
+    "A_drawn/w1-02/slide-06.png",
+    "A_drawn/w1-02/slide-07.png"
+   ]
+  },
+  "captions": {
+   "ayurpetofficial_india": "Look at them right now. The way they're lying down is a weather report.\n\nBelly up, legs everywhere: they're releasing heat. Paw pads and the belly carry little fur, so exposing them cools the body fast, and it also says \"I feel safe here\" (American Kennel Club, Dr Jerry Klein). The tight donut keeps heat in and guards the belly; you'll see more of it on cold nights. Flat out with legs behind is the ready position puppies and high-drive dogs love. Curled against you is warmth plus trust.\n\nThe Ayurvedic layer: position follows constitution. Dogs who hunt warmth all winter lean Vata. Dogs who shed heat on the cool floor lean Pitta. The long, deep sleepers lean Kapha. Watch for a week before you decide.\n\nWhen sleep is a symptom: a sudden change in how, where or how much they sleep, heavy panting or drooling at rest, loud new snoring or laboured breathing, or far more or less than the 12 to 14 hours most adult dogs sleep. Those are vet calls, not comment-section questions.\n\nWhich position is yours right now? Comment 1, 2, 3 or 4. Bonus points for a sleepy photo.\n\nSend this to the friend whose dog sleeps upside down.\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
+   "ayurpet_global": "Look at them right now. The way they're lying down is a weather report.\n\nBelly up, legs everywhere: they're releasing heat. Paw pads and the belly carry little fur, so exposing them cools the body fast, and it also says \"I feel safe here\" (American Kennel Club, Dr Jerry Klein). The tight donut keeps heat in and guards the belly; you'll see more of it on cold nights. Flat out with legs behind is the ready position puppies and high-drive dogs love. Curled against you is warmth plus trust.\n\nThe Ayurvedic layer: position follows constitution. Dogs who hunt warmth all winter lean Vata. Dogs who shed heat on the cool floor lean Pitta. The long, deep sleepers lean Kapha. Watch for a week before you decide.\n\nWhen sleep is a symptom: a sudden change in how, where or how much they sleep, heavy panting or drooling at rest, loud new snoring or laboured breathing, or far more or less than the 12 to 14 hours most adult dogs sleep. Those are vet calls, not comment-section questions.\n\nWhich position is yours right now? Comment 1, 2, 3 or 4. Bonus points for a sleepy photo.\n\nSend this to the friend whose dog sleeps upside down.\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet",
+   "facebook": "Look at them right now. The way they're lying down is a weather report.\n\nBelly up, legs everywhere: they're releasing heat. Paw pads and the belly carry little fur, so exposing them cools the body fast, and it also says \"I feel safe here\" (American Kennel Club, Dr Jerry Klein). The tight donut keeps heat in and guards the belly; you'll see more of it on cold nights. Flat out with legs behind is the ready position puppies and high-drive dogs love. Curled against you is warmth plus trust.\n\nThe Ayurvedic layer: position follows constitution. Dogs who hunt warmth all winter lean Vata. Dogs who shed heat on the cool floor lean Pitta. The long, deep sleepers lean Kapha. Watch for a week before you decide.\n\nWhen sleep is a symptom: a sudden change in how, where or how much they sleep, heavy panting or drooling at rest, loud new snoring or laboured breathing, or far more or less than the 12 to 14 hours most adult dogs sleep. Those are vet calls, not comment-section questions.\n\nWhich position is yours right now? Comment 1, 2, 3 or 4. Bonus points for a sleepy photo.\n\nSend this to the friend whose dog sleeps upside down.\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
+  },
+  "sources": [
+   "American Kennel Club, Dr Jerry Klein (AKC Chief Veterinarian): why dogs sleep belly up",
+   "VCA Animal Hospitals: sleep changes that warrant a vet visit",
+   "R. Silver DVM (2007): constitutional reading in dogs"
+  ],
+  "instagram": {
+   "ayurpetofficial": "17841472849482734",
+   "ayurpet_global": "17841465833626335"
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-01.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-02.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-03.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-04.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-05.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-06.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-07.png"
+  ],
+  "github_repo": "care-rgb/ayurpet-social",
+  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-02/Captions%20-%20W1-02.docx",
+  "version": "v3 (Week 1, new standard)",
+  "status": "READY",
+  "accounts": [
+   "ayurpet_global"
+  ]
+ },
+ {
+  "day": 7,
+  "week": 1,
+  "date": "2026-10-26",
+  "post_time_ist": "19:00",
+  "title": "That face is not guilt",
+  "folder": "W1-07 - Sat 24 Oct - That face is not guilt",
+  "slides": 7,
+  "files": {
+   "A_drawn": [
+    "A_drawn/w1-07/slide-01.png",
+    "A_drawn/w1-07/slide-02.png",
+    "A_drawn/w1-07/slide-03.png",
+    "A_drawn/w1-07/slide-04.png",
+    "A_drawn/w1-07/slide-05.png",
+    "A_drawn/w1-07/slide-06.png",
+    "A_drawn/w1-07/slide-07.png"
+   ]
+  },
+  "captions": {
+   "ayurpetofficial_india": "Before anyone in the family says \"bad dog\", look at the face again.\n\nThat face isn't guilt. It's fear. Dogs say \"I'm uncomfortable\" quietly, long before they growl. Here are the five whispers (American Kennel Club; Cornell Riney Canine Health Center).\n\nWhale eye: the whites of the eyes showing. Calmly give space and remove what's bothering them.\nThe lip lick: a quick lick with no food around is often a stress signal, not hunger.\nThe stress yawn: a yawn in a tense moment (vet, guests, crackers) means \"I'm uneasy\", not \"I'm sleepy\".\nEars back, tail tucked: that's fear. Move them away from the trigger. Never scold a frightened dog.\nThe stress ladder: lip lick, yawn, look away. Then whale eye, ears back, tail tucked. Then stiff body, growl. Then snap or bite. Every rung was a request to stop.\n\nNever punish a growl. It is a request for space, and punishing it teaches a dog to skip the warning next time.\n\nWhich of these have you seen at home? Tell us below. Seeing them often? Talk to your vet or a qualified trainer.\n\nSend this to a new dog parent. Save the ladder.\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet #DogBodyLanguage",
+   "ayurpet_global": "Before anyone in the family says \"bad dog\", look at the face again.\n\nThat face isn't guilt. It's fear. Dogs say \"I'm uncomfortable\" quietly, long before they growl. Here are the five whispers (American Kennel Club; Cornell Riney Canine Health Center).\n\nWhale eye: the whites of the eyes showing. Calmly give space and remove what's bothering them.\nThe lip lick: a quick lick with no food around is often a stress signal, not hunger.\nThe stress yawn: a yawn in a tense moment (vet, guests, crackers) means \"I'm uneasy\", not \"I'm sleepy\".\nEars back, tail tucked: that's fear. Move them away from the trigger. Never scold a frightened dog.\nThe stress ladder: lip lick, yawn, look away. Then whale eye, ears back, tail tucked. Then stiff body, growl. Then snap or bite. Every rung was a request to stop.\n\nNever punish a growl. It is a request for space, and punishing it teaches a dog to skip the warning next time.\n\nWhich of these have you seen at home? Tell us below. Seeing them often? Talk to your vet or a qualified trainer.\n\nSend this to a new dog parent. Save the ladder.\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet #DogBodyLanguage",
+   "facebook": "Before anyone in the family says \"bad dog\", look at the face again.\n\nThat face isn't guilt. It's fear. Dogs say \"I'm uncomfortable\" quietly, long before they growl. Here are the five whispers (American Kennel Club; Cornell Riney Canine Health Center).\n\nWhale eye: the whites of the eyes showing. Calmly give space and remove what's bothering them.\nThe lip lick: a quick lick with no food around is often a stress signal, not hunger.\nThe stress yawn: a yawn in a tense moment (vet, guests, crackers) means \"I'm uneasy\", not \"I'm sleepy\".\nEars back, tail tucked: that's fear. Move them away from the trigger. Never scold a frightened dog.\nThe stress ladder: lip lick, yawn, look away. Then whale eye, ears back, tail tucked. Then stiff body, growl. Then snap or bite. Every rung was a request to stop.\n\nNever punish a growl. It is a request for space, and punishing it teaches a dog to skip the warning next time.\n\nWhich of these have you seen at home? Tell us below. Seeing them often? Talk to your vet or a qualified trainer.\n\nSend this to a new dog parent. Save the ladder.\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet #DogBodyLanguage"
+  },
+  "sources": [
+   "American Kennel Club: how to read dog body language (whale eye, lip licking, yawning)",
+   "Cornell Riney Canine Health Center: signs of stress and the ladder of aggression"
+  ],
+  "instagram": {
+   "ayurpetofficial": "17841472849482734",
+   "ayurpet_global": "17841465833626335"
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-01.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-02.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-03.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-04.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-05.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-06.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-07.png"
+  ],
+  "github_repo": "care-rgb/ayurpet-social",
+  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-07/Captions%20-%20W1-07.docx",
+  "version": "v3 (Week 1, new standard)",
+  "status": "READY",
+  "accounts": [
+   "ayurpetofficial",
+   "facebook"
+  ],
+  "grid": "yellow"
+ },
+ {
+  "day": 0,
+  "date": "2026-10-27",
+  "post_time_ist": "19:00",
+  "title": "Global batch (Western homes, no Diwali)",
+  "slides": 0,
+  "files": {
+   "A_drawn": []
+  },
+  "captions": {
+   "ayurpet_global": "In production."
+  },
+  "sources": [],
+  "status": "HOLD: global batch in production",
+  "accounts": [
+   "ayurpet_global"
+  ]
+ },
+ {
+  "day": 6,
+  "week": 1,
+  "date": "2026-10-27",
+  "post_time_ist": "19:00",
+  "title": "Caring for an old dog",
+  "folder": "W1-06 - Fri 23 Oct - Caring for an old dog",
+  "slides": 7,
+  "files": {
+   "A_drawn": [
+    "A_drawn/w1-06/slide-01.png",
+    "A_drawn/w1-06/slide-02.png",
+    "A_drawn/w1-06/slide-03.png",
+    "A_drawn/w1-06/slide-04.png",
+    "A_drawn/w1-06/slide-05.png",
+    "A_drawn/w1-06/slide-06.png",
+    "A_drawn/w1-06/slide-07.png"
+   ]
+  },
+  "captions": {
+   "ayurpetofficial_india": "If you've been quietly exhausted lately, this one is for you.\n\nCaring for an old dog is tiring, and science finally named it: caregiver burden. A Kent State University study (Spitznagel et al., Veterinary Record, 2017) surveyed 238 owners and found that people caring for a pet with a chronic or terminal illness reported more stress, anxiety and depression, and a lower quality of life, than owners of healthy pets. You are not weak, and you are not imagining it.\n\nWhy it adds up: night checks, pills, slow laps around the block. Each one is small. Together they are a second job that nobody sees, including you.\n\nThe trap: \"just old age\" hides pain. Slower on stairs, fussier with food, flinching when touched. Senior care guidelines (AAHA) are clear that many age-related changes are pain, and pain can be treated. Tell your vet exactly what the daily routine costs; they can only treat what you report.\n\nThe lens we add: old age is a Vata season in Ayurveda. Dryness, stiffness and restlessness rise with age. Warmth, routine and gentle movement are the daily medicine.\n\nTry this tonight: write the routine on one page. Circle the task that drains you most. Ask one person to take it for a week.\n\nComfortable joints are part of the answer, and that is what Hip-O-Joint+ (boswellia and turmeric extract, in drops) is for. It supports joint comfort and mobility; it isn't a treatment, and your vet stays in charge.\n\nWhat does your old dog's day look like? Tell us below, and send this to someone caring for an old dog. If you feel you cannot cope, please talk to your doctor.\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet #SeniorDog",
+   "ayurpet_global": "If you've been quietly exhausted lately, this one is for you.\n\nCaring for an old dog is tiring, and science finally named it: caregiver burden. A Kent State University study (Spitznagel et al., Veterinary Record, 2017) surveyed 238 owners and found that people caring for a pet with a chronic or terminal illness reported more stress, anxiety and depression, and a lower quality of life, than owners of healthy pets. You are not weak, and you are not imagining it.\n\nWhy it adds up: night checks, pills, slow laps around the block. Each one is small. Together they are a second job that nobody sees, including you.\n\nThe trap: \"just old age\" hides pain. Slower on stairs, fussier with food, flinching when touched. Senior care guidelines (AAHA) are clear that many age-related changes are pain, and pain can be treated. Tell your vet exactly what the daily routine costs; they can only treat what you report.\n\nThe lens we add: old age is a Vata season in Ayurveda. Dryness, stiffness and restlessness rise with age. Warmth, routine and gentle movement are the daily medicine.\n\nTry this tonight: write the routine on one page. Circle the task that drains you most. Ask one person to take it for a week.\n\nComfortable joints are part of the answer, and that is what Hip-O-Joint+ (boswellia and turmeric extract, in drops) is for. It supports joint comfort and mobility; it isn't a treatment, and your vet stays in charge.\n\nWhat does your old dog's day look like? Tell us below, and send this to someone caring for an old dog. If you feel you cannot cope, please talk to your doctor.\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet #SeniorDog",
+   "facebook": "If you've been quietly exhausted lately, this one is for you.\n\nCaring for an old dog is tiring, and science finally named it: caregiver burden. A Kent State University study (Spitznagel et al., Veterinary Record, 2017) surveyed 238 owners and found that people caring for a pet with a chronic or terminal illness reported more stress, anxiety and depression, and a lower quality of life, than owners of healthy pets. You are not weak, and you are not imagining it.\n\nWhy it adds up: night checks, pills, slow laps around the block. Each one is small. Together they are a second job that nobody sees, including you.\n\nThe trap: \"just old age\" hides pain. Slower on stairs, fussier with food, flinching when touched. Senior care guidelines (AAHA) are clear that many age-related changes are pain, and pain can be treated. Tell your vet exactly what the daily routine costs; they can only treat what you report.\n\nThe lens we add: old age is a Vata season in Ayurveda. Dryness, stiffness and restlessness rise with age. Warmth, routine and gentle movement are the daily medicine.\n\nTry this tonight: write the routine on one page. Circle the task that drains you most. Ask one person to take it for a week.\n\nComfortable joints are part of the answer, and that is what Hip-O-Joint+ (boswellia and turmeric extract, in drops) is for. It supports joint comfort and mobility; it isn't a treatment, and your vet stays in charge.\n\nWhat does your old dog's day look like? Tell us below, and send this to someone caring for an old dog. If you feel you cannot cope, please talk to your doctor.\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet #SeniorDog"
+  },
+  "sources": [
+   "Spitznagel MB et al., Veterinary Record 2017 (Kent State University): caregiver burden in owners of a sick companion animal, n=238",
+   "AAHA Senior Care Guidelines for Dogs and Cats (2023): pain assessment in ageing dogs",
+   "AyurPet product truth file: Hip-O-Joint+"
+  ],
+  "instagram": {
+   "ayurpetofficial": "17841472849482734",
+   "ayurpet_global": "17841465833626335"
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-01.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-02.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-03.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-04.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-05.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-06.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-07.png"
+  ],
+  "github_repo": "care-rgb/ayurpet-social",
+  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-06/Captions%20-%20W1-06.docx",
+  "version": "v3 (Week 1, new standard)",
+  "status": "READY",
+  "accounts": [
+   "ayurpetofficial",
+   "facebook"
+  ],
+  "grid": "photo"
+ },
+ {
+  "day": 0,
+  "date": "2026-10-28",
+  "post_time_ist": "19:00",
+  "title": "Global batch (Western homes, no Diwali)",
+  "slides": 0,
+  "files": {
+   "A_drawn": []
+  },
+  "captions": {
+   "ayurpet_global": "In production."
+  },
+  "sources": [],
+  "status": "HOLD: global batch in production",
+  "accounts": [
+   "ayurpet_global"
+  ]
+ },
+ {
+  "day": 4,
+  "week": 1,
+  "date": "2026-10-28",
+  "post_time_ist": "19:00",
+  "title": "Turmeric works, the dose does not",
+  "folder": "W1-04 - Wed 21 Oct - Turmeric works the dose does not",
+  "slides": 8,
+  "files": {
+   "A_drawn": [
+    "A_drawn/w1-04/slide-01.png",
+    "A_drawn/w1-04/slide-02.png",
+    "A_drawn/w1-04/slide-03.png",
+    "A_drawn/w1-04/slide-04.png",
+    "A_drawn/w1-04/slide-05.png",
+    "A_drawn/w1-04/slide-06.png",
+    "A_drawn/w1-04/slide-07.png",
+    "A_drawn/w1-04/slide-08.png"
+   ]
+  },
+  "captions": {
+   "ayurpetofficial_india": "Turmeric is the most searched herb for dogs, and most of it is wasted.\n\nHere's what the research actually says, in five lines.\n\n1. Curcumin is real. Turmeric's curcuminoids are anti-inflammatory and antioxidant; that much is well established in people and in the lab (Int J Mol Sci, 2023 review).\n2. Almost none gets absorbed. Curcumin barely dissolves in water and is broken down fast. On its own, very little reaches the blood.\n3. A pinch of haldi in food mostly passes through. Kitchen turmeric is only a few percent curcumin, and it's dry and unpaired.\n4. What helps: fat, pepper, extract. Curcumin is fat-soluble, and piperine from black pepper raised absorption about three-fold in studies.\n5. The dog trial: promising, not magic. In a placebo-controlled trial (Innes et al., Veterinary Record, 2003), vets rated dogs on a turmeric extract as improved, while the force-plate measure didn't change.\n\nAsk your vet first if your dog is on blood thinners, has surgery coming up, or has gallbladder or liver problems. High doses can upset the stomach. Dose by body weight, never by the spoon.\n\nThis is why Hip-O-Joint+ is a liquid: a 95% curcuminoid extract paired with boswellia, in drops you dose by weight. It supports joint comfort and mobility; it is not a treatment, and your vet should know about everything your dog takes.\n\nWhich form have you been using? Tell us below, and send this to the golden-paste friend before they buy another jar.\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
+   "ayurpet_global": "Turmeric is the most searched herb for dogs, and most of it is wasted.\n\nHere's what the research actually says, in five lines.\n\n1. Curcumin is real. Turmeric's curcuminoids are anti-inflammatory and antioxidant; that much is well established in people and in the lab (Int J Mol Sci, 2023 review).\n2. Almost none gets absorbed. Curcumin barely dissolves in water and is broken down fast. On its own, very little reaches the blood.\n3. A pinch of haldi in food mostly passes through. Kitchen turmeric is only a few percent curcumin, and it's dry and unpaired.\n4. What helps: fat, pepper, extract. Curcumin is fat-soluble, and piperine from black pepper raised absorption about three-fold in studies.\n5. The dog trial: promising, not magic. In a placebo-controlled trial (Innes et al., Veterinary Record, 2003), vets rated dogs on a turmeric extract as improved, while the force-plate measure didn't change.\n\nAsk your vet first if your dog is on blood thinners, has surgery coming up, or has gallbladder or liver problems. High doses can upset the stomach. Dose by body weight, never by the spoon.\n\nThis is why Hip-O-Joint+ is a liquid: a 95% curcuminoid extract paired with boswellia, in drops you dose by weight. It supports joint comfort and mobility; it is not a treatment, and your vet should know about everything your dog takes.\n\nWhich form have you been using? Tell us below, and send this to the golden-paste friend before they buy another jar.\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet",
+   "facebook": "Turmeric is the most searched herb for dogs, and most of it is wasted.\n\nHere's what the research actually says, in five lines.\n\n1. Curcumin is real. Turmeric's curcuminoids are anti-inflammatory and antioxidant; that much is well established in people and in the lab (Int J Mol Sci, 2023 review).\n2. Almost none gets absorbed. Curcumin barely dissolves in water and is broken down fast. On its own, very little reaches the blood.\n3. A pinch of haldi in food mostly passes through. Kitchen turmeric is only a few percent curcumin, and it's dry and unpaired.\n4. What helps: fat, pepper, extract. Curcumin is fat-soluble, and piperine from black pepper raised absorption about three-fold in studies.\n5. The dog trial: promising, not magic. In a placebo-controlled trial (Innes et al., Veterinary Record, 2003), vets rated dogs on a turmeric extract as improved, while the force-plate measure didn't change.\n\nAsk your vet first if your dog is on blood thinners, has surgery coming up, or has gallbladder or liver problems. High doses can upset the stomach. Dose by body weight, never by the spoon.\n\nThis is why Hip-O-Joint+ is a liquid: a 95% curcuminoid extract paired with boswellia, in drops you dose by weight. It supports joint comfort and mobility; it is not a treatment, and your vet should know about everything your dog takes.\n\nWhich form have you been using? Tell us below, and send this to the golden-paste friend before they buy another jar.\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
+  },
+  "sources": [
+   "Int J Mol Sci 2023 review: curcumin bioavailability, metabolism, piperine effect",
+   "Innes JF et al., Veterinary Record 2003: randomised placebo-controlled trial of a turmeric extract in dogs with osteoarthritis",
+   "AyurPet product truth file: Hip-O-Joint+ contains turmeric 95% curcuminoids and boswellia"
+  ],
+  "instagram": {
+   "ayurpetofficial": "17841472849482734",
+   "ayurpet_global": "17841465833626335"
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-01.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-02.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-03.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-04.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-05.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-06.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-07.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-08.png"
+  ],
+  "github_repo": "care-rgb/ayurpet-social",
+  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-04/Captions%20-%20W1-04.docx",
+  "version": "v3 (Week 1, new standard)",
+  "status": "READY",
+  "accounts": [
+   "ayurpetofficial",
+   "facebook"
+  ],
+  "grid": "yellow"
+ },
+ {
+  "day": 0,
+  "date": "2026-10-29",
+  "post_time_ist": "19:00",
+  "title": "Global batch (Western homes, no Diwali)",
+  "slides": 0,
+  "files": {
+   "A_drawn": []
+  },
+  "captions": {
+   "ayurpet_global": "In production."
+  },
+  "sources": [],
+  "status": "HOLD: global batch in production",
+  "accounts": [
+   "ayurpet_global"
+  ]
+ },
+ {
+  "day": 3,
+  "week": 1,
+  "date": "2026-10-29",
+  "post_time_ist": "19:00",
+  "title": "He steals your warm spot",
+  "folder": "W1-03 - Tue 20 Oct - He steals your warm spot",
+  "slides": 7,
+  "files": {
+   "A_drawn": [
+    "A_drawn/w1-03/slide-01.png",
+    "A_drawn/w1-03/slide-02.png",
+    "A_drawn/w1-03/slide-03.png",
+    "A_drawn/w1-03/slide-04.png",
+    "A_drawn/w1-03/slide-05.png",
+    "A_drawn/w1-03/slide-06.png",
+    "A_drawn/w1-03/slide-07.png"
+   ]
+  },
+  "captions": {
+   "ayurpetofficial_india": "Every single morning. You stand up, and he slides into your warm spot before your feet hit the floor.\n\nMost of us were told that's dominance, a dog trying to be the boss of the bed. The American Kennel Club calls that an urban legend. The truth is softer and a lot more interesting.\n\nThe spot you left is the warmest, most you-smelling place in the house. Staying close to your heat and your scent is the whole point.\n\nDoes sharing the bed cost you sleep? Less than you'd think. A Mayo Clinic study tracked 40 adults for a week: sleep efficiency was 83% with the dog in the room, and about 80% with the dog on the bed (Patel et al., Mayo Clinic Proceedings, 2017). Small study, no control group, but the message is clear: most people sleep fine.\n\nOur extra layer: heat-seeking is a tell. Dogs that hunt warmth all winter lean Vata in Ayurvedic terms, and warm bedding, warm food and a fixed routine suit them.\n\nGive them their own bed if they growl or stiffen when you reclaim the spot (that's a vet and trainer conversation, never punishment), if they're small or senior and leaping off a tall bed, or if your allergies flare at night. Otherwise: up by invitation, and the spot stays yours.\n\nWhose dog does this every morning? Tag them. And tell us: do you win the spot back?\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
+   "ayurpet_global": "Every single morning. You stand up, and he slides into your warm spot before your feet hit the floor.\n\nMost of us were told that's dominance, a dog trying to be the boss of the bed. The American Kennel Club calls that an urban legend. The truth is softer and a lot more interesting.\n\nThe spot you left is the warmest, most you-smelling place in the house. Staying close to your heat and your scent is the whole point.\n\nDoes sharing the bed cost you sleep? Less than you'd think. A Mayo Clinic study tracked 40 adults for a week: sleep efficiency was 83% with the dog in the room, and about 80% with the dog on the bed (Patel et al., Mayo Clinic Proceedings, 2017). Small study, no control group, but the message is clear: most people sleep fine.\n\nOur extra layer: heat-seeking is a tell. Dogs that hunt warmth all winter lean Vata in Ayurvedic terms, and warm bedding, warm food and a fixed routine suit them.\n\nGive them their own bed if they growl or stiffen when you reclaim the spot (that's a vet and trainer conversation, never punishment), if they're small or senior and leaping off a tall bed, or if your allergies flare at night. Otherwise: up by invitation, and the spot stays yours.\n\nWhose dog does this every morning? Tag them. And tell us: do you win the spot back?\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet",
+   "facebook": "Every single morning. You stand up, and he slides into your warm spot before your feet hit the floor.\n\nMost of us were told that's dominance, a dog trying to be the boss of the bed. The American Kennel Club calls that an urban legend. The truth is softer and a lot more interesting.\n\nThe spot you left is the warmest, most you-smelling place in the house. Staying close to your heat and your scent is the whole point.\n\nDoes sharing the bed cost you sleep? Less than you'd think. A Mayo Clinic study tracked 40 adults for a week: sleep efficiency was 83% with the dog in the room, and about 80% with the dog on the bed (Patel et al., Mayo Clinic Proceedings, 2017). Small study, no control group, but the message is clear: most people sleep fine.\n\nOur extra layer: heat-seeking is a tell. Dogs that hunt warmth all winter lean Vata in Ayurvedic terms, and warm bedding, warm food and a fixed routine suit them.\n\nGive them their own bed if they growl or stiffen when you reclaim the spot (that's a vet and trainer conversation, never punishment), if they're small or senior and leaping off a tall bed, or if your allergies flare at night. Otherwise: up by invitation, and the spot stays yours.\n\nWhose dog does this every morning? Tag them. And tell us: do you win the spot back?\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
+  },
+  "sources": [
+   "American Kennel Club: Should My Dog Sleep With Me? (dominance as urban legend)",
+   "Patel SI et al., Mayo Clinic Proceedings 2017: 40 adults, sleep efficiency 83% vs 80%"
+  ],
+  "instagram": {
+   "ayurpetofficial": "17841472849482734",
+   "ayurpet_global": "17841465833626335"
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-01.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-02.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-03.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-04.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-05.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-06.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-07.png"
+  ],
+  "github_repo": "care-rgb/ayurpet-social",
+  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-03/Captions%20-%20W1-03.docx",
+  "version": "v3 (Week 1, new standard)",
+  "status": "READY",
+  "accounts": [
+   "ayurpetofficial",
+   "facebook"
+  ],
+  "grid": "photo"
+ },
+ {
+  "day": 0,
+  "date": "2026-10-30",
+  "post_time_ist": "19:00",
+  "title": "Global batch (Western homes, no Diwali)",
+  "slides": 0,
+  "files": {
+   "A_drawn": []
+  },
+  "captions": {
+   "ayurpet_global": "In production."
+  },
+  "sources": [],
+  "status": "HOLD: global batch in production",
+  "accounts": [
+   "ayurpet_global"
+  ]
  },
  {
   "day": 0,
@@ -410,6 +740,75 @@
    "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/C_photo/p5/slide-06.jpg",
    "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/C_photo/p5/slide-07.jpg",
    "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/C_photo/p5/slide-08.jpg"
+  ]
+ },
+ {
+  "day": 0,
+  "date": "2026-10-31",
+  "post_time_ist": "19:00",
+  "title": "Global batch (Western homes, no Diwali)",
+  "slides": 0,
+  "files": {
+   "A_drawn": []
+  },
+  "captions": {
+   "ayurpet_global": "In production."
+  },
+  "sources": [],
+  "status": "HOLD: global batch in production",
+  "accounts": [
+   "ayurpet_global"
+  ]
+ },
+ {
+  "day": 2,
+  "week": 1,
+  "date": "2026-10-31",
+  "post_time_ist": "19:00",
+  "title": "Sleeping position weather report",
+  "folder": "W1-02 - Mon 19 Oct - Sleeping position weather report",
+  "slides": 7,
+  "files": {
+   "A_drawn": [
+    "A_drawn/w1-02/slide-01.png",
+    "A_drawn/w1-02/slide-02.png",
+    "A_drawn/w1-02/slide-03.png",
+    "A_drawn/w1-02/slide-04.png",
+    "A_drawn/w1-02/slide-05.png",
+    "A_drawn/w1-02/slide-06.png",
+    "A_drawn/w1-02/slide-07.png"
+   ]
+  },
+  "captions": {
+   "ayurpetofficial_india": "Look at them right now. The way they're lying down is a weather report.\n\nBelly up, legs everywhere: they're releasing heat. Paw pads and the belly carry little fur, so exposing them cools the body fast, and it also says \"I feel safe here\" (American Kennel Club, Dr Jerry Klein). The tight donut keeps heat in and guards the belly; you'll see more of it on cold nights. Flat out with legs behind is the ready position puppies and high-drive dogs love. Curled against you is warmth plus trust.\n\nThe Ayurvedic layer: position follows constitution. Dogs who hunt warmth all winter lean Vata. Dogs who shed heat on the cool floor lean Pitta. The long, deep sleepers lean Kapha. Watch for a week before you decide.\n\nWhen sleep is a symptom: a sudden change in how, where or how much they sleep, heavy panting or drooling at rest, loud new snoring or laboured breathing, or far more or less than the 12 to 14 hours most adult dogs sleep. Those are vet calls, not comment-section questions.\n\nWhich position is yours right now? Comment 1, 2, 3 or 4. Bonus points for a sleepy photo.\n\nSend this to the friend whose dog sleeps upside down.\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
+   "ayurpet_global": "Look at them right now. The way they're lying down is a weather report.\n\nBelly up, legs everywhere: they're releasing heat. Paw pads and the belly carry little fur, so exposing them cools the body fast, and it also says \"I feel safe here\" (American Kennel Club, Dr Jerry Klein). The tight donut keeps heat in and guards the belly; you'll see more of it on cold nights. Flat out with legs behind is the ready position puppies and high-drive dogs love. Curled against you is warmth plus trust.\n\nThe Ayurvedic layer: position follows constitution. Dogs who hunt warmth all winter lean Vata. Dogs who shed heat on the cool floor lean Pitta. The long, deep sleepers lean Kapha. Watch for a week before you decide.\n\nWhen sleep is a symptom: a sudden change in how, where or how much they sleep, heavy panting or drooling at rest, loud new snoring or laboured breathing, or far more or less than the 12 to 14 hours most adult dogs sleep. Those are vet calls, not comment-section questions.\n\nWhich position is yours right now? Comment 1, 2, 3 or 4. Bonus points for a sleepy photo.\n\nSend this to the friend whose dog sleeps upside down.\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet",
+   "facebook": "Look at them right now. The way they're lying down is a weather report.\n\nBelly up, legs everywhere: they're releasing heat. Paw pads and the belly carry little fur, so exposing them cools the body fast, and it also says \"I feel safe here\" (American Kennel Club, Dr Jerry Klein). The tight donut keeps heat in and guards the belly; you'll see more of it on cold nights. Flat out with legs behind is the ready position puppies and high-drive dogs love. Curled against you is warmth plus trust.\n\nThe Ayurvedic layer: position follows constitution. Dogs who hunt warmth all winter lean Vata. Dogs who shed heat on the cool floor lean Pitta. The long, deep sleepers lean Kapha. Watch for a week before you decide.\n\nWhen sleep is a symptom: a sudden change in how, where or how much they sleep, heavy panting or drooling at rest, loud new snoring or laboured breathing, or far more or less than the 12 to 14 hours most adult dogs sleep. Those are vet calls, not comment-section questions.\n\nWhich position is yours right now? Comment 1, 2, 3 or 4. Bonus points for a sleepy photo.\n\nSend this to the friend whose dog sleeps upside down.\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
+  },
+  "sources": [
+   "American Kennel Club, Dr Jerry Klein (AKC Chief Veterinarian): why dogs sleep belly up",
+   "VCA Animal Hospitals: sleep changes that warrant a vet visit",
+   "R. Silver DVM (2007): constitutional reading in dogs"
+  ],
+  "instagram": {
+   "ayurpetofficial": "17841472849482734",
+   "ayurpet_global": "17841465833626335"
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-01.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-02.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-03.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-04.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-05.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-06.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-07.png"
+  ],
+  "github_repo": "care-rgb/ayurpet-social",
+  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-02/Captions%20-%20W1-02.docx",
+  "version": "v3 (Week 1, new standard)",
+  "status": "READY",
+  "accounts": [
+   "ayurpetofficial",
+   "facebook"
   ]
  },
  {
@@ -528,262 +927,6 @@
   "sources": [],
   "status": "HOLD: Phase 2, planned after the 2 Nov review",
   "campaign": "Diwali: Care for Pets",
-  "accounts": [
-   "ayurpetofficial",
-   "facebook"
-  ]
- },
- {
-  "day": 4,
-  "week": 1,
-  "date": "2026-11-17",
-  "post_time_ist": "19:00",
-  "title": "Turmeric works, the dose does not",
-  "folder": "W1-04 - Wed 21 Oct - Turmeric works the dose does not",
-  "slides": 8,
-  "files": {
-   "A_drawn": [
-    "A_drawn/w1-04/slide-01.png",
-    "A_drawn/w1-04/slide-02.png",
-    "A_drawn/w1-04/slide-03.png",
-    "A_drawn/w1-04/slide-04.png",
-    "A_drawn/w1-04/slide-05.png",
-    "A_drawn/w1-04/slide-06.png",
-    "A_drawn/w1-04/slide-07.png",
-    "A_drawn/w1-04/slide-08.png"
-   ]
-  },
-  "captions": {
-   "ayurpetofficial_india": "Turmeric is the most searched herb for dogs, and most of it is wasted.\n\nHere's what the research actually says, in five lines.\n\n1. Curcumin is real. Turmeric's curcuminoids are anti-inflammatory and antioxidant; that much is well established in people and in the lab (Int J Mol Sci, 2023 review).\n2. Almost none gets absorbed. Curcumin barely dissolves in water and is broken down fast. On its own, very little reaches the blood.\n3. A pinch of haldi in food mostly passes through. Kitchen turmeric is only a few percent curcumin, and it's dry and unpaired.\n4. What helps: fat, pepper, extract. Curcumin is fat-soluble, and piperine from black pepper raised absorption about three-fold in studies.\n5. The dog trial: promising, not magic. In a placebo-controlled trial (Innes et al., Veterinary Record, 2003), vets rated dogs on a turmeric extract as improved, while the force-plate measure didn't change.\n\nAsk your vet first if your dog is on blood thinners, has surgery coming up, or has gallbladder or liver problems. High doses can upset the stomach. Dose by body weight, never by the spoon.\n\nThis is why Hip-O-Joint+ is a liquid: a 95% curcuminoid extract paired with boswellia, in drops you dose by weight. It supports joint comfort and mobility; it is not a treatment, and your vet should know about everything your dog takes.\n\nWhich form have you been using? Tell us below, and send this to the golden-paste friend before they buy another jar.\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
-   "ayurpet_global": "Turmeric is the most searched herb for dogs, and most of it is wasted.\n\nHere's what the research actually says, in five lines.\n\n1. Curcumin is real. Turmeric's curcuminoids are anti-inflammatory and antioxidant; that much is well established in people and in the lab (Int J Mol Sci, 2023 review).\n2. Almost none gets absorbed. Curcumin barely dissolves in water and is broken down fast. On its own, very little reaches the blood.\n3. A pinch of haldi in food mostly passes through. Kitchen turmeric is only a few percent curcumin, and it's dry and unpaired.\n4. What helps: fat, pepper, extract. Curcumin is fat-soluble, and piperine from black pepper raised absorption about three-fold in studies.\n5. The dog trial: promising, not magic. In a placebo-controlled trial (Innes et al., Veterinary Record, 2003), vets rated dogs on a turmeric extract as improved, while the force-plate measure didn't change.\n\nAsk your vet first if your dog is on blood thinners, has surgery coming up, or has gallbladder or liver problems. High doses can upset the stomach. Dose by body weight, never by the spoon.\n\nThis is why Hip-O-Joint+ is a liquid: a 95% curcuminoid extract paired with boswellia, in drops you dose by weight. It supports joint comfort and mobility; it is not a treatment, and your vet should know about everything your dog takes.\n\nWhich form have you been using? Tell us below, and send this to the golden-paste friend before they buy another jar.\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet",
-   "facebook": "Turmeric is the most searched herb for dogs, and most of it is wasted.\n\nHere's what the research actually says, in five lines.\n\n1. Curcumin is real. Turmeric's curcuminoids are anti-inflammatory and antioxidant; that much is well established in people and in the lab (Int J Mol Sci, 2023 review).\n2. Almost none gets absorbed. Curcumin barely dissolves in water and is broken down fast. On its own, very little reaches the blood.\n3. A pinch of haldi in food mostly passes through. Kitchen turmeric is only a few percent curcumin, and it's dry and unpaired.\n4. What helps: fat, pepper, extract. Curcumin is fat-soluble, and piperine from black pepper raised absorption about three-fold in studies.\n5. The dog trial: promising, not magic. In a placebo-controlled trial (Innes et al., Veterinary Record, 2003), vets rated dogs on a turmeric extract as improved, while the force-plate measure didn't change.\n\nAsk your vet first if your dog is on blood thinners, has surgery coming up, or has gallbladder or liver problems. High doses can upset the stomach. Dose by body weight, never by the spoon.\n\nThis is why Hip-O-Joint+ is a liquid: a 95% curcuminoid extract paired with boswellia, in drops you dose by weight. It supports joint comfort and mobility; it is not a treatment, and your vet should know about everything your dog takes.\n\nWhich form have you been using? Tell us below, and send this to the golden-paste friend before they buy another jar.\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
-  },
-  "sources": [
-   "Int J Mol Sci 2023 review: curcumin bioavailability, metabolism, piperine effect",
-   "Innes JF et al., Veterinary Record 2003: randomised placebo-controlled trial of a turmeric extract in dogs with osteoarthritis",
-   "AyurPet product truth file: Hip-O-Joint+ contains turmeric 95% curcuminoids and boswellia"
-  ],
-  "instagram": {
-   "ayurpetofficial": "17841472849482734",
-   "ayurpet_global": "17841465833626335"
-  },
-  "github_urls": [
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-01.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-02.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-03.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-04.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-05.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-06.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-07.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-04/slide-08.png"
-  ],
-  "github_repo": "care-rgb/ayurpet-social",
-  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-04/Captions%20-%20W1-04.docx",
-  "version": "v3 (Week 1, new standard)",
-  "status": "READY",
-  "accounts": [
-   "ayurpetofficial",
-   "facebook"
-  ]
- },
- {
-  "day": 3,
-  "week": 1,
-  "date": "2026-11-20",
-  "post_time_ist": "19:00",
-  "title": "He steals your warm spot",
-  "folder": "W1-03 - Tue 20 Oct - He steals your warm spot",
-  "slides": 7,
-  "files": {
-   "A_drawn": [
-    "A_drawn/w1-03/slide-01.png",
-    "A_drawn/w1-03/slide-02.png",
-    "A_drawn/w1-03/slide-03.png",
-    "A_drawn/w1-03/slide-04.png",
-    "A_drawn/w1-03/slide-05.png",
-    "A_drawn/w1-03/slide-06.png",
-    "A_drawn/w1-03/slide-07.png"
-   ]
-  },
-  "captions": {
-   "ayurpetofficial_india": "Every single morning. You stand up, and he slides into your warm spot before your feet hit the floor.\n\nMost of us were told that's dominance, a dog trying to be the boss of the bed. The American Kennel Club calls that an urban legend. The truth is softer and a lot more interesting.\n\nThe spot you left is the warmest, most you-smelling place in the house. Staying close to your heat and your scent is the whole point.\n\nDoes sharing the bed cost you sleep? Less than you'd think. A Mayo Clinic study tracked 40 adults for a week: sleep efficiency was 83% with the dog in the room, and about 80% with the dog on the bed (Patel et al., Mayo Clinic Proceedings, 2017). Small study, no control group, but the message is clear: most people sleep fine.\n\nOur extra layer: heat-seeking is a tell. Dogs that hunt warmth all winter lean Vata in Ayurvedic terms, and warm bedding, warm food and a fixed routine suit them.\n\nGive them their own bed if they growl or stiffen when you reclaim the spot (that's a vet and trainer conversation, never punishment), if they're small or senior and leaping off a tall bed, or if your allergies flare at night. Otherwise: up by invitation, and the spot stays yours.\n\nWhose dog does this every morning? Tag them. And tell us: do you win the spot back?\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
-   "ayurpet_global": "Every single morning. You stand up, and he slides into your warm spot before your feet hit the floor.\n\nMost of us were told that's dominance, a dog trying to be the boss of the bed. The American Kennel Club calls that an urban legend. The truth is softer and a lot more interesting.\n\nThe spot you left is the warmest, most you-smelling place in the house. Staying close to your heat and your scent is the whole point.\n\nDoes sharing the bed cost you sleep? Less than you'd think. A Mayo Clinic study tracked 40 adults for a week: sleep efficiency was 83% with the dog in the room, and about 80% with the dog on the bed (Patel et al., Mayo Clinic Proceedings, 2017). Small study, no control group, but the message is clear: most people sleep fine.\n\nOur extra layer: heat-seeking is a tell. Dogs that hunt warmth all winter lean Vata in Ayurvedic terms, and warm bedding, warm food and a fixed routine suit them.\n\nGive them their own bed if they growl or stiffen when you reclaim the spot (that's a vet and trainer conversation, never punishment), if they're small or senior and leaping off a tall bed, or if your allergies flare at night. Otherwise: up by invitation, and the spot stays yours.\n\nWhose dog does this every morning? Tag them. And tell us: do you win the spot back?\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet",
-   "facebook": "Every single morning. You stand up, and he slides into your warm spot before your feet hit the floor.\n\nMost of us were told that's dominance, a dog trying to be the boss of the bed. The American Kennel Club calls that an urban legend. The truth is softer and a lot more interesting.\n\nThe spot you left is the warmest, most you-smelling place in the house. Staying close to your heat and your scent is the whole point.\n\nDoes sharing the bed cost you sleep? Less than you'd think. A Mayo Clinic study tracked 40 adults for a week: sleep efficiency was 83% with the dog in the room, and about 80% with the dog on the bed (Patel et al., Mayo Clinic Proceedings, 2017). Small study, no control group, but the message is clear: most people sleep fine.\n\nOur extra layer: heat-seeking is a tell. Dogs that hunt warmth all winter lean Vata in Ayurvedic terms, and warm bedding, warm food and a fixed routine suit them.\n\nGive them their own bed if they growl or stiffen when you reclaim the spot (that's a vet and trainer conversation, never punishment), if they're small or senior and leaping off a tall bed, or if your allergies flare at night. Otherwise: up by invitation, and the spot stays yours.\n\nWhose dog does this every morning? Tag them. And tell us: do you win the spot back?\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
-  },
-  "sources": [
-   "American Kennel Club: Should My Dog Sleep With Me? (dominance as urban legend)",
-   "Patel SI et al., Mayo Clinic Proceedings 2017: 40 adults, sleep efficiency 83% vs 80%"
-  ],
-  "instagram": {
-   "ayurpetofficial": "17841472849482734",
-   "ayurpet_global": "17841465833626335"
-  },
-  "github_urls": [
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-01.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-02.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-03.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-04.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-05.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-06.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-03/slide-07.png"
-  ],
-  "github_repo": "care-rgb/ayurpet-social",
-  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-03/Captions%20-%20W1-03.docx",
-  "version": "v3 (Week 1, new standard)",
-  "status": "READY",
-  "accounts": [
-   "ayurpetofficial",
-   "facebook"
-  ]
- },
- {
-  "day": 2,
-  "week": 1,
-  "date": "2026-11-24",
-  "post_time_ist": "19:00",
-  "title": "Sleeping position weather report",
-  "folder": "W1-02 - Mon 19 Oct - Sleeping position weather report",
-  "slides": 7,
-  "files": {
-   "A_drawn": [
-    "A_drawn/w1-02/slide-01.png",
-    "A_drawn/w1-02/slide-02.png",
-    "A_drawn/w1-02/slide-03.png",
-    "A_drawn/w1-02/slide-04.png",
-    "A_drawn/w1-02/slide-05.png",
-    "A_drawn/w1-02/slide-06.png",
-    "A_drawn/w1-02/slide-07.png"
-   ]
-  },
-  "captions": {
-   "ayurpetofficial_india": "Look at them right now. The way they're lying down is a weather report.\n\nBelly up, legs everywhere: they're releasing heat. Paw pads and the belly carry little fur, so exposing them cools the body fast, and it also says \"I feel safe here\" (American Kennel Club, Dr Jerry Klein). The tight donut keeps heat in and guards the belly; you'll see more of it on cold nights. Flat out with legs behind is the ready position puppies and high-drive dogs love. Curled against you is warmth plus trust.\n\nThe Ayurvedic layer: position follows constitution. Dogs who hunt warmth all winter lean Vata. Dogs who shed heat on the cool floor lean Pitta. The long, deep sleepers lean Kapha. Watch for a week before you decide.\n\nWhen sleep is a symptom: a sudden change in how, where or how much they sleep, heavy panting or drooling at rest, loud new snoring or laboured breathing, or far more or less than the 12 to 14 hours most adult dogs sleep. Those are vet calls, not comment-section questions.\n\nWhich position is yours right now? Comment 1, 2, 3 or 4. Bonus points for a sleepy photo.\n\nSend this to the friend whose dog sleeps upside down.\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
-   "ayurpet_global": "Look at them right now. The way they're lying down is a weather report.\n\nBelly up, legs everywhere: they're releasing heat. Paw pads and the belly carry little fur, so exposing them cools the body fast, and it also says \"I feel safe here\" (American Kennel Club, Dr Jerry Klein). The tight donut keeps heat in and guards the belly; you'll see more of it on cold nights. Flat out with legs behind is the ready position puppies and high-drive dogs love. Curled against you is warmth plus trust.\n\nThe Ayurvedic layer: position follows constitution. Dogs who hunt warmth all winter lean Vata. Dogs who shed heat on the cool floor lean Pitta. The long, deep sleepers lean Kapha. Watch for a week before you decide.\n\nWhen sleep is a symptom: a sudden change in how, where or how much they sleep, heavy panting or drooling at rest, loud new snoring or laboured breathing, or far more or less than the 12 to 14 hours most adult dogs sleep. Those are vet calls, not comment-section questions.\n\nWhich position is yours right now? Comment 1, 2, 3 or 4. Bonus points for a sleepy photo.\n\nSend this to the friend whose dog sleeps upside down.\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet",
-   "facebook": "Look at them right now. The way they're lying down is a weather report.\n\nBelly up, legs everywhere: they're releasing heat. Paw pads and the belly carry little fur, so exposing them cools the body fast, and it also says \"I feel safe here\" (American Kennel Club, Dr Jerry Klein). The tight donut keeps heat in and guards the belly; you'll see more of it on cold nights. Flat out with legs behind is the ready position puppies and high-drive dogs love. Curled against you is warmth plus trust.\n\nThe Ayurvedic layer: position follows constitution. Dogs who hunt warmth all winter lean Vata. Dogs who shed heat on the cool floor lean Pitta. The long, deep sleepers lean Kapha. Watch for a week before you decide.\n\nWhen sleep is a symptom: a sudden change in how, where or how much they sleep, heavy panting or drooling at rest, loud new snoring or laboured breathing, or far more or less than the 12 to 14 hours most adult dogs sleep. Those are vet calls, not comment-section questions.\n\nWhich position is yours right now? Comment 1, 2, 3 or 4. Bonus points for a sleepy photo.\n\nSend this to the friend whose dog sleeps upside down.\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
-  },
-  "sources": [
-   "American Kennel Club, Dr Jerry Klein (AKC Chief Veterinarian): why dogs sleep belly up",
-   "VCA Animal Hospitals: sleep changes that warrant a vet visit",
-   "R. Silver DVM (2007): constitutional reading in dogs"
-  ],
-  "instagram": {
-   "ayurpetofficial": "17841472849482734",
-   "ayurpet_global": "17841465833626335"
-  },
-  "github_urls": [
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-01.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-02.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-03.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-04.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-05.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-06.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-02/slide-07.png"
-  ],
-  "github_repo": "care-rgb/ayurpet-social",
-  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-02/Captions%20-%20W1-02.docx",
-  "version": "v3 (Week 1, new standard)",
-  "status": "READY",
-  "accounts": [
-   "ayurpetofficial",
-   "ayurpet_global",
-   "facebook"
-  ]
- },
- {
-  "day": 6,
-  "week": 1,
-  "date": "2026-11-27",
-  "post_time_ist": "19:00",
-  "title": "Caring for an old dog",
-  "folder": "W1-06 - Fri 23 Oct - Caring for an old dog",
-  "slides": 7,
-  "files": {
-   "A_drawn": [
-    "A_drawn/w1-06/slide-01.png",
-    "A_drawn/w1-06/slide-02.png",
-    "A_drawn/w1-06/slide-03.png",
-    "A_drawn/w1-06/slide-04.png",
-    "A_drawn/w1-06/slide-05.png",
-    "A_drawn/w1-06/slide-06.png",
-    "A_drawn/w1-06/slide-07.png"
-   ]
-  },
-  "captions": {
-   "ayurpetofficial_india": "If you've been quietly exhausted lately, this one is for you.\n\nCaring for an old dog is tiring, and science finally named it: caregiver burden. A Kent State University study (Spitznagel et al., Veterinary Record, 2017) surveyed 238 owners and found that people caring for a pet with a chronic or terminal illness reported more stress, anxiety and depression, and a lower quality of life, than owners of healthy pets. You are not weak, and you are not imagining it.\n\nWhy it adds up: night checks, pills, slow laps around the block. Each one is small. Together they are a second job that nobody sees, including you.\n\nThe trap: \"just old age\" hides pain. Slower on stairs, fussier with food, flinching when touched. Senior care guidelines (AAHA) are clear that many age-related changes are pain, and pain can be treated. Tell your vet exactly what the daily routine costs; they can only treat what you report.\n\nThe lens we add: old age is a Vata season in Ayurveda. Dryness, stiffness and restlessness rise with age. Warmth, routine and gentle movement are the daily medicine.\n\nTry this tonight: write the routine on one page. Circle the task that drains you most. Ask one person to take it for a week.\n\nComfortable joints are part of the answer, and that is what Hip-O-Joint+ (boswellia and turmeric extract, in drops) is for. It supports joint comfort and mobility; it isn't a treatment, and your vet stays in charge.\n\nWhat does your old dog's day look like? Tell us below, and send this to someone caring for an old dog. If you feel you cannot cope, please talk to your doctor.\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet #SeniorDog",
-   "ayurpet_global": "If you've been quietly exhausted lately, this one is for you.\n\nCaring for an old dog is tiring, and science finally named it: caregiver burden. A Kent State University study (Spitznagel et al., Veterinary Record, 2017) surveyed 238 owners and found that people caring for a pet with a chronic or terminal illness reported more stress, anxiety and depression, and a lower quality of life, than owners of healthy pets. You are not weak, and you are not imagining it.\n\nWhy it adds up: night checks, pills, slow laps around the block. Each one is small. Together they are a second job that nobody sees, including you.\n\nThe trap: \"just old age\" hides pain. Slower on stairs, fussier with food, flinching when touched. Senior care guidelines (AAHA) are clear that many age-related changes are pain, and pain can be treated. Tell your vet exactly what the daily routine costs; they can only treat what you report.\n\nThe lens we add: old age is a Vata season in Ayurveda. Dryness, stiffness and restlessness rise with age. Warmth, routine and gentle movement are the daily medicine.\n\nTry this tonight: write the routine on one page. Circle the task that drains you most. Ask one person to take it for a week.\n\nComfortable joints are part of the answer, and that is what Hip-O-Joint+ (boswellia and turmeric extract, in drops) is for. It supports joint comfort and mobility; it isn't a treatment, and your vet stays in charge.\n\nWhat does your old dog's day look like? Tell us below, and send this to someone caring for an old dog. If you feel you cannot cope, please talk to your doctor.\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet #SeniorDog",
-   "facebook": "If you've been quietly exhausted lately, this one is for you.\n\nCaring for an old dog is tiring, and science finally named it: caregiver burden. A Kent State University study (Spitznagel et al., Veterinary Record, 2017) surveyed 238 owners and found that people caring for a pet with a chronic or terminal illness reported more stress, anxiety and depression, and a lower quality of life, than owners of healthy pets. You are not weak, and you are not imagining it.\n\nWhy it adds up: night checks, pills, slow laps around the block. Each one is small. Together they are a second job that nobody sees, including you.\n\nThe trap: \"just old age\" hides pain. Slower on stairs, fussier with food, flinching when touched. Senior care guidelines (AAHA) are clear that many age-related changes are pain, and pain can be treated. Tell your vet exactly what the daily routine costs; they can only treat what you report.\n\nThe lens we add: old age is a Vata season in Ayurveda. Dryness, stiffness and restlessness rise with age. Warmth, routine and gentle movement are the daily medicine.\n\nTry this tonight: write the routine on one page. Circle the task that drains you most. Ask one person to take it for a week.\n\nComfortable joints are part of the answer, and that is what Hip-O-Joint+ (boswellia and turmeric extract, in drops) is for. It supports joint comfort and mobility; it isn't a treatment, and your vet stays in charge.\n\nWhat does your old dog's day look like? Tell us below, and send this to someone caring for an old dog. If you feel you cannot cope, please talk to your doctor.\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet #SeniorDog"
-  },
-  "sources": [
-   "Spitznagel MB et al., Veterinary Record 2017 (Kent State University): caregiver burden in owners of a sick companion animal, n=238",
-   "AAHA Senior Care Guidelines for Dogs and Cats (2023): pain assessment in ageing dogs",
-   "AyurPet product truth file: Hip-O-Joint+"
-  ],
-  "instagram": {
-   "ayurpetofficial": "17841472849482734",
-   "ayurpet_global": "17841465833626335"
-  },
-  "github_urls": [
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-01.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-02.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-03.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-04.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-05.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-06.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-06/slide-07.png"
-  ],
-  "github_repo": "care-rgb/ayurpet-social",
-  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-06/Captions%20-%20W1-06.docx",
-  "version": "v3 (Week 1, new standard)",
-  "status": "READY",
-  "accounts": [
-   "ayurpetofficial",
-   "facebook"
-  ]
- },
- {
-  "day": 7,
-  "week": 1,
-  "date": "2026-12-01",
-  "post_time_ist": "19:00",
-  "title": "That face is not guilt",
-  "folder": "W1-07 - Sat 24 Oct - That face is not guilt",
-  "slides": 7,
-  "files": {
-   "A_drawn": [
-    "A_drawn/w1-07/slide-01.png",
-    "A_drawn/w1-07/slide-02.png",
-    "A_drawn/w1-07/slide-03.png",
-    "A_drawn/w1-07/slide-04.png",
-    "A_drawn/w1-07/slide-05.png",
-    "A_drawn/w1-07/slide-06.png",
-    "A_drawn/w1-07/slide-07.png"
-   ]
-  },
-  "captions": {
-   "ayurpetofficial_india": "Before anyone in the family says \"bad dog\", look at the face again.\n\nThat face isn't guilt. It's fear. Dogs say \"I'm uncomfortable\" quietly, long before they growl. Here are the five whispers (American Kennel Club; Cornell Riney Canine Health Center).\n\nWhale eye: the whites of the eyes showing. Calmly give space and remove what's bothering them.\nThe lip lick: a quick lick with no food around is often a stress signal, not hunger.\nThe stress yawn: a yawn in a tense moment (vet, guests, crackers) means \"I'm uneasy\", not \"I'm sleepy\".\nEars back, tail tucked: that's fear. Move them away from the trigger. Never scold a frightened dog.\nThe stress ladder: lip lick, yawn, look away. Then whale eye, ears back, tail tucked. Then stiff body, growl. Then snap or bite. Every rung was a request to stop.\n\nNever punish a growl. It is a request for space, and punishing it teaches a dog to skip the warning next time.\n\nWhich of these have you seen at home? Tell us below. Seeing them often? Talk to your vet or a qualified trainer.\n\nSend this to a new dog parent. Save the ladder.\n\nIf you're not following @ayurpetofficial yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet #DogBodyLanguage",
-   "ayurpet_global": "Before anyone in the family says \"bad dog\", look at the face again.\n\nThat face isn't guilt. It's fear. Dogs say \"I'm uncomfortable\" quietly, long before they growl. Here are the five whispers (American Kennel Club; Cornell Riney Canine Health Center).\n\nWhale eye: the whites of the eyes showing. Calmly give space and remove what's bothering them.\nThe lip lick: a quick lick with no food around is often a stress signal, not hunger.\nThe stress yawn: a yawn in a tense moment (vet, guests, crackers) means \"I'm uneasy\", not \"I'm sleepy\".\nEars back, tail tucked: that's fear. Move them away from the trigger. Never scold a frightened dog.\nThe stress ladder: lip lick, yawn, look away. Then whale eye, ears back, tail tucked. Then stiff body, growl. Then snap or bite. Every rung was a request to stop.\n\nNever punish a growl. It is a request for space, and punishing it teaches a dog to skip the warning next time.\n\nWhich of these have you seen at home? Tell us below. Seeing them often? Talk to your vet or a qualified trainer.\n\nSend this to a new dog parent. Save the ladder.\n\nIf you're not following @ayurpet_global yet, you're still reading your dog one symptom at a time. If you are, you already see the whole dog.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParents #HolisticDogCare #DogWellness #DogBehavior #AyurPet #DogBodyLanguage",
-   "facebook": "Before anyone in the family says \"bad dog\", look at the face again.\n\nThat face isn't guilt. It's fear. Dogs say \"I'm uncomfortable\" quietly, long before they growl. Here are the five whispers (American Kennel Club; Cornell Riney Canine Health Center).\n\nWhale eye: the whites of the eyes showing. Calmly give space and remove what's bothering them.\nThe lip lick: a quick lick with no food around is often a stress signal, not hunger.\nThe stress yawn: a yawn in a tense moment (vet, guests, crackers) means \"I'm uneasy\", not \"I'm sleepy\".\nEars back, tail tucked: that's fear. Move them away from the trigger. Never scold a frightened dog.\nThe stress ladder: lip lick, yawn, look away. Then whale eye, ears back, tail tucked. Then stiff body, growl. Then snap or bite. Every rung was a request to stop.\n\nNever punish a growl. It is a request for space, and punishing it teaches a dog to skip the warning next time.\n\nWhich of these have you seen at home? Tell us below. Seeing them often? Talk to your vet or a qualified trainer.\n\nSend this to a new dog parent. Save the ladder.\n\nFollow AyurPet for a new piece of pet wisdom every evening at 7.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet #DogBodyLanguage"
-  },
-  "sources": [
-   "American Kennel Club: how to read dog body language (whale eye, lip licking, yawning)",
-   "Cornell Riney Canine Health Center: signs of stress and the ladder of aggression"
-  ],
-  "instagram": {
-   "ayurpetofficial": "17841472849482734",
-   "ayurpet_global": "17841465833626335"
-  },
-  "github_urls": [
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-01.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-02.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-03.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-04.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-05.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-06.png",
-   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/w1-07/slide-07.png"
-  ],
-  "github_repo": "care-rgb/ayurpet-social",
-  "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-07/Captions%20-%20W1-07.docx",
-  "version": "v3 (Week 1, new standard)",
-  "status": "READY",
   "accounts": [
    "ayurpetofficial",
    "facebook"
