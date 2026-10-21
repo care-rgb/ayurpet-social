@@ -291,21 +291,22 @@
   "format": "Feed post + WhatsApp",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Comment to enter",
   "brief": "Prompt: What's one thing you do every Diwali to make your dog feel loved? Invite safe, creative tips. Design to be fun and engaging; ads will run on this post. Top comment gets a hamper. CTA: follow AyurPet, tag a friend, drop a comment.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: not designed yet. Needs: hamper contents, closing date, winner rule, then slides on GitHub and status READY by 18:00 IST on 22 Oct. AyurPet can build it on request.",
+  "status": "HOLD: AyurPet drafts; slides to GitHub and READY after founder approval.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-22",
-  "dependencies": "Hamper contents, prize count and closing date (Karan); contest T&Cs line in the caption; WhatsApp broadcast copy (Meliya)."
+  "dependencies": "Hamper contents, prize count and closing date (Karan); contest T&Cs line in the caption; WhatsApp broadcast copy (Meliya).",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -331,7 +332,7 @@
    "facebook": "\"Don't comfort him, you'll spoil him.\" 🐾\n\nIf you've heard this every Diwali, you're not alone. We checked what vets actually say about the 5 lines families say most. Swipe, then send it to the one who says #1. With love, obviously.\n\nWhich one does your family say?\n\nGentle care ideas, not veterinary advice. If your dog panics every year, please see your vet before Diwali. Sources: PetMD, PDSA, WSU Veterinary Hospital. Images made with AI.\n\n#UnkiBhiDiwali #DiwaliWithPets #DogParentsIndia #IndieDogs #FireworkAnxiety #AyurPet"
   },
   "sources": [],
-  "status": "HOLD: designed, waiting for Karan to approve",
+  "status": "HOLD: designed, waiting for founder approval",
   "campaign": "Diwali: Care for Pets",
   "accounts": [
    "ayurpetofficial",
@@ -351,7 +352,8 @@
   "kind": "feed",
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-20",
-  "note": "Serves the sheet's \"Diwali mistakes: save and share\" carousel (sheet date 20 Oct, missed because Dussehra took the slot). Myth vs vet-advice format = the mistakes to avoid. Designed; posts only once Karan approves."
+  "note": "Serves the sheet's \"Diwali mistakes: save and share\" carousel (sheet date 20 Oct, missed because Dussehra took the slot). Myth vs vet-advice format = the mistakes to avoid. Designed; posts only once Karan approves.",
+  "owner": "AyurPet (Claude drafts; founder approves)"
  },
  {
   "day": 0,
@@ -362,21 +364,22 @@
   "format": "Instagram Stories",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Answer community questions",
   "brief": "Collect and respond to pet-care questions; refer medical questions to a veterinarian. Meliya manages responses and posting.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: stories are posted by the team in the app, not by the job.",
+  "status": "HOLD: AyurPet drafts the story frames and copy; posting stories by API is to be built, until then the team posts them from the app.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-23",
-  "dependencies": "Question box story the day before (Meliya)."
+  "dependencies": "Question box story the day before (Meliya).",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -387,21 +390,22 @@
   "format": "Feed post",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Send your photos",
   "brief": "Launch the photo contest. Deadline 9 Nov (sheet, 31 Oct row). Confirm submission method, prize and consent terms first.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: not designed yet. Needs submission method (DM, WhatsApp or hashtag), prize, consent line; then slides on GitHub and READY.",
+  "status": "HOLD: AyurPet drafts; slides to GitHub and READY after founder approval.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-24",
-  "dependencies": "Submission method, prize, consent terms (Karan)."
+  "dependencies": "Submission method, prize, consent terms (Karan).",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -412,21 +416,22 @@
   "format": "AI Reel",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Radhika / Mehran",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Humorous festive chaos",
   "brief": "Pet's-eye-view humorous video; script and edit approval required.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: in production (Radhika / Mehran). Posted by the team or added to reels.json once the file and caption exist.",
+  "status": "HOLD: AyurPet to produce (Flow video or drawn carousel fallback); founder approves the cut before it goes READY.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-25",
-  "dependencies": "Script approval (Karan), final edit."
+  "dependencies": "Script approval (Karan), final edit.",
+  "team_owner_in_sheet": "Radhika / Mehran"
  },
  {
   "day": 0,
@@ -452,7 +457,7 @@
    "facebook": "Every pet parent on Diwali night is one of these 6. Be honest 🐾\n\nTag the one you'll be this year. Whichever you are, start the den this week, so it's theirs by Diwali.\n\nImages made with AI.\n\n#UnkiBhiDiwali #PetParentsOfIndia #DiwaliWithPets #DogMom #DogDad #AyurPet"
   },
   "sources": [],
-  "status": "HOLD: designed, waiting for Karan to approve",
+  "status": "HOLD: designed, waiting for founder approval",
   "campaign": "Diwali: Care for Pets",
   "accounts": [
    "ayurpetofficial",
@@ -470,7 +475,8 @@
    "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/C_photo/p4/slide-08.jpg"
   ],
   "kind": "feed",
-  "note": "Moved from 24 Oct (that slot is now the Best-Dressed contest launch). Identity humour carousel; designed; posts only once Karan approves."
+  "note": "Moved from 24 Oct (that slot is now the Best-Dressed contest launch). Identity humour carousel; designed; posts only once Karan approves.",
+  "owner": "AyurPet (Claude drafts; founder approves)"
  },
  {
   "day": 0,
@@ -481,20 +487,21 @@
   "format": "Instagram Stories",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Submit your entry",
   "brief": "Remind followers how to submit photos and enter the contest. Use the Add Yours sticker.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: stories are posted by the team in the app.",
+  "status": "HOLD: AyurPet drafts the story frames and copy; posting stories by API is to be built, until then the team posts them from the app.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
-  "sheet_date": "2026-10-26"
+  "sheet_date": "2026-10-26",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 9,
@@ -556,20 +563,21 @@
   "format": "Carousel",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Keep dressing pet-safe",
   "brief": "Comfortable, pet-safe festive dressing guidance (fit, heat, no loose ties or beads, short wear time, watch for stress signs).",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: not designed yet. AyurPet can research and build it (2 to 3 sources) on request; otherwise Karan designs. Slides on GitHub + READY by 18:00 IST.",
+  "status": "HOLD: AyurPet drafts; slides to GitHub and READY after founder approval.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
-  "sheet_date": "2026-10-27"
+  "sheet_date": "2026-10-27",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 10,
@@ -628,21 +636,22 @@
   "format": "Product creative",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Meliya",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "CoolCalm + Ashwagandha",
   "brief": "Promote the existing-product combination only after pricing, inventory and claims are approved. Approved product claims only.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: waiting for pricing, inventory and claims approval (Auyon / Karan).",
+  "status": "HOLD: AyurPet drafts from Shopify prices, stock and the product truth file; founder approves claims before READY.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-28",
-  "dependencies": "Combo price, stock, approved claims, product photos."
+  "dependencies": "Combo price, stock, approved claims, product photos.",
+  "team_owner_in_sheet": "Meliya"
  },
  {
   "day": 0,
@@ -653,21 +662,22 @@
   "format": "Reel",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Meliya",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Daytime preparation tips",
   "brief": "Practical preparation tips for Diwali night, checked against reliable guidance (early long walk, early dinner, den ready, ID tag on, vet number saved).",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: not made yet. Moved from 21 Oct so there is a week to shoot it; 10 nights before Diwali is still useful timing.",
+  "status": "HOLD: AyurPet to produce (Flow video or drawn carousel fallback); founder approves the cut before it goes READY.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-21",
-  "note": "Sheet date Wed 21 Oct; moved to Thu 29 Oct in the merge of 21 Oct."
+  "note": "Sheet date Wed 21 Oct; moved to Thu 29 Oct in the merge of 21 Oct.",
+  "team_owner_in_sheet": "Meliya"
  },
  {
   "day": 0,
@@ -678,21 +688,22 @@
   "format": "Instagram Stories",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Last call for entries",
   "brief": "Remind people of the comment contest deadline; exact deadline TBD.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: stories are posted by the team in the app.",
+  "status": "HOLD: AyurPet drafts the story frames and copy; posting stories by API is to be built, until then the team posts them from the app.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-29",
-  "dependencies": "Closing date from the 22 Oct launch."
+  "dependencies": "Closing date from the 22 Oct launch.",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -718,7 +729,7 @@
    "facebook": "The den trick vets recommend takes about a week to work. Diwali is 9 nights away. Here's the plan, night by night 🐾\n\nSave it, and start tonight.\n\n#UnkiBhiDiwali Hack Challenge: tell us one thing you do every Diwali to make your dog feel safe and loved. Our 3 favourite tips win an AyurPet calm hamper. Open to Indian residents, closes Thu 5 Nov 11:59 pm, winners on Sat 7 Nov.\n\nGentle care ideas, not veterinary advice. Sources: PDSA, PetMD. Images made with AI.\n\n#DiwaliWithPets #DogsOfIndia #FireworkAnxiety #AyurPet"
   },
   "sources": [],
-  "status": "HOLD: designed, waiting for Karan to approve + hamper, prize count and closing date",
+  "status": "HOLD: designed, waiting for founder approval + hamper, prize count and closing date",
   "campaign": "Diwali: Care for Pets",
   "accounts": [
    "ayurpetofficial",
@@ -736,7 +747,8 @@
    "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/C_photo/p5/slide-08.jpg"
   ],
   "kind": "feed",
-  "note": "Copy is date-locked to 30 Oct (nine nights to 8 Nov). Its comment contest must use the same hamper and closing date as the 22 Oct Hack Challenge launch; treat it as the mid-campaign push for that contest, not a second contest."
+  "note": "Copy is date-locked to 30 Oct (nine nights to 8 Nov). Its comment contest must use the same hamper and closing date as the 22 Oct Hack Challenge launch; treat it as the mid-campaign push for that contest, not a second contest.",
+  "owner": "AyurPet (Claude drafts; founder approves)"
  },
  {
   "day": 0,
@@ -747,20 +759,21 @@
   "format": "Reel",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Practical pet-care ideas",
   "brief": "Turn an approved DIY carousel topic into a Reel; do not promote unverified noise-proofing hacks.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: not made yet (Karan).",
+  "status": "HOLD: AyurPet to produce (Flow video or drawn carousel fallback); founder approves the cut before it goes READY.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
-  "sheet_date": "2026-10-30"
+  "sheet_date": "2026-10-30",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -771,20 +784,21 @@
   "format": "Instagram Stories",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Photo-entry deadline approaching",
   "brief": "Remind followers to submit entries. Deadline 9 Nov.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: stories are posted by the team in the app.",
+  "status": "HOLD: AyurPet drafts the story frames and copy; posting stories by API is to be built, until then the team posts them from the app.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
-  "sheet_date": "2026-10-31"
+  "sheet_date": "2026-10-31",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -795,20 +809,21 @@
   "format": "Instagram Stories + WA",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Final photo submissions",
   "brief": "Close photo submissions only once the announced deadline is confirmed. Meliya supports with the shortlist; shared Drive folder for entries so they can be posted with captions.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: team-run.",
+  "status": "HOLD: AyurPet drafts the story frames and copy; posting stories by API is to be built, until then the team posts them from the app.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
-  "sheet_date": "2026-11-01"
+  "sheet_date": "2026-11-01",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -819,21 +834,22 @@
   "format": "Carousel / Stories",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Shortlisted festive looks",
   "brief": "Feature shortlisted entries after consent and moderation; alternative: Stories-only.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: needs entries, consent and moderation first. Slides on GitHub + READY if it runs as a feed carousel.",
+  "status": "HOLD: AyurPet drafts; slides to GitHub and READY after founder approval.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-11-02",
-  "dependencies": "Entry photos with consent (Drive folder), shortlist (Meliya)."
+  "dependencies": "Entry photos with consent (Drive folder), shortlist (Meliya).",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -844,20 +860,21 @@
   "format": "Instagram Stories + WA",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Vote for your favourite",
   "brief": "Run voting only if mechanics and eligibility are confirmed. Meliya supplies inputs; Karan designs and posts.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: team-run.",
+  "status": "HOLD: AyurPet drafts the story frames and copy; posting stories by API is to be built, until then the team posts them from the app.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
-  "sheet_date": "2026-11-03"
+  "sheet_date": "2026-11-03",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -868,20 +885,21 @@
   "format": "Emotional Reel",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Radhika / Mehran",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "A powerful pet-welfare message",
   "brief": "Respectful, consent-cleared footage and a clear action; no guilt-bait.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: in production (Radhika / Mehran).",
+  "status": "HOLD: AyurPet to produce (Flow video or drawn carousel fallback); founder approves the cut before it goes READY.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
-  "sheet_date": "2026-11-04"
+  "sheet_date": "2026-11-04",
+  "team_owner_in_sheet": "Radhika / Mehran"
  },
  {
   "day": 0,
@@ -892,21 +910,22 @@
   "format": "Product post",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Meliya",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Explore the chew range",
   "brief": "Feature available variants and approved claims; link to the product page.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: needs product photos and the approved claims line; then slides on GitHub + READY.",
+  "status": "HOLD: AyurPet drafts from Shopify prices, stock and the product truth file; founder approves claims before READY.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-11-05",
-  "dependencies": "Product photos, approved claims (Auyon / Karan)."
+  "dependencies": "Product photos, approved claims (Auyon / Karan).",
+  "team_owner_in_sheet": "Meliya"
  },
  {
   "day": 8,
@@ -965,7 +984,8 @@
    "ayurpetofficial",
    "facebook"
   ],
-  "kind": "feed"
+  "kind": "feed",
+  "owner": "AyurPet (Claude drafts; founder approves)"
  },
  {
   "day": 0,
@@ -976,20 +996,21 @@
   "format": "Stories or Reel + WA",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Last chance to vote / care message",
   "brief": "Choose based on contest needs and production capacity.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: team decision closer to the date.",
+  "status": "HOLD: AyurPet drafts the story frames and copy; posting stories by API is to be built, until then the team posts them from the app.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
-  "sheet_date": "2026-11-06"
+  "sheet_date": "2026-11-06",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -1000,21 +1021,22 @@
   "format": "Feed post + Stories + WA",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Announce winners and prizes",
   "brief": "Confirm winner selection, consent, prize allocation and separate announcements for both contests (Hack Challenge and Best-Dressed).",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: depends on both contests closing; design after winners are confirmed.",
+  "status": "HOLD: AyurPet drafts; slides to GitHub and READY after founder approval.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-11-07",
-  "dependencies": "Winners, consent, prize allocation (Karan, Meliya)."
+  "dependencies": "Winners, consent, prize allocation (Karan, Meliya).",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -1025,20 +1047,21 @@
   "format": "Feed post + Stories + WA",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Karan",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Celebrate with care",
   "brief": "Festive greeting and practical reminder to keep pets comfortable and safe tonight.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: not designed yet. AyurPet can build this one (festival post, India + Facebook) on request.",
+  "status": "HOLD: AyurPet drafts; slides to GitHub and READY after founder approval.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
-  "sheet_date": "2026-11-08"
+  "sheet_date": "2026-11-08",
+  "team_owner_in_sheet": "Karan"
  },
  {
   "day": 0,
@@ -1049,21 +1072,22 @@
   "format": "AI Reel",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Radhika / Mehran",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Nepali community's celebration of dogs",
   "brief": "Verify story and cultural context with Meliya's community contacts before publishing.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: in production; cultural check required first.",
+  "status": "HOLD: AyurPet to produce (Flow video or drawn carousel fallback); founder approves the cut before it goes READY.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-11-09",
-  "dependencies": "Community verification (Meliya)."
+  "dependencies": "Community verification (Meliya).",
+  "team_owner_in_sheet": "Radhika / Mehran"
  },
  {
   "day": 0,
@@ -1074,21 +1098,22 @@
   "format": "Product post + WhatsApp",
   "slides": 0,
   "campaign": "Diwali: Care for Pets",
-  "owner": "Meliya",
+  "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Promote approved combo; thank the community",
   "brief": "Final campaign follow-through and sales CTA; only confirmed bundle and offer details.",
   "files": {},
   "github_urls": [],
   "captions": {},
   "sources": [],
-  "status": "HOLD: needs the confirmed bundle and offer.",
+  "status": "HOLD: AyurPet drafts from Shopify prices, stock and the product truth file; founder approves claims before READY.",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-11-10",
-  "dependencies": "Bundle price and offer (Auyon / Karan)."
+  "dependencies": "Bundle price and offer (Auyon / Karan).",
+  "team_owner_in_sheet": "Meliya"
  },
  {
   "day": 2,
