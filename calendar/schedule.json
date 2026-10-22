@@ -286,27 +286,72 @@
   "day": 0,
   "date": "2026-10-22",
   "post_time_ist": "19:00",
-  "title": "Hack Challenge launch: What do you do every Diwali to make your dog feel loved?",
+  "title": "Hack Challenge launch: The Diwali rule nobody wrote down",
   "kind": "feed",
   "format": "Feed post + WhatsApp",
-  "slides": 0,
+  "slides": 8,
   "campaign": "Diwali: Care for Pets",
   "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Comment to enter",
   "brief": "Prompt: What's one thing you do every Diwali to make your dog feel loved? Invite safe, creative tips. Design to be fun and engaging; ads will run on this post. Top comment gets a hamper. CTA: follow AyurPet, tag a friend, drop a comment.",
-  "files": {},
-  "github_urls": [],
-  "captions": {},
-  "sources": [],
-  "status": "HOLD: AyurPet drafts; slides to GitHub and READY after founder approval.",
+  "files": {
+   "A_drawn": [
+    "A_drawn/hack-2026/slide-01.png",
+    "A_drawn/hack-2026/slide-02.png",
+    "A_drawn/hack-2026/slide-03.png",
+    "A_drawn/hack-2026/slide-04.png",
+    "A_drawn/hack-2026/slide-05.png",
+    "A_drawn/hack-2026/slide-06.png",
+    "A_drawn/hack-2026/slide-07.png",
+    "A_drawn/hack-2026/slide-08.png"
+   ]
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/hack-2026/slide-01.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/hack-2026/slide-02.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/hack-2026/slide-03.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/hack-2026/slide-04.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/hack-2026/slide-05.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/hack-2026/slide-06.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/hack-2026/slide-07.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/hack-2026/slide-08.png"
+  ],
+  "captions": {
+   "ayurpetofficial_india": "Every Indian family with a dog has one Diwali rule nobody wrote down.\n\nNani's: he eats before the guests arrive. Didi's: the walk happens before sunset. Papa's: one cousin is always on dog duty. Mummy's: the old t-shirt goes in his bed.\n\nThey sound like family quirks. They are also exactly what animal welfare charities advise for fireworks nights: walk dogs in daylight before the noise starts, feed them early, make a den with familiar smells, shut the windows and curtains, and keep the TV or radio on (Blue Cross; RSPCA). Ayurveda would add that a frightened mind is a Vata-stirred mind, and the medicine is warmth, routine and the familiar.\n\nNow yours. The Diwali Hack Challenge:\n\n1. Comment the one thing you do every Diwali so your dog feels loved.\n2. Follow @ayurpetofficial.\n3. Tag a friend who has a dog.\n\nCloses Wednesday 29 October, 11:59 pm IST. One winner, chosen by AyurPet for the most useful, safe hack, gets the Calm Diwali hamper: CoolCalm+ drops and Calming Ashwagandha Himalayan Yak Cheese Chews. Winner announced 7 November. Safe hacks only: no sedatives, no shortcuts, nothing your vet would wince at.\n\nWe'll share the best rules on 30 October, with credit.\n\nOpen to residents of India, 18+. No purchase necessary. This promotion is in no way sponsored, endorsed or administered by, or associated with, Instagram or Meta.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#DiwaliHackChallenge #DiwaliWithDogs #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
+   "facebook": "Every Indian family with a dog has one Diwali rule nobody wrote down.\n\nNani's: he eats before the guests arrive. Didi's: the walk happens before sunset. Papa's: one cousin is always on dog duty. Mummy's: the old t-shirt goes in his bed.\n\nThey sound like family quirks. They are also exactly what animal welfare charities advise for fireworks nights: walk dogs in daylight before the noise starts, feed them early, make a den with familiar smells, shut the windows and curtains, and keep the TV or radio on (Blue Cross; RSPCA). Ayurveda would add that a frightened mind is a Vata-stirred mind, and the medicine is warmth, routine and the familiar.\n\nNow yours. The Diwali Hack Challenge:\n\n1. Comment the one thing you do every Diwali so your dog feels loved.\n2. Follow The AyurPet page.\n3. Tag a friend who has a dog.\n\nCloses Wednesday 29 October, 11:59 pm IST. One winner, chosen by AyurPet for the most useful, safe hack, gets the Calm Diwali hamper: CoolCalm+ drops and Calming Ashwagandha Himalayan Yak Cheese Chews. Winner announced 7 November. Safe hacks only: no sedatives, no shortcuts, nothing your vet would wince at.\n\nWe'll share the best rules on 30 October, with credit.\n\nOpen to residents of India, 18+. No purchase necessary. This promotion is in no way sponsored, endorsed or administered by, or associated with, Facebook, Instagram or Meta.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#DiwaliHackChallenge #DiwaliWithDogs #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
+  },
+  "sources": [
+   "Blue Cross (UK): Fireworks and pets. Walk in daylight, feed before the noise, make a den, close curtains, background sound. ANIMAL WELFARE GUIDANCE",
+   "RSPCA: Keeping pets safe during fireworks. Familiar smells, shut windows, stay calm. ANIMAL WELFARE GUIDANCE",
+   "Ayurveda: fear and noise aggravate Vata; grounding through warmth, routine and the familiar. TRADITIONAL USE",
+   "AyurPet product truth file: CoolCalm+ (ashwagandha, L-theanine, magnesium glycinate), Calming Ashwagandha Yak Cheese Chews. Supports calm, not a treatment."
+  ],
+  "status": "HOLD: built by AyurPet 22 Oct; flips to READY once the slides are on GitHub and the founder has seen the copy",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-22",
-  "dependencies": "Hamper contents, prize count and closing date (Karan); contest T&Cs line in the caption; WhatsApp broadcast copy (Meliya).",
-  "team_owner_in_sheet": "Karan"
+  "team_owner_in_sheet": "Karan",
+  "folder": "HACK - Thu 22 Oct - The Diwali rule nobody wrote down",
+  "github_repo": "care-rgb/ayurpet-social",
+  "whatsapp": "The Diwali Hack Challenge is open.\n\nEvery family with a dog has one Diwali rule nobody wrote down. Nani's: he eats before the guests. Didi's: the walk is before sunset. What's yours?\n\nComment your hack on today's post, follow @ayurpetofficial and tag a dog-parent friend. The most useful, safe hack wins the Calm Diwali hamper (CoolCalm+ drops and Calming Ashwagandha Yak Cheese Chews). Closes Wed 29 Oct, 11:59 pm IST.\n\nPost: https://www.instagram.com/ayurpetofficial/",
+  "instagram": {
+   "ayurpetofficial": "17841472849482734"
+  },
+  "grid": "illustration",
+  "version": "v1 drawn (engine), contest terms locked 21 Oct",
+  "contest": {
+   "name": "Diwali Hack Challenge",
+   "enter": "comment your hack + follow @ayurpetofficial + tag a friend",
+   "closes": "2026-10-29T23:59+05:30",
+   "winners": 1,
+   "prize": "Calm Diwali hamper: CoolCalm+ drops and Calming Ashwagandha Himalayan Yak Cheese Chews",
+   "judged": "most useful, safe hack, chosen by AyurPet",
+   "announce": "2026-11-07",
+   "eligibility": "India residents 18+, no purchase necessary"
+  }
  },
  {
   "day": 0,
@@ -385,27 +430,72 @@
   "day": 0,
   "date": "2026-10-24",
   "post_time_ist": "19:00",
-  "title": "Best-Dressed Dog contest: send your photos",
+  "title": "Best-Dressed Dog contest: Judged by the dog",
   "kind": "feed",
   "format": "Feed post",
-  "slides": 0,
+  "slides": 7,
   "campaign": "Diwali: Care for Pets",
   "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Send your photos",
   "brief": "Launch the photo contest. Deadline 9 Nov (sheet, 31 Oct row). Confirm submission method, prize and consent terms first.",
-  "files": {},
-  "github_urls": [],
-  "captions": {},
-  "sources": [],
-  "status": "HOLD: AyurPet drafts; slides to GitHub and READY after founder approval.",
+  "files": {
+   "A_drawn": [
+    "A_drawn/bdd-2026/slide-01.png",
+    "A_drawn/bdd-2026/slide-02.png",
+    "A_drawn/bdd-2026/slide-03.png",
+    "A_drawn/bdd-2026/slide-04.png",
+    "A_drawn/bdd-2026/slide-05.png",
+    "A_drawn/bdd-2026/slide-06.png",
+    "A_drawn/bdd-2026/slide-07.png"
+   ]
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/bdd-2026/slide-01.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/bdd-2026/slide-02.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/bdd-2026/slide-03.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/bdd-2026/slide-04.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/bdd-2026/slide-05.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/bdd-2026/slide-06.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/bdd-2026/slide-07.png"
+  ],
+  "captions": {
+   "ayurpetofficial_india": "Show us your dog's Diwali look. The Best-Dressed Dog contest is open, and it's judged by the dog.\n\nA bandana counts. A kurta counts. A single marigold on the collar counts. What wins is a dog who looks comfortable in it, because that is the only look that was ever worth a photo.\n\nThree rules before the outfit goes on, straight from the people who see the fallout (RSPCA Australia; American Kennel Club):\n\n1. He could take it off himself. Loose enough to walk, sit, sleep and pee in. Nothing over the eyes, ears, nose or mouth. No safety pins, no dangling bits.\n2. Five minutes, then off. Photos, treats, done. Body costumes trap heat, and a Diwali evening is warm before the excitement starts.\n3. Read the face. Soft eyes, ears up, easy mouth: happy. Freezing, pawing at it, ears flat, panting: off it comes. You already have the photo.\n\nHow to enter: DM the photo to @ayurpetofficial, or post it and tag us with #BestDressedDogAyurPet. Add their name and one line about the look, and follow @ayurpetofficial. Entries close Sunday 1 November, 11:59 pm IST. We shortlist on 2 November, you vote from 3 to 6 November, and the winner is announced on 7 November.\n\nThe prize: the Calm Diwali hamper (CoolCalm+ drops and Calming Ashwagandha Himalayan Yak Cheese Chews), and the winning look on our page on Diwali. Comfort is a judging criterion; a dog in distress cannot win.\n\nSending a photo means we may feature it, with credit. Open to India residents 18+. No purchase necessary. This promotion is in no way sponsored, endorsed or administered by, or associated with, Instagram or Meta.\n\nWho's the best-dressed dog you know? Tag them, then send us yours.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#BestDressedDogAyurPet #DiwaliWithDogs #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
+   "facebook": "Show us your dog's Diwali look. The Best-Dressed Dog contest is open, and it's judged by the dog.\n\nA bandana counts. A kurta counts. A single marigold on the collar counts. What wins is a dog who looks comfortable in it, because that is the only look that was ever worth a photo.\n\nThree rules before the outfit goes on, straight from the people who see the fallout (RSPCA Australia; American Kennel Club):\n\n1. He could take it off himself. Loose enough to walk, sit, sleep and pee in. Nothing over the eyes, ears, nose or mouth. No safety pins, no dangling bits.\n2. Five minutes, then off. Photos, treats, done. Body costumes trap heat, and a Diwali evening is warm before the excitement starts.\n3. Read the face. Soft eyes, ears up, easy mouth: happy. Freezing, pawing at it, ears flat, panting: off it comes. You already have the photo.\n\nHow to enter: Message the photo to The AyurPet page, or post it and tag us with #BestDressedDogAyurPet. Add their name and one line about the look, and follow The AyurPet page. Entries close Sunday 1 November, 11:59 pm IST. We shortlist on 2 November, you vote from 3 to 6 November, and the winner is announced on 7 November.\n\nThe prize: the Calm Diwali hamper (CoolCalm+ drops and Calming Ashwagandha Himalayan Yak Cheese Chews), and the winning look on our page on Diwali. Comfort is a judging criterion; a dog in distress cannot win.\n\nSending a photo means we may feature it, with credit. Open to India residents 18+. No purchase necessary. This promotion is in no way sponsored, endorsed or administered by, or associated with, Facebook, Instagram or Meta.\n\nWho's the best-dressed dog you know? Tag them, then send us yours.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#BestDressedDogAyurPet #DiwaliWithDogs #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
+  },
+  "sources": [
+   "RSPCA Australia knowledge base: welfare issues with pets wearing costumes. WELFARE GUIDANCE",
+   "American Kennel Club: costumes for dogs, safety tips. EXPERT GUIDANCE",
+   "AyurPet product truth file: CoolCalm+, Calming Ashwagandha Yak Cheese Chews (supports calm, not a treatment)"
+  ],
+  "status": "HOLD: built by AyurPet 22 Oct; flips to READY once slides are on GitHub and the founder approves",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-24",
-  "dependencies": "Submission method, prize, consent terms (Karan).",
-  "team_owner_in_sheet": "Karan"
+  "team_owner_in_sheet": "Karan",
+  "folder": "BDD - Sat 24 Oct - Judged by the dog",
+  "github_repo": "care-rgb/ayurpet-social",
+  "instagram": {
+   "ayurpetofficial": "17841472849482734"
+  },
+  "grid": "illustration",
+  "version": "v1 drawn (engine)",
+  "whatsapp": "The Best-Dressed Dog contest is open, judged by the dog. Bandana, kurta or a marigold on the collar: the comfiest dog wins the Calm Diwali hamper. DM the photo to @ayurpetofficial by Sun 1 Nov. Three rules first: loose enough to take off himself, five minutes then off, read the face. Post: https://www.instagram.com/ayurpetofficial/",
+  "contest": {
+   "name": "Best-Dressed Dog",
+   "enter": "DM photo to @ayurpetofficial or post with #BestDressedDogAyurPet + follow",
+   "closes": "2026-11-01T23:59+05:30",
+   "shortlist": "2026-11-02",
+   "voting": "2026-11-03 to 2026-11-06",
+   "announce": "2026-11-07",
+   "winners": 1,
+   "prize": "Calm Diwali hamper + feature on Diwali",
+   "judged": "public vote on the shortlist; comfort is a criterion",
+   "eligibility": "India residents 18+, no purchase necessary",
+   "note": "Sheet said deadline 9 Nov; moved to 1 Nov so shortlist, voting and the 7 Nov winners post are possible. Founder to confirm."
+  }
  },
  {
   "day": 0,
@@ -558,26 +648,60 @@
   "day": 0,
   "date": "2026-10-27",
   "post_time_ist": "19:00",
-  "title": "Festive dressing: keep it pet-safe",
+  "title": "Festive dressing: Comfort is the look",
   "kind": "feed",
   "format": "Carousel",
-  "slides": 0,
+  "slides": 8,
   "campaign": "Diwali: Care for Pets",
   "owner": "AyurPet (Claude drafts; founder approves)",
   "hook": "Keep dressing pet-safe",
   "brief": "Comfortable, pet-safe festive dressing guidance (fit, heat, no loose ties or beads, short wear time, watch for stress signs).",
-  "files": {},
-  "github_urls": [],
-  "captions": {},
-  "sources": [],
-  "status": "HOLD: AyurPet drafts; slides to GitHub and READY after founder approval.",
+  "files": {
+   "A_drawn": [
+    "A_drawn/dress-2026/slide-01.png",
+    "A_drawn/dress-2026/slide-02.png",
+    "A_drawn/dress-2026/slide-03.png",
+    "A_drawn/dress-2026/slide-04.png",
+    "A_drawn/dress-2026/slide-05.png",
+    "A_drawn/dress-2026/slide-06.png",
+    "A_drawn/dress-2026/slide-07.png",
+    "A_drawn/dress-2026/slide-08.png"
+   ]
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/dress-2026/slide-01.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/dress-2026/slide-02.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/dress-2026/slide-03.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/dress-2026/slide-04.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/dress-2026/slide-05.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/dress-2026/slide-06.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/dress-2026/slide-07.png",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/dress-2026/slide-08.png"
+  ],
+  "captions": {
+   "ayurpetofficial_india": "Before the kurta goes on the dog, read his ears.\n\nFestive dressing can be sweet or a quiet ordeal, and the difference is small. Six rules, from the RSPCA's welfare guidance and the American Kennel Club:\n\n1. Why vets wince at full costumes: a body costume traps heat, can stop normal walking and resting, and hides the signals that he needs to go out.\n2. The five-minute rule: photos, treats, off. Never leave him unattended in it; costumes shift, snag and become chew toys.\n3. Nothing on the face. A safe outfit never interferes with seeing, hearing, breathing, walking or resting. Hats and masks fail the test.\n4. No dangly bits. Buttons, gems and loose decorations get swallowed and can lodge in the airway or gut. Glitter and dyes irritate skin. Safety pins never touch a dog.\n5. Read the face. Panting indoors, freezing, pawing or biting at the outfit, ears flat, whale eye: off, immediately.\n6. The Ayurveda layer: some dogs run hot by nature. Pitta dogs, the big-appetite, short-fuse ones, overheat first. Heavy fabric plus a warm evening plus excitement adds up. For them, cotton, or just a marigold on the collar.\n\nComfort is the look. If you want the photo, introduce the outfit a few days early, keep it to minutes, and reward with treats.\n\nBest-Dressed Dog contest: DM us the comfy photo by 1 November, or post it with #BestDressedDogAyurPet. Judged by the dog.\n\nWhich of the six did you not know? Tell us below, and send this to the friend who buys dog kurtas.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#DiwaliWithDogs #BestDressedDogAyurPet #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
+   "facebook": "Before the kurta goes on the dog, read his ears.\n\nFestive dressing can be sweet or a quiet ordeal, and the difference is small. Six rules, from the RSPCA's welfare guidance and the American Kennel Club:\n\n1. Why vets wince at full costumes: a body costume traps heat, can stop normal walking and resting, and hides the signals that he needs to go out.\n2. The five-minute rule: photos, treats, off. Never leave him unattended in it; costumes shift, snag and become chew toys.\n3. Nothing on the face. A safe outfit never interferes with seeing, hearing, breathing, walking or resting. Hats and masks fail the test.\n4. No dangly bits. Buttons, gems and loose decorations get swallowed and can lodge in the airway or gut. Glitter and dyes irritate skin. Safety pins never touch a dog.\n5. Read the face. Panting indoors, freezing, pawing or biting at the outfit, ears flat, whale eye: off, immediately.\n6. The Ayurveda layer: some dogs run hot by nature. Pitta dogs, the big-appetite, short-fuse ones, overheat first. Heavy fabric plus a warm evening plus excitement adds up. For them, cotton, or just a marigold on the collar.\n\nComfort is the look. If you want the photo, introduce the outfit a few days early, keep it to minutes, and reward with treats.\n\nBest-Dressed Dog contest: message us the comfy photo by 1 November, or post it with #BestDressedDogAyurPet. Judged by the dog.\n\nWhich of the six did you not know? Tell us below, and send this to the friend who buys dog kurtas.\n\nGentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#DiwaliWithDogs #BestDressedDogAyurPet #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet"
+  },
+  "sources": [
+   "RSPCA Australia knowledge base: welfare issues with pets wearing costumes (heat stress, movement, hidden toileting signals, items to avoid). WELFARE GUIDANCE",
+   "American Kennel Club: costumes for dogs (fit, dangling parts, supervision, discomfort signs, acclimatisation). EXPERT GUIDANCE",
+   "Ayurveda: Pitta constitution runs hot (traditional use); R. Silver DVM, Veterinary Herbal Medicine (2007), constitutional reading in dogs"
+  ],
+  "status": "HOLD: built by AyurPet 22 Oct; flips to READY once slides are on GitHub and the founder approves",
   "accounts": [
    "ayurpetofficial",
    "facebook"
   ],
   "sheet": "https://docs.google.com/spreadsheets/d/1HFYRsOh8YxFaWDS00tHWvTw7BmMbrDJNpPyced5GrjE/edit",
   "sheet_date": "2026-10-27",
-  "team_owner_in_sheet": "Karan"
+  "team_owner_in_sheet": "Karan",
+  "folder": "DRESS - Tue 27 Oct - Comfort is the look",
+  "github_repo": "care-rgb/ayurpet-social",
+  "instagram": {
+   "ayurpetofficial": "17841472849482734"
+  },
+  "grid": "illustration",
+  "version": "v1 drawn (engine)"
  },
  {
   "day": 10,
