@@ -74,7 +74,7 @@
   "series": "Amanda Ree x AyurPet",
   "reel": "05",
   "title": "Your dog hears your stress",
-  "status": "HOLD: Karan to OK the v2 edit",
+  "status": "HOLD: Karan to OK the v3 edit (no headline in the video, cold open, 35.7 s)",
   "times_ist": {
    "ayurpet_global": "07:00",
    "ayurpetofficial": "13:00"
@@ -84,8 +84,8 @@
    "ayurpetofficial"
   ],
   "video_urls": {
-   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/amanda-05-hear-your-stress-in.mp4",
-   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/amanda-05-hear-your-stress-gl.mp4"
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-22_amanda_hear-your-stress_v3-in.mp4",
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-22_amanda_hear-your-stress_v3-gl.mp4"
   },
   "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/amanda-05-hear-your-stress-cover.jpg",
   "collaborators": [
@@ -98,7 +98,8 @@
    "ayurpetofficial": "Your dog can hear your stress, in your breath. 🐾 It's how service dogs tune in to their humans.\n\nBefore the festive rush, try this tonight with Amanda Ree of @samadogwellbeing:\n1. Watch their breath\n2. Mirror their pace\n3. Slow it down and sigh it out\n\nNotice if they follow you. Send this to someone whose dog always knows when they've had a bad day.\n\nSome B-roll clips in this video were made with AI.\n\n#AyurPet #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #DiwaliWithPets",
    "ayurpet_global": "Your dog can hear your stress, in your breath. 🐾 It's how service dogs tune in to their humans.\n\nTry this tonight with Amanda Ree of @samadogwellbeing:\n1. Watch their breath\n2. Mirror their pace\n3. Slow it down and sigh it out\n\nNotice if they follow you. Send this to someone whose dog always knows when they've had a bad day.\n\nSome B-roll clips in this video were made with AI.\n\n#AyurPet #AyurvedaForPets #HolisticDogCare #DogBodyLanguage #AnxiousDog #SamaDog"
   },
-  "cover_style": "ivory"
+  "cover_style": "ivory",
+  "note_v3": "v3 2026-10-22: headline removed (title stays on the cover), opens on \"Your dog will naturally pick up on the rhythms of your breath\", repeating opener cut, 42.5 s to 35.7 s. v2 files kept for reference."
  },
  {
   "date": "2026-10-25",
@@ -106,7 +107,7 @@
   "series": "Amanda Ree x AyurPet",
   "reel": "04",
   "title": "Your dog's body has no pump",
-  "status": "HOLD: Karan to OK the v2 edit",
+  "status": "HOLD: v3 re-cut (no headline, opens on her brushing question) builds once the footage library is shared by link; then Karan to OK",
   "times_ist": {
    "ayurpet_global": "07:00",
    "ayurpetofficial": "13:00"
