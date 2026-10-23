@@ -139,10 +139,34 @@
   "type": "reel",
   "series": "Amanda Ree x AyurPet",
   "reel": "06",
-  "title": "Diwali night, calm in 3 steps (to be made)",
-  "status": "HOLD: in production",
-  "accounts": [],
-  "captions": {}
+  "title": "The calming sweep (fireworks night)",
+  "status": "HOLD: Karan to OK the new edit (no headline, cold open on her hands, 43.2 s)",
+  "times_ist": {
+   "ayurpet_global": "07:00",
+   "ayurpetofficial": "13:00"
+  },
+  "accounts": [
+   "ayurpet_global",
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-22_amanda_calming-sweep_v2-in.mp4",
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-22_amanda_calming-sweep_v2-gl.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-22_amanda_calming-sweep_v2_cover.jpg",
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "captions": {
+   "ayurpetofficial": "One slow stroke, head to tail, can help your dog let go of the fear. 🐾\n\nFor Diwali night, from Amanda Ree of @samadogwellbeing:\n1. Find a quiet spot where your dog feels safe, and sit close\n2. Hand on the head, one light stroke down the spine to the tail and down the back leg. Shake it off. Three times\n3. Watch for the sigh, the yawn, the body going soft\n\nSave this for the night the crackers start. Send it to a dog parent who dreads Diwali.\n\nGentle care, not a treatment. If your dog is in pain or panicking, call your vet.\n\n#AyurPet #AyurvedaForPets #DiwaliWithPets #DogParentsIndia #DogsOfIndia #CalmDog",
+   "ayurpet_global": "One slow stroke, head to tail, can help your dog let go of the fear. 🐾\n\nFor fireworks night, storms and the vet, from Amanda Ree of @samadogwellbeing:\n1. Find a quiet spot where your dog feels safe, and sit close\n2. Hand on the head, one light stroke down the spine to the tail and down the back leg. Shake it off. Three times\n3. Watch for the sigh, the yawn, the body going soft\n\nSave this for fireworks night. Send it to someone whose dog hides under the bed.\n\nGentle care, not a treatment. If your dog is in pain or panicking, call your vet.\n\n#AyurPet #AyurvedaForPets #HolisticDogCare #AnxiousDog #FireworksAndDogs #SamaDog"
+  },
+  "cover_style": "yellow",
+  "edit_check": "PASS 2026-10-23: built with the v3 rules, no headline in the video, captions lower third, no text on her face, designed cover, end card handle per account",
+  "source": "mm3 (Mindful Moments, bladder sweep); spec library/amanda/edits/06_sweep.py in care-rgb/ayurpet-reels"
  },
  {
   "date": "2026-11-04",
