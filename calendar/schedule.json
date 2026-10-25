@@ -520,7 +520,7 @@
  },
  {
   "day": 0,
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "post_time_ist": "19:00",
   "title": "P4: The six pet parents of Diwali night",
   "slides": 8,
@@ -560,7 +560,7 @@
    "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/C_photo/p4/slide-08.jpg"
   ],
   "kind": "feed",
-  "note": "Moved from 24 Oct (that slot is now the Best-Dressed contest launch). Identity humour carousel; designed; posts only once Karan approves.",
+  "note": "Moved from 24 Oct (Best-Dressed launch took that slot), then from 26 Oct to 27 Oct on founder instruction 25 Oct (26 Oct runs story + Amanda reel only). Identity humour carousel; designed; posts only once Karan approves.",
   "owner": "AyurPet (Claude drafts; founder approves)"
  },
  {
@@ -642,7 +642,7 @@
  },
  {
   "day": 0,
-  "date": "2026-10-27",
+  "date": "2026-10-29",
   "post_time_ist": "19:00",
   "title": "Festive dressing: Comfort is the look",
   "kind": "feed",
@@ -698,7 +698,7 @@
   },
   "grid": "illustration",
   "version": "v1 drawn (engine)",
-  "note": "Slide 8 and caption say \"by 1 Nov\"; must change to 6 Nov before READY."
+  "note": "Slide 8 and caption say \"by 1 Nov\"; must change to 6 Nov before READY (re-rendered locally 25 Oct, not yet pushed). Moved from 27 Oct to 29 Oct on 25 Oct because P4 took the 27 Oct slot."
  },
  {
   "day": 10,
