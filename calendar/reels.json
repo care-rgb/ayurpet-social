@@ -108,7 +108,8 @@
   "series": "Amanda Ree x AyurPet",
   "reel": "04",
   "title": "Your dog's body has no pump",
-  "status": "READY", "edit_check": "PASS 2026-10-25: founder viewed the current edit and cover and approved it as is, v3 re-cut not required; moved from 25 Oct to 26 Oct",
+  "status": "READY",
+  "edit_check": "PASS 2026-10-25: founder viewed the current edit and cover and approved it as is, v3 re-cut not required; moved from 25 Oct to 26 Oct",
   "times_ist": {
    "ayurpet_global": "07:00",
    "ayurpetofficial": "13:00"
@@ -133,6 +134,31 @@
    "ayurpet_global": "Your dog's lymph system has no pump. It only moves when they move, or when you help it. 🐾\n\nLow energy, a dull coat, seasonal allergies, a general \"blah\"? Amanda Ree of @samadogwellbeing shows the 5-minute Ayurvedic brushing called Garshana: a soft brush, long strokes toward the heart, and extra care on the 4 lymph zones (neck and throat, armpits, groin, behind the knees).\n\nSave this for tonight's cuddle session. Go gently over joints, especially with senior dogs.\n\nSome B-roll clips in this video were made with AI.\n\n#AyurPet #AyurvedaForPets #HolisticDogCare #Garshana #DryBrushing #SamaDog"
   },
   "cover_style": "yellow (grid column)"
+ },
+ {
+  "date": "2026-10-30",
+  "type": "reel",
+  "series": "AyurPet DIY",
+  "reel": "D1",
+  "title": "The Rs 0 anxiety wrap (DIY compression hack)",
+  "status": "READY",
+  "times_ist": {
+   "ayurpetofficial": "13:00"
+  },
+  "accounts": [
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/diy-compression-hack-v2.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/diy-compression-hack-v2-cover.jpg",
+  "collaborators": [],
+  "user_tags": [],
+  "captions": {
+   "ayurpetofficial": "A dupatta, folded into a Rs 0 anxiety wrap. 🐾\n\nGentle, even pressure around the chest helps some dogs settle when the crackers start, the same idea as a compression vest. A plain cotton dupatta, wrapped the way she shows, does the job.\n\nOne rule: watch him. If he looks comfortable, keep it on. If he freezes, paws at it or seems more stressed, off it comes. This is only for dogs that actually find comfort in compression.\n\nFor extra support on cracker nights: CoolCalm+ drops and the Calming Ashwagandha Yak Cheese Chews, link in bio. Supports calm, not a treatment.\n\nSave this for Diwali night, and send it to the friend whose dog hides under the bed.\n\nIf your dog panics every year, talk to your vet now, not on the night.\n\n#DiwaliWithDogs #DogAnxiety #CoolCalm #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #AyurPet"
+  },
+  "edit_check": "PASS 2026-10-27: team footage (DIY Compression Hack.mp4 from care@ Drive) with a new headline pill over the old title, CoolCalm+ hamper end card and a lo-fi music bed; founder approved 27 Oct 17:15 IST.",
+  "note": "Sheet item 30 Oct \"DIY care trends (reel)\". India only (Diwali content). Source: DIY Compression Hack.mp4, care@theayurpet.com Drive, 27 Oct."
  },
  {
   "date": "2026-11-01",
