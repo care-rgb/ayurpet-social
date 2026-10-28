@@ -136,6 +136,37 @@
   "cover_style": "yellow (grid column)"
  },
  {
+  "date": "2026-10-28",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet",
+  "reel": "09",
+  "title": "Where your dog holds stress (shoulder massage)",
+  "status": "READY",
+  "approved": "Karan 2026-10-28 (37.6 s, built 2026-10-27)",
+  "times_ist": {
+   "ayurpet_global": "19:00"
+  },
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-29_amanda_where-stress-lives_v1-gl.mp4",
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-29_amanda_where-stress-lives_v1-in.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-29_amanda_where-stress-lives_v1_cover.jpg",
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "captions": {
+   "ayurpet_global": "Your dog carries stress in their shoulders, just like you do. 🐾\n\nAnxious, fearful, can't settle when you leave? Try Amanda Ree's shoulder massage (@samadogwellbeing):\n1. Palms on the shoulder blades. Press gently, moving under and around them\n2. Found a tight spot or a small knot? Hold light pressure for 5 to 10 seconds\n3. Watch how your dog responds. A sigh means you're on the right track\n\nSave this for your dog's next hard day. Send it to someone whose dog can't switch off.\n\nGentle care, not a treatment. If your dog is in pain, limping or recovering from surgery, see your vet first.\n\n#AyurPet #AyurvedaForPets #DogMassage #AnxiousDog #SeparationAnxiety #SamaDog"
+  },
+  "edit_check": "PASS 2026-10-27: watched end to end (frames at 0.5 s steps), no headline, captions lower third, no text on her face, burned-in source captions cropped out, designed cover, end card handle per account",
+  "source": "mm2 (Mindful Moments 2, basic canine massage); spec library/amanda/edits/09_shoulders.py in care-rgb/ayurpet-reels"
+ },
+ {
   "date": "2026-10-30",
   "type": "reel",
   "series": "AyurPet DIY",
@@ -161,19 +192,79 @@
   "note": "Sheet item 30 Oct \"DIY care trends (reel)\". India only (Diwali content). Source: DIY Compression Hack.mp4, care@theayurpet.com Drive, 27 Oct."
  },
  {
+  "date": "2026-10-30",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet",
+  "reel": "07",
+  "title": "Dogs are masters of mindfulness",
+  "status": "READY",
+  "approved": "Karan 2026-10-28 (37.2 s, built 2026-10-27)",
+  "times_ist": {
+   "ayurpet_global": "07:00"
+  },
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-31_amanda_masters-of-mindfulness_v1-gl.mp4",
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-31_amanda_masters-of-mindfulness_v1-in.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-31_amanda_masters-of-mindfulness_v1_cover.jpg",
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "captions": {
+   "ayurpet_global": "Your dog isn't replaying yesterday or worrying about tomorrow. 🐾\n\nAmanda Ree (@samadogwellbeing) on why dogs are masters of mindfulness: they're right here, right now. You don't need to teach them. They're teaching you.\n\nTry it today: one hand on your dog, three slow breaths together, nothing else.\n\nSend this to the person whose dog taught them to slow down.\n\n#AyurPet #AyurvedaForPets #MindfulLiving #DogLovers #DogMom #SamaDog"
+  },
+  "edit_check": "PASS 2026-10-27: watched end to end (frames at 0.5 s steps), no headline, captions lower third, no text on her face, burned-in source captions cropped out, designed cover, end card handle per account",
+  "source": "mm7 (Mindful Moments 7, mindfulness); spec library/amanda/edits/07_masters.py in care-rgb/ayurpet-reels"
+ },
+ {
   "date": "2026-11-01",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet",
+  "reel": "10",
+  "title": "Is it working? 3 signs your dog is relaxing",
+  "status": "READY",
+  "approved": "Karan 2026-10-28 (30.3 s, built 2026-10-27)",
+  "times_ist": {
+   "ayurpet_global": "07:00"
+  },
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-04_amanda_is-it-working_v1-gl.mp4",
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-04_amanda_is-it-working_v1-in.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-04_amanda_is-it-working_v1_cover.jpg",
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "captions": {
+   "ayurpet_global": "Your dog mirrors your energy. So how do you know a calming touch is working? 🐾\n\n3 signs, from Amanda Ree (@samadogwellbeing):\n1. A sigh\n2. Soft eyes\n3. A deep breath\nIf they stiffen or pull away, ease up and come back to it later. Light pressure: less is more.\n\nSaved our 3 calming points reel? This is how you know they're working. Send it to someone who saved it too.\n\n#AyurPet #AyurvedaForPets #DogBodyLanguage #CalmDog #HolisticDogCare #SamaDog"
+  },
+  "edit_check": "PASS 2026-10-27: watched end to end (frames at 0.5 s steps), no headline, captions lower third, no text on her face, burned-in source captions cropped out, designed cover, end card handle per account",
+  "source": "mm1 (Mindful Moments 1, closing tips; sequel to 02); spec library/amanda/edits/10_working.py in care-rgb/ayurpet-reels"
+ },
+ {
+  "date": "2026-11-03",
   "type": "reel",
   "series": "Amanda Ree x AyurPet",
   "reel": "06",
   "title": "The calming sweep (fireworks night)",
-  "status": "HOLD: Karan to OK the new edit (no headline, cold open on her hands, 43.2 s)",
+  "status": "READY",
   "times_ist": {
-   "ayurpet_global": "07:00",
-   "ayurpetofficial": "13:00"
+   "ayurpet_global": "07:00"
   },
   "accounts": [
-   "ayurpet_global",
-   "ayurpetofficial"
+   "ayurpet_global"
   ],
   "video_urls": {
    "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-22_amanda_calming-sweep_v2-in.mp4",
@@ -193,15 +284,5 @@
   "cover_style": "yellow",
   "edit_check": "PASS 2026-10-23: built with the v3 rules, no headline in the video, captions lower third, no text on her face, designed cover, end card handle per account",
   "source": "mm3 (Mindful Moments, bladder sweep); spec library/amanda/edits/06_sweep.py in care-rgb/ayurpet-reels"
- },
- {
-  "date": "2026-11-04",
-  "type": "reel",
-  "series": "Amanda Ree x AyurPet",
-  "reel": "07",
-  "title": "Diwali day reel (to be made)",
-  "status": "HOLD: in production",
-  "accounts": [],
-  "captions": {}
  }
 ]
