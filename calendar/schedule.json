@@ -1123,9 +1123,9 @@
         "A_drawn/chew-2026/slide-03.png",
         "A_drawn/chew-2026/slide-04.png",
         "A_drawn/chew-2026/slide-05.png",
-        "A_drawn/chew-2026/slide-05b.jpg",
         "A_drawn/chew-2026/slide-06.png",
-        "A_drawn/chew-2026/slide-07.png"
+        "A_drawn/chew-2026/slide-07.png",
+        "A_drawn/chew-2026/slide-08.png"
       ]
     },
     "github_urls": [
@@ -1134,9 +1134,9 @@
       "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/chew-2026/slide-03.png",
       "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/chew-2026/slide-04.png",
       "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/chew-2026/slide-05.png",
-      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/chew-2026/slide-05b.jpg",
       "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/chew-2026/slide-06.png",
-      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/chew-2026/slide-07.png"
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/chew-2026/slide-07.png",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/chew-2026/slide-08.png"
     ],
     "captions": {
       "ayurpetofficial_india": "Three nights to Diwali. Loud sky, bored dog: give him a job, six hours of it.\n\nA long chew is the oldest calming trick there is, and now there's a study behind it. At the Waltham Petcare Science Institute, 20 dogs were left alone for 20 minutes with four kinds of enrichment. The long-lasting chew held their attention longest and brought arousal down the most (Flint et al., Animals, 2023). Small study, and it tested time alone rather than fireworks, but the direction is clear: chewing is how dogs settle. Jaw work is a natural outlet for tension and boredom (American Kennel Club), and on a loud night a job for the mouth beats a dog pacing the corridor.\n\nThe Ayurveda layer: ashwagandha, the classic herb for a steady mind, a rasayana, is in the chew's name. In the chew it is the flavour; the six hours of chewing is what does the work on the night.\n\nThe range: Original Himalayan, Healing Turmeric and Calming Ashwagandha Yak Cheese Chews. Yak and cow milk, lime, salt. Hard, long, no mess. Small (under 10 kg) Rs 599, Medium Rs 899, Large (over 25 kg, or any fast chewer) Rs 1,299. Link in bio.\n\nFive rules for a hard chew: supervise, especially the first few times. Size by weight; fast chewers go up a size. Take it away once it is small enough to swallow. Microwave the last bit for 45 to 60 seconds and it puffs into a crunchy treat. Dogs 12 weeks and older only. If your dog gulps rather than chews, hard chews are not for him; ask your vet about alternatives.\n\nWhich chewer is yours: the nibbler or the demolition crew? Comment N or D, and tag the friend whose dog finishes a chew in four minutes.\n\nComplementary feed for dogs. Not a treatment. Gentle care ideas, not veterinary advice. If your dog seems unwell, please see your vet.\n\n#DiwaliWithDogs #YakCheeseChews #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #PetWellness #AyurPet",
@@ -1147,7 +1147,7 @@
       "American Kennel Club: why dogs chew (behaviour, boredom, tension). BEHAVIOUR GUIDANCE",
       "Ayurveda: ashwagandha as rasayana (traditional use). AyurPet product truth file: no therapeutic claim from the chew's flavouring; prices live on theayurpet.com 22 Oct"
     ],
-    "status": "HOLD: built by AyurPet 22 Oct; flips to READY once the founder approves",
+    "status": "HOLD: v2 rebuilt 5 Nov per founder (hyperreal indie dog, official chews shot on slide 5, Duo hero slide 6); flips to READY on founder \"ship\"",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1161,8 +1161,8 @@
       "ayurpetofficial": "17841472849482734"
     },
     "grid": "illustration",
-    "version": "v1 drawn (engine)",
-    "note": "29 Oct: founder's Diwali Calm Duo hero slide inserted as slide 6 (chew-2026/slide-05b.jpg) per the rule \"plug the product slide into existing posts where products are mentioned\". Still HOLD pending founder approval."
+    "version": "v2 hyperreal (Google Flow, Nano Banana 2.1), indie dog",
+    "note": "29 Oct: founder's Diwali Calm Duo hero slide inserted as slide 6 (chew-2026/slide-05b.jpg) per the rule \"plug the product slide into existing posts where products are mentioned\". Still HOLD pending founder approval. | 5 Nov v2: photocard layout, marigold page, six Flow images of one indie dog through Diwali night; slide 5 = official ashwagandha-chews-table.jpg; slide 6 = founder Duo hero; prices removed from slides, kept in caption."
   },
   {
     "day": 8,
