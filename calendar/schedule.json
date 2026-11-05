@@ -1430,10 +1430,9 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-02/Captions%20-%20W1-02.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again",
+    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
-      "ayurpet_global",
       "facebook"
     ],
     "kind": "feed",
@@ -1483,10 +1482,9 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-03/Captions%20-%20W1-03.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again",
+    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
-      "ayurpet_global",
       "facebook"
     ],
     "grid": "photo",
@@ -1540,10 +1538,9 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-04/Captions%20-%20W1-04.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again",
+    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
-      "ayurpet_global",
       "facebook"
     ],
     "grid": "yellow",
@@ -1595,10 +1592,9 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-06/Captions%20-%20W1-06.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again",
+    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
-      "ayurpet_global",
       "facebook"
     ],
     "grid": "photo",
@@ -1649,14 +1645,406 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-07/Captions%20-%20W1-07.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again",
+    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
-      "ayurpet_global",
       "facebook"
     ],
     "grid": "yellow",
     "kind": "feed",
     "note": "Moved from Mon 26 Oct to Sun 15 Nov: the Diwali campaign (sheet) owns 15 Oct to 10 Nov; the content plan resumes after it."
+  },
+  {
+    "day": 1,
+    "date": "2026-11-06",
+    "post_time_ist": "21:30",
+    "title": "Fireworks are over. His nerves might not be.",
+    "kind": "reel",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "fireworks are over. his nerves might not be.",
+    "lever": "worry, save",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 1,
+    "files": {
+      "plan10": [
+        "plan10/1106_GL_amanda-fireworks-reel_01.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1106_GL_amanda-fireworks-reel_01.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "Fireworks are over. His nerves might not be.\n\nAfter a loud week, a dog can stay on edge for days. Amanda shows a one-minute routine to help him settle tonight.\n\nSave it for the next loud night.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
+    "note": "reel: cover only; video per plan/REELS.md"
+  },
+  {
+    "day": 2,
+    "date": "2026-11-07",
+    "post_time_ist": "21:30",
+    "title": "5 things on your plate he should never get",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "5 things on your plate he should never get",
+    "lever": "worry, save",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 8,
+    "files": {
+      "plan10": [
+        "plan10/1107_GL_plate_01.jpg",
+        "plan10/1107_GL_plate_02.jpg",
+        "plan10/1107_GL_plate_03.jpg",
+        "plan10/1107_GL_plate_04.jpg",
+        "plan10/1107_GL_plate_05.jpg",
+        "plan10/1107_GL_plate_06.jpg",
+        "plan10/1107_GL_plate_07.jpg",
+        "plan10/1107_GL_plate_08.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_GL_plate_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_GL_plate_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_GL_plate_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_GL_plate_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_GL_plate_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_GL_plate_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_GL_plate_07.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_GL_plate_08.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "He's not hungry. He's hoping.\n\nFive everyday foods that look harmless and aren't: chocolate, grapes and raisins, onion and garlic, sugar-free gum, cooked bones.\n\nSend this to whoever slips him scraps.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [
+      "ASPCA Animal Poison Control Center",
+      "Merck Veterinary Manual"
+    ],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 3,
+    "date": "2026-11-08",
+    "post_time_ist": "21:30",
+    "title": "There's a country that worships dogs today",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "there's a country that worships dogs today",
+    "lever": "awe, send",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 6,
+    "files": {
+      "plan10": [
+        "plan10/1108_GL_kukur-tihar_01.jpg",
+        "plan10/1108_GL_kukur-tihar_02.jpg",
+        "plan10/1108_GL_kukur-tihar_03.jpg",
+        "plan10/1108_GL_kukur-tihar_04.jpg",
+        "plan10/1108_GL_kukur-tihar_05.jpg",
+        "plan10/1108_GL_kukur-tihar_06.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_GL_kukur-tihar_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_GL_kukur-tihar_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_GL_kukur-tihar_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_GL_kukur-tihar_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_GL_kukur-tihar_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_GL_kukur-tihar_06.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "In Nepal today, every dog is honoured: a red tika, a marigold garland and his favourite meal, served first.\n\nIt's Kukur Tihar, the day of the dog.\n\nSend this to a dog parent who'd love it.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [
+      "Kukur Tihar (Wikipedia, sources within)"
+    ],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 4,
+    "date": "2026-11-09",
+    "post_time_ist": "21:30",
+    "title": "He's not lazy. He's stiff.",
+    "kind": "reel",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "he's not lazy. he's stiff.",
+    "lever": "love and guilt, save",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 1,
+    "files": {
+      "plan10": [
+        "plan10/1109_GL_stiff-reel_01.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1109_GL_stiff-reel_01.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "Slower on the stairs. Longer to get up. That's not age being lazy.\n\nThree quiet signs of stiff joints, and a gentle two-minute warm-up before his walk.\n\nSave this for your senior.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [
+      "AKC: signs of arthritis in dogs"
+    ],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
+    "note": "reel: cover only; video per plan/REELS.md"
+  },
+  {
+    "day": 5,
+    "date": "2026-11-10",
+    "post_time_ist": "21:30",
+    "title": "5 things your vet wishes you'd stop doing",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "5 things your vet wishes you'd stop doing",
+    "lever": "worry, save",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 7,
+    "files": {
+      "plan10": [
+        "plan10/1110_GL_vet_01.jpg",
+        "plan10/1110_GL_vet_02.jpg",
+        "plan10/1110_GL_vet_03.jpg",
+        "plan10/1110_GL_vet_04.jpg",
+        "plan10/1110_GL_vet_05.jpg",
+        "plan10/1110_GL_vet_06.jpg",
+        "plan10/1110_GL_vet_07.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_GL_vet_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_GL_vet_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_GL_vet_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_GL_vet_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_GL_vet_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_GL_vet_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_GL_vet_07.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "Five everyday habits your vet sees the results of every week.\n\nTable scraps, skipped teeth, human painkillers, waiting it out and the missed yearly check-up.\n\nSend this to the friend who always says he's fine.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [
+      "American Veterinary Medical Association",
+      "ASPCA Animal Poison Control Center"
+    ],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 6,
+    "date": "2026-11-11",
+    "post_time_ist": "21:30",
+    "title": "The poppy most people never notice",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "the poppy most people never notice",
+    "lever": "respect, awe, send",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 5,
+    "files": {
+      "plan10": [
+        "plan10/1111_GL_purple-poppy_01.jpg",
+        "plan10/1111_GL_purple-poppy_02.jpg",
+        "plan10/1111_GL_purple-poppy_03.jpg",
+        "plan10/1111_GL_purple-poppy_04.jpg",
+        "plan10/1111_GL_purple-poppy_05.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_GL_purple-poppy_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_GL_purple-poppy_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_GL_purple-poppy_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_GL_purple-poppy_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_GL_purple-poppy_05.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "Today the red poppy remembers the people. The purple one remembers the animals.\n\nDogs carried messages, found the wounded and guarded the lines. Many never came home.\n\nSend this to someone who'll wear one.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [
+      "Animal Aid: the purple poppy",
+      "BBC Countryfile: why purple poppies are worn"
+    ],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 7,
+    "date": "2026-11-12",
+    "post_time_ist": "21:30",
+    "title": "Where to touch him when he's stressed",
+    "kind": "reel",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "where to touch him when he's stressed",
+    "lever": "worry, save",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 1,
+    "files": {
+      "plan10": [
+        "plan10/1112_GL_amanda-touch-reel_01.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_GL_amanda-touch-reel_01.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "Where you touch him matters more than how long.\n\nAmanda shows the calming points she uses with anxious dogs.\n\nSave this for the next vet visit.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
+    "note": "reel: cover only; video per plan/REELS.md"
+  },
+  {
+    "day": 8,
+    "date": "2026-11-13",
+    "post_time_ist": "21:30",
+    "title": "5 dog movies that will wreck you (in a good way)",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "5 dog movies that will wreck you (in a good way)",
+    "lever": "nostalgia, save, send",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 7,
+    "files": {
+      "plan10": [
+        "plan10/1113_GL_movies_01.jpg",
+        "plan10/1113_GL_movies_02.jpg",
+        "plan10/1113_GL_movies_03.jpg",
+        "plan10/1113_GL_movies_04.jpg",
+        "plan10/1113_GL_movies_05.jpg",
+        "plan10/1113_GL_movies_06.jpg",
+        "plan10/1113_GL_movies_07.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_GL_movies_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_GL_movies_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_GL_movies_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_GL_movies_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_GL_movies_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_GL_movies_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_GL_movies_07.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "Five dog movies to watch with him on the sofa. Bring tissues.\n\nHachi, Marley & Me, Red Dog, Togo and A Dog's Purpose.\n\nWhich one broke you first? Tell us below.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 9,
+    "date": "2026-11-14",
+    "post_time_ist": "21:30",
+    "title": "That face is not guilt",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "that face is not guilt",
+    "lever": "recognition, send",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 7,
+    "files": {
+      "plan10": [
+        "plan10/1114_GL_guilt_01.jpg",
+        "plan10/1114_GL_guilt_02.jpg",
+        "plan10/1114_GL_guilt_03.jpg",
+        "plan10/1114_GL_guilt_04.jpg",
+        "plan10/1114_GL_guilt_05.jpg",
+        "plan10/1114_GL_guilt_06.jpg",
+        "plan10/1114_GL_guilt_07.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_GL_guilt_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_GL_guilt_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_GL_guilt_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_GL_guilt_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_GL_guilt_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_GL_guilt_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_GL_guilt_07.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "Ears back, eyes away, a lip lick. It looks like guilt. It isn't.\n\nIn a 2009 study, dogs looked guilty when scolded, whether or not they had done anything wrong.\n\nSend this to the one who yells at the dog.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [
+      "Horowitz A. Behavioural Processes, 2009"
+    ],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 10,
+    "date": "2026-11-15",
+    "post_time_ist": "21:30",
+    "title": "The face he waits for all day",
+    "kind": "reel",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "the face he waits for all day",
+    "lever": "love, send",
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "instagram": {
+      "ayurpet_global": "17841465833626335"
+    },
+    "slides": 1,
+    "files": {
+      "plan10": [
+        "plan10/1115_GL_waits-reel_01.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1115_GL_waits-reel_01.jpg"
+    ],
+    "captions": {
+      "ayurpet_global": "He's been listening for your keys since 4 pm.\n\nThe best part of his day is the second you walk in.\n\nTag the person he waits for.\n\n#dogsofinstagram #dogparents #doglife #ayurveda #ayurpet"
+    },
+    "sources": [],
+    "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
+    "note": "reel: cover only; video per plan/REELS.md"
   }
 ]
