@@ -787,7 +787,7 @@
       "Blue Cross; RSPCA: fireworks-night welfare guidance (walk in daylight, feed early, den, curtains, background sound)",
       "Chewing as a settling behaviour: general canine behaviour guidance (AKC). Not a clinical claim."
     ],
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again",
+    "status": "READY",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1430,7 +1430,7 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-02/Captions%20-%20W1-02.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "READY",
+    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again",
     "accounts": [
       "ayurpetofficial",
       "ayurpet_global",
