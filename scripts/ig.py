@@ -15,6 +15,7 @@ Read:
   ig.py insights <media_id>                     views, reach, shares (sends), saves, watch time (JSON)
   ig.py account-insights <acct> [--days 7]      follows/unfollows, reach, profile views over the last N days (JSON)
   ig.py status <container_id>                   container processing status
+  ig.py collaborators <media_id>                collab invite status on a post
 Write (a container is created and processed; nothing goes live without --publish):
   ig.py reel <acct> --video-url URL --caption-file F [--cover-url URL] [--thumb-offset MS] [--collab a,b]
             [--user-tag a,b] [--no-feed] [--publish]
@@ -132,6 +133,7 @@ def main():
     x = sp.add_parser("insights"); x.add_argument("media_id")
     x = sp.add_parser("account-insights"); x.add_argument("acct"); x.add_argument("--days", type=int, default=7)
     x = sp.add_parser("status"); x.add_argument("container")
+    x = sp.add_parser("collaborators"); x.add_argument("media_id")
     x = sp.add_parser("publish"); x.add_argument("acct"); x.add_argument("container")
     x = sp.add_parser("reel"); x.add_argument("acct"); x.add_argument("--video-url", required=True)
     x.add_argument("--caption-file", required=True); x.add_argument("--cover-url"); x.add_argument("--thumb-offset", type=int)
@@ -183,6 +185,8 @@ def main():
                     kind = row["dimension_values"][0]  # FOLLOWER = people who followed, NON_FOLLOWER = who unfollowed
                     res["new_follows" if kind == "FOLLOWER" else "unfollows"] = row["value"]
         out({"account": a.acct, "days": a.days, **res})
+    elif a.cmd == "collaborators":
+        out({"media_id": a.media_id, "collaborators": call("GET", f"{a.media_id}/collaborators").get("data", [])})
     elif a.cmd == "status":
         out(call("GET", a.container, {"fields": "status_code,status"}))
     elif a.cmd == "publish":
