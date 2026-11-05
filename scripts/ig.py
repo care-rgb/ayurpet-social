@@ -172,12 +172,16 @@ def main():
         out({"media_id": a.media_id, "type": kind, **{m["name"]: m["values"][0]["value"] for m in r.get("data", [])}})
     elif a.cmd == "account-insights":
         until = int(time.time()); since = until - a.days * 86400
-        r = call("GET", f"{acct(a.acct)}/insights", {"metric": "follows_and_unfollows,reach,profile_views,accounts_engaged",
-                 "period": "day", "metric_type": "total_value", "since": since, "until": until})
-        res = {}
-        for m in r.get("data", []):
-            tv = m.get("total_value", {})
-            res[m["name"]] = tv.get("value") if not tv.get("breakdowns") else tv["breakdowns"]
+        q = {"period": "day", "metric_type": "total_value", "since": since, "until": until}
+        r = call("GET", f"{acct(a.acct)}/insights", {"metric": "reach,profile_views,accounts_engaged,views", **q})
+        res = {m["name"]: m.get("total_value", {}).get("value") for m in r.get("data", [])}
+        # new follows and unfollows only come split by follow_type
+        f = call("GET", f"{acct(a.acct)}/insights", {"metric": "follows_and_unfollows", "breakdown": "follow_type", **q})
+        for m in f.get("data", []):
+            for b in m.get("total_value", {}).get("breakdowns", []):
+                for row in b.get("results", []):
+                    kind = row["dimension_values"][0]  # FOLLOWER = people who followed, NON_FOLLOWER = who unfollowed
+                    res["new_follows" if kind == "FOLLOWER" else "unfollows"] = row["value"]
         out({"account": a.acct, "days": a.days, **res})
     elif a.cmd == "status":
         out(call("GET", a.container, {"fields": "status_code,status"}))
