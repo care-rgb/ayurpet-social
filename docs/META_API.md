@@ -16,7 +16,7 @@ Zapier's free tier ran out on 5 Nov 2026. Every AyurPet routine now talks to Met
 ## Where the token lives
 The token is never written into any repo, chat or log.
 - **Karan's Mac:** `~/.config/ayurpet/meta_ig_token`, readable only by Karan's user.
-- **Cloud routines:** the variable `META_IG_TOKEN` in the claude.ai/code environments "Default" (Reel Post, Carousel Post) and "AyurPet Reels" (Growth Analyst).
+- **Cloud routines:** all three run in the claude.ai/code environment "AyurPet Reels" (env_01TmA9Ccw9Doonpu5du4PKYW). The token is a Network secret there (type Bearer, website graph.facebook.com). A proxy adds it to every Meta request, so no Claude session ever sees it. The environment variable `META_IG_TOKEN=proxy` tells ig.py to rely on that, and graph.facebook.com is on the environment's allowed domains.
 - **Kainaat's laptop:** Karan shares the token through a password manager. She sets it as the user environment variable `META_IG_TOKEN` (Windows: Settings, System, About, Advanced system settings, Environment Variables, New).
 
 To replace the token: in Business Settings, go to System users, then Revoke tokens. Generate a new one (it needs a second admin's approval), then update all three places above.
