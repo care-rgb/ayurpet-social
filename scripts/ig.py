@@ -40,6 +40,9 @@ def token():
     t = os.environ.get("META_IG_TOKEN", "").strip()
     if not t:
         die("META_IG_TOKEN is not set (add it to this environment's variables; never paste it in chat)")
+    if not t.isascii() or any(c.isspace() for c in t) or len(t) < 100:
+        die(f"META_IG_TOKEN does not look like a Meta access token ({len(t)} characters, with spaces or "
+            "non-ASCII). Copy the token itself from Meta's Generate token dialog")
     return t
 
 
