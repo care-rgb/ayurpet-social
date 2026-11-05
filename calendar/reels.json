@@ -286,6 +286,60 @@
     "source": "mm3 (Mindful Moments, bladder sweep); spec library/amanda/edits/06_sweep.py in care-rgb/ayurpet-reels"
   },
   {
+    "date": "2026-11-05",
+    "status": "POSTED",
+    "approved": "Karan 2026-11-05: post on ayurpet_global today",
+    "times_ist": {
+      "ayurpet_global": "19:01"
+    },
+    "accounts": [
+      "ayurpet_global"
+    ],
+    "video_urls": {
+      "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-05_diwali-streetdog_v3.mp4"
+    },
+    "captions": {
+      "ayurpet_global": "For us, it's a few loud minutes. For them, it's the whole night. 🪔\n\nEvery lane has one. The dog who flinches at every bang and has nowhere to go.\n\nTonight, leave a bowl of water and an old blanket by your gate. It costs nothing, and for a frightened street dog it can be the one safe corner on the street.\n\nAnd if your own dog shakes at the noise: keep them indoors, close the curtains, put on soft music and stay close.\n\nLight a diya. Skip the cracker.\n\nSend this to someone who feeds the dogs on their street. 🐾\n\n#Diwali #HappyDiwali #StreetDogs #IndieDogs #DogsOfIndia #KindnessToAnimals #FireworksAndDogs #AyurPet #AyurvedaForPets"
+    },
+    "posted": {
+      "ayurpet_global": "https://www.instagram.com/reel/DfXI7OlnHiq/"
+    },
+    "type": "reel",
+    "series": "Diwali: Care for Pets",
+    "title": "For them, it's the whole night (Diwali street dog film)",
+    "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-05_diwali-streetdog_v3_cover.jpg",
+    "collaborators": [],
+    "user_tags": [],
+    "edit_check": "PASS 2026-11-05: v3 watched end to end, 37.6 s, -14 LUFS, own piano/strings score (no stock), word-by-word subtitles off the dogs, delogo'd Flow clips, end card + AyurPet logo, no product",
+    "source": "ads/20-diwali-streetdog in care-rgb/ayurpet-reels (StoryReel, plan build/C2); AI footage: switch on the AI info label in the app"
+  },
+  {
+    "date": "2026-11-06",
+    "status": "READY",
+    "approved": "Karan 2026-11-05: post on ayurpetofficial tomorrow (not today)",
+    "times_ist": {
+      "ayurpetofficial": "19:00"
+    },
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "video_urls": {
+      "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-05_diwali-streetdog_v3.mp4"
+    },
+    "captions": {
+      "ayurpetofficial": "For us, it's a few loud minutes. For them, it's the whole night. 🪔\n\nEvery gali has one. The dog who flinches at every bang and has nowhere to go.\n\nThis Diwali, keep a bowl of water and an old blanket by your gate. It costs nothing, and for a scared street dog it can be the one safe corner in the whole lane.\n\nIf your own dog shakes at the noise: keep them indoors, close the windows and curtains, put on soft music and stay close to them.\n\nLight a diya. Skip the cracker.\n\nTag someone who feeds the dogs in your society. 🐾\n\n#Diwali #HappyDiwali #StreetDogs #IndieDogs #DogsOfIndia #AdoptIndies #KindnessToAnimals #AyurPet #AyurvedaForPets"
+    },
+    "note": "Fills the 6 Nov 'Street dogs at Diwali' welfare slot (schedule.json HOLD carousel); one post per account per day",
+    "type": "reel",
+    "series": "Diwali: Care for Pets",
+    "title": "For them, it's the whole night (Diwali street dog film)",
+    "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-05_diwali-streetdog_v3_cover.jpg",
+    "collaborators": [],
+    "user_tags": [],
+    "edit_check": "PASS 2026-11-05: v3 watched end to end, 37.6 s, -14 LUFS, own piano/strings score (no stock), word-by-word subtitles off the dogs, delogo'd Flow clips, end card + AyurPet logo, no product",
+    "source": "ads/20-diwali-streetdog in care-rgb/ayurpet-reels (StoryReel, plan build/C2); AI footage: switch on the AI info label in the app"
+  },
+  {
     "date": "PARKED-CAT",
     "type": "reel",
     "section": "Cat videos",
