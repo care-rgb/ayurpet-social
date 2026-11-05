@@ -38,9 +38,14 @@ def die(msg):
 
 
 def token():
+    """The token, or None when META_IG_TOKEN=proxy: the cloud environment's network secret for graph.facebook.com
+    adds the Authorization header on the way out, so the session never holds the token."""
     t = os.environ.get("META_IG_TOKEN", "").strip()
     if not t:
-        die("META_IG_TOKEN is not set (add it to this environment's variables; never paste it in chat)")
+        die("META_IG_TOKEN is not set (a cloud environment sets it to 'proxy' plus a network secret for "
+            "graph.facebook.com; a laptop sets the token itself. Never paste it in chat)")
+    if t.lower() == "proxy":
+        return None
     if not t.isascii() or any(c.isspace() for c in t) or len(t) < 100:
         die(f"META_IG_TOKEN does not look like a Meta access token ({len(t)} characters, with spaces or "
             "non-ASCII). Copy the token itself from Meta's Generate token dialog")
@@ -48,16 +53,22 @@ def token():
 
 
 def call(method, path, params=None, tok=None):
-    """One Graph API call; the token travels in the Authorization header, never in a printed URL."""
+    """One Graph API call. The business token travels in the Authorization header (or is added by the proxy); a page
+    token (tok) travels as the access_token parameter, which Meta reads first. Tokens never appear in printed text."""
     params = {k: (json.dumps(v) if isinstance(v, (list, dict)) else str(v)) for k, v in (params or {}).items()
               if v is not None}
+    headers = {}
+    if tok:
+        params["access_token"] = tok
+    elif token():
+        headers["Authorization"] = f"Bearer {token()}"
     url = f"{BASE}/{path.lstrip('/')}"
     data = None
     if method == "GET":
         url += ("?" + urllib.parse.urlencode(params)) if params else ""
     else:
         data = urllib.parse.urlencode(params).encode()
-    req = urllib.request.Request(url, data=data, method=method, headers={"Authorization": f"Bearer {tok or token()}"})
+    req = urllib.request.Request(url, data=data, method=method, headers=headers)
     for attempt in range(3):
         try:
             with urllib.request.urlopen(req, timeout=90) as r:
