@@ -1216,7 +1216,7 @@
       "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/A_drawn/day08/slide-08.png"
     ],
     "github_repo": "care-rgb/ayurpet-social",
-    "status": "HOLD: welfare candidate for 6 Nov (sheet: second welfare message). v1 content; rebuild to the new standard before it can go READY.",
+    "status": "PARKED: superseded by the 6-15 Nov plan (6 Nov). Was: HOLD: welfare candidate for 6 Nov (sheet: second welfare message). v1 content; rebuild to the new standard before it can go READY.",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1316,7 +1316,7 @@
       "Blue Cross; RSPCA: fireworks-night welfare guidance (walk and feed before dark, den, curtains, stay with the dog)",
       "ASPCA Animal Poison Control: raisins, chocolate, xylitol; burns from open flames"
     ],
-    "status": "HOLD: built by AyurPet 22 Oct; flips to READY once the founder approves",
+    "status": "PARKED: superseded by the 6-15 Nov plan (6 Nov). Was: HOLD: built by AyurPet 22 Oct; flips to READY once the founder approves",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1349,7 +1349,7 @@
     "github_urls": [],
     "captions": {},
     "sources": [],
-    "status": "HOLD: AyurPet to produce (Flow video or drawn carousel fallback); founder approves the cut before it goes READY.",
+    "status": "PARKED: superseded by the 6-15 Nov plan (6 Nov). Was: HOLD: AyurPet to produce (Flow video or drawn carousel fallback); founder approves the cut before it goes READY.",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1375,7 +1375,7 @@
     "github_urls": [],
     "captions": {},
     "sources": [],
-    "status": "HOLD: depends on the combo/kit decision (28 Oct post) and whether CoolCalm+ and chews are in stock in India; AyurPet drafts once confirmed",
+    "status": "PARKED: superseded by the 6-15 Nov plan (6 Nov). Was: HOLD: depends on the combo/kit decision (28 Oct post) and whether CoolCalm+ and chews are in stock in India; AyurPet drafts once confirmed",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1430,7 +1430,7 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-02/Captions%20-%20W1-02.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
+    "status": "PARKED: superseded by the 6-15 Nov plan (6 Nov). Was: HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1482,7 +1482,7 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-03/Captions%20-%20W1-03.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
+    "status": "PARKED: superseded by the 6-15 Nov plan (6 Nov). Was: HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1538,7 +1538,7 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-04/Captions%20-%20W1-04.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
+    "status": "PARKED: superseded by the 6-15 Nov plan (6 Nov). Was: HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1592,7 +1592,7 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-06/Captions%20-%20W1-06.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
+    "status": "PARKED: superseded by the 6-15 Nov plan (6 Nov). Was: HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -1645,7 +1645,7 @@
     "github_repo": "care-rgb/ayurpet-social",
     "caption_docx": "https://github.com/care-rgb/ayurpet-social/blob/main/captions/w1-07/Captions%20-%20W1-07.docx",
     "version": "v3 (Week 1, new standard)",
-    "status": "HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
+    "status": "PARKED: superseded by the 6-15 Nov plan (6 Nov). Was: HOLD: brand reset 5 Nov (Karan): rebuild to the new social standard, then READY again | global slot moved to the 6-15 Nov plan (5 Nov)",
     "accounts": [
       "ayurpetofficial",
       "facebook"
@@ -2045,6 +2045,611 @@
     },
     "sources": [],
     "status": "DRAFT: scheduled 5 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
+    "note": "reel: cover only; video per plan/REELS.md"
+  },
+  {
+    "day": 1,
+    "date": "2026-11-06",
+    "post_time_ist": "19:00",
+    "title": "Diwali leftovers that send dogs to the vet",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "diwali leftovers that send dogs to the vet",
+    "lever": "protective worry, save",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 8,
+    "files": {
+      "plan10": [
+        "plan10/1106_IN_leftovers_01.jpg",
+        "plan10/1106_IN_leftovers_02.jpg",
+        "plan10/1106_IN_leftovers_03.jpg",
+        "plan10/1106_IN_leftovers_04.jpg",
+        "plan10/1106_IN_leftovers_05.jpg",
+        "plan10/1106_IN_leftovers_06.jpg",
+        "plan10/1106_IN_leftovers_07.jpg",
+        "plan10/1106_IN_leftovers_08.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1106_IN_leftovers_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1106_IN_leftovers_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1106_IN_leftovers_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1106_IN_leftovers_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1106_IN_leftovers_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1106_IN_leftovers_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1106_IN_leftovers_07.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1106_IN_leftovers_08.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "The mithai box opens tonight. He'll be sitting right next to it.\n\nSix Diwali leftovers that land dogs at the vet every year, and none of them look dangerous.\n\nSave this before the sweets come out, and send it to the one who always shares.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "ASPCA Animal Poison Control Center: people foods to avoid",
+      "Merck Veterinary Manual"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 2,
+    "date": "2026-11-07",
+    "post_time_ist": "19:00",
+    "title": "Where he goes when the crackers start",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "where he goes when the crackers start",
+    "lever": "protective worry turned into action",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 5,
+    "files": {
+      "plan10": [
+        "plan10/1107_IN_crackers_01.jpg",
+        "plan10/1107_IN_crackers_02.jpg",
+        "plan10/1107_IN_crackers_03.jpg",
+        "plan10/1107_IN_crackers_04.jpg",
+        "plan10/1107_IN_crackers_05.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_IN_crackers_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_IN_crackers_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_IN_crackers_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_IN_crackers_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_IN_crackers_05.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "Under the bed, behind the sofa, in the bathroom. That's not drama, that's fear.\n\nThree small things make the loudest night easier for him. The den matters most.\n\nSend this to every dog parent in your building.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "ASPCA: noise anxiety in dogs"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 2,
+    "date": "2026-11-07",
+    "post_time_ist": "21:00",
+    "title": "Tonight is louder for him",
+    "kind": "reel",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "tonight is louder for him",
+    "lever": "worry, send",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 1,
+    "files": {
+      "plan10": [
+        "plan10/1107_IN_louder-reel_01.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1107_IN_louder-reel_01.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "To you, it's one cracker. To him, it's a wall of noise.\n\nA quiet room in four steps: a den, curtains drawn, a fan for steady sound, and you close by.\n\nSend this to someone whose dog hides on Diwali night.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "GADVASU (Ludhiana) on noise and pets"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
+    "note": "reel: cover only; video per plan/REELS.md"
+  },
+  {
+    "day": 3,
+    "date": "2026-11-08",
+    "post_time_ist": "19:00",
+    "title": "Today, Nepal garlands every dog",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "today, nepal garlands every dog",
+    "lever": "awe, heritage pride, send",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 7,
+    "files": {
+      "plan10": [
+        "plan10/1108_IN_kukur-tihar_01.jpg",
+        "plan10/1108_IN_kukur-tihar_02.jpg",
+        "plan10/1108_IN_kukur-tihar_03.jpg",
+        "plan10/1108_IN_kukur-tihar_04.jpg",
+        "plan10/1108_IN_kukur-tihar_05.jpg",
+        "plan10/1108_IN_kukur-tihar_06.jpg",
+        "plan10/1108_IN_kukur-tihar_07.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_IN_kukur-tihar_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_IN_kukur-tihar_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_IN_kukur-tihar_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_IN_kukur-tihar_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_IN_kukur-tihar_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_IN_kukur-tihar_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1108_IN_kukur-tihar_07.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "Happy Diwali from all of us. And in Nepal today, every dog gets a tika, a marigold mala and the first plate.\n\nIt's Kukur Tihar, the day of the dog. We think he'd approve.\n\nSend this to a dog parent who lives abroad.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "Kukur Tihar (Wikipedia, sources within)"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 4,
+    "date": "2026-11-09",
+    "post_time_ist": "19:00",
+    "title": "The morning after Diwali: check these 4 things",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "the morning after diwali: check these 4 things",
+    "lever": "fear of missing a sign, save",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 6,
+    "files": {
+      "plan10": [
+        "plan10/1109_IN_morning-after_01.jpg",
+        "plan10/1109_IN_morning-after_02.jpg",
+        "plan10/1109_IN_morning-after_03.jpg",
+        "plan10/1109_IN_morning-after_04.jpg",
+        "plan10/1109_IN_morning-after_05.jpg",
+        "plan10/1109_IN_morning-after_06.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1109_IN_morning-after_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1109_IN_morning-after_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1109_IN_morning-after_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1109_IN_morning-after_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1109_IN_morning-after_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1109_IN_morning-after_06.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "The loudest night is over. Before breakfast, take two minutes for these four checks.\n\nPaws, what he ate, where he's hiding, and his bowl. If anything looks off, call your vet today.\n\nSave this for tomorrow morning.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "ASPCA Animal Poison Control Center"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 4,
+    "date": "2026-11-09",
+    "post_time_ist": "21:00",
+    "title": "Me, checking on him every 10 minutes on Diwali night",
+    "kind": "reel",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "me, checking on him every 10 minutes on diwali night",
+    "lever": "recognition humour, send",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 1,
+    "files": {
+      "plan10": [
+        "plan10/1109_IN_2am-reel_01.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1109_IN_2am-reel_01.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "Cotton in his ears, fan on full, one hand on his head, and you haven't slept since 9 pm.\n\nEvery Indian dog parent knows this night.\n\nTag the one who did this last night.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
+    "note": "reel: cover only; video per plan/REELS.md"
+  },
+  {
+    "day": 5,
+    "date": "2026-11-10",
+    "post_time_ist": "19:00",
+    "title": "AQI 400 outside. Rethink his walk.",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "aqi 400 outside. rethink his walk.",
+    "lever": "worry, save (NCR)",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 7,
+    "files": {
+      "plan10": [
+        "plan10/1110_IN_aqi_01.jpg",
+        "plan10/1110_IN_aqi_02.jpg",
+        "plan10/1110_IN_aqi_03.jpg",
+        "plan10/1110_IN_aqi_04.jpg",
+        "plan10/1110_IN_aqi_05.jpg",
+        "plan10/1110_IN_aqi_06.jpg",
+        "plan10/1110_IN_aqi_07.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_IN_aqi_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_IN_aqi_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_IN_aqi_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_IN_aqi_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_IN_aqi_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_IN_aqi_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1110_IN_aqi_07.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "His nose is closer to the smoke than yours, on every walk.\n\nWalk at the quiet hours, wipe his face and paws, and keep flat-faced breeds in on the worst days. Watch for coughing, watery eyes and heavy panting.\n\nSend this to every dog parent in Delhi NCR.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "ThePrint: Delhi vets on smog-season cases in pets"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 6,
+    "date": "2026-11-11",
+    "post_time_ist": "19:00",
+    "title": "Nani said no dogs inside",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "nani said no dogs inside",
+    "lever": "pride, nostalgia, comments",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 5,
+    "files": {
+      "plan10": [
+        "plan10/1111_IN_nani_01.jpg",
+        "plan10/1111_IN_nani_02.jpg",
+        "plan10/1111_IN_nani_03.jpg",
+        "plan10/1111_IN_nani_04.jpg",
+        "plan10/1111_IN_nani_05.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_IN_nani_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_IN_nani_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_IN_nani_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_IN_nani_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_IN_nani_05.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "Twenty years ago, the dog slept on the verandah. Today he has a spot by the jhoola, and nani saves it for him.\n\nMore than half of Indian pet parents now call their dog family.\n\nWho changed their mind in your house? Tell us below.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "TGM Research, Pet Humanization Report India, 2025"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 6,
+    "date": "2026-11-11",
+    "post_time_ist": "21:00",
+    "title": "20 quiet minutes. Finally.",
+    "kind": "reel",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "20 quiet minutes. finally.",
+    "lever": "product, calm",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 1,
+    "files": {
+      "plan10": [
+        "plan10/1111_IN_chew-reel_01.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1111_IN_chew-reel_01.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "Twenty minutes of quiet chewing, and a calmer dog after it.\n\nOur Himalayan yak cheese chews are made from milk, with no added chemicals. A few drops of GoodGut+ go in his bowl the same evening.\n\nSave this for the next restless afternoon.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
+    "note": "reel: cover only; video per plan/REELS.md"
+  },
+  {
+    "day": 7,
+    "date": "2026-11-12",
+    "post_time_ist": "19:00",
+    "title": "8 winter foods from your kitchen that are safe for him",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "8 winter foods from your kitchen that are safe for him",
+    "lever": "save, send to family",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 10,
+    "files": {
+      "plan10": [
+        "plan10/1112_IN_winter-foods_01.jpg",
+        "plan10/1112_IN_winter-foods_02.jpg",
+        "plan10/1112_IN_winter-foods_03.jpg",
+        "plan10/1112_IN_winter-foods_04.jpg",
+        "plan10/1112_IN_winter-foods_05.jpg",
+        "plan10/1112_IN_winter-foods_06.jpg",
+        "plan10/1112_IN_winter-foods_07.jpg",
+        "plan10/1112_IN_winter-foods_08.jpg",
+        "plan10/1112_IN_winter-foods_09.jpg",
+        "plan10/1112_IN_winter-foods_10.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_07.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_08.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_09.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1112_IN_winter-foods_10.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "Your winter kitchen already has his healthiest treats.\n\nShakarkandi, gajar, kaddu and four more: plain, cooked, in small amounts. No salt, no masala, no ghee.\n\nSend this to the one who cooks for him.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "ASPCA: foods dogs can eat in moderation",
+      "Merck Veterinary Manual"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 8,
+    "date": "2026-11-13",
+    "post_time_ist": "19:00",
+    "title": "4:55 pm. Already at the window.",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "4:55 pm. already at the window.",
+    "lever": "authority, Ayurveda",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 7,
+    "files": {
+      "plan10": [
+        "plan10/1113_IN_body-clock_01.jpg",
+        "plan10/1113_IN_body-clock_02.jpg",
+        "plan10/1113_IN_body-clock_03.jpg",
+        "plan10/1113_IN_body-clock_04.jpg",
+        "plan10/1113_IN_body-clock_05.jpg",
+        "plan10/1113_IN_body-clock_06.jpg",
+        "plan10/1113_IN_body-clock_07.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_IN_body-clock_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_IN_body-clock_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_IN_body-clock_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_IN_body-clock_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_IN_body-clock_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_IN_body-clock_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_IN_body-clock_07.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "He knows it's almost walk time before you do.\n\nAyurveda calls this dinacharya, a daily rhythm. Walk in the kapha hours, his main meal at midday, calm in the evening.\n\nSave this and try his day for one week.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "Ashtanga Hridayam, Sutrasthana 2 (dinacharya)"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 8,
+    "date": "2026-11-13",
+    "post_time_ist": "21:00",
+    "title": "His favourite place in the house",
+    "kind": "reel",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "his favourite place in the house",
+    "lever": "love, send",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 1,
+    "files": {
+      "plan10": [
+        "plan10/1113_IN_favourite-place-reel_01.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1113_IN_favourite-place-reel_01.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "Not the bed. Not the sofa. You.\n\nDogs pick one person to rest on, the one who smells most like home.\n\nTag the person he chose.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
+    "note": "reel: cover only; video per plan/REELS.md"
+  },
+  {
+    "day": 9,
+    "date": "2026-11-14",
+    "post_time_ist": "19:00",
+    "title": "Words we have to spell now that we have a dog",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "words we have to spell now that we have a dog",
+    "lever": "recognition humour, comments",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 7,
+    "files": {
+      "plan10": [
+        "plan10/1114_IN_spell_01.jpg",
+        "plan10/1114_IN_spell_02.jpg",
+        "plan10/1114_IN_spell_03.jpg",
+        "plan10/1114_IN_spell_04.jpg",
+        "plan10/1114_IN_spell_05.jpg",
+        "plan10/1114_IN_spell_06.jpg",
+        "plan10/1114_IN_spell_07.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_IN_spell_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_IN_spell_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_IN_spell_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_IN_spell_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_IN_spell_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_IN_spell_06.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1114_IN_spell_07.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "Happy Children's Day to the real kids of the house.\n\nW-A-L-K, B-A-H-A-R, V-E-T. Some words just can't be said out loud anymore.\n\nWhat do you spell in your house? Tell us below.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 10,
+    "date": "2026-11-15",
+    "post_time_ist": "19:00",
+    "title": "The face he makes when you pack a suitcase",
+    "kind": "feed",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "the face he makes when you pack a suitcase",
+    "lever": "guilt turned into action, save",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 6,
+    "files": {
+      "plan10": [
+        "plan10/1115_IN_suitcase_01.jpg",
+        "plan10/1115_IN_suitcase_02.jpg",
+        "plan10/1115_IN_suitcase_03.jpg",
+        "plan10/1115_IN_suitcase_04.jpg",
+        "plan10/1115_IN_suitcase_05.jpg",
+        "plan10/1115_IN_suitcase_06.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1115_IN_suitcase_01.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1115_IN_suitcase_02.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1115_IN_suitcase_03.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1115_IN_suitcase_04.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1115_IN_suitcase_05.jpg",
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1115_IN_suitcase_06.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "The suitcase comes out and he lies down right next to it.\n\nThat's separation stress, and three small things make leaving easier for him.\n\nSend this to whoever's travelling next.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "ASPCA: separation anxiety"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images are in",
+    "note": "carousel built in carousels/out_plan (plan10.mjs)"
+  },
+  {
+    "day": 10,
+    "date": "2026-11-15",
+    "post_time_ist": "21:00",
+    "title": "Sunday oil massage, the Ayurvedic way",
+    "kind": "reel",
+    "campaign": "10-day reset, 6-15 Nov 2026",
+    "hook": "sunday oil massage, the ayurvedic way",
+    "lever": "Ayurveda, save",
+    "accounts": [
+      "ayurpetofficial"
+    ],
+    "instagram": {
+      "ayurpetofficial": "17841472849482734"
+    },
+    "slides": 1,
+    "files": {
+      "plan10": [
+        "plan10/1115_IN_abhyanga-reel_01.jpg"
+      ]
+    },
+    "github_urls": [
+      "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/plan10/1115_IN_abhyanga-reel_01.jpg"
+    ],
+    "captions": {
+      "ayurpetofficial": "Abhyanga, Ayurveda's warm oil massage, works for him too.\n\nA little warm sesame oil, slow strokes from head to tail, three minutes. Skip the face and any sore spots.\n\nSave this for Sunday.\n\n#dogsofindia #dogparentsindia #indiedogs #ayurveda #ayurpet"
+    },
+    "sources": [
+      "Charaka Samhita, Sutrasthana 5 (abhyanga)"
+    ],
+    "status": "DRAFT: scheduled 6 Nov (Karan approved the plan). READY once the final full-resolution images and the reel video are in",
     "note": "reel: cover only; video per plan/REELS.md"
   }
 ]
