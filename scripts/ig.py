@@ -152,6 +152,7 @@ def main():
     x.add_argument("--publish", action="store_true")
     x = sp.add_parser("carousel"); x.add_argument("acct"); x.add_argument("--image-url", action="append", required=True)
     x.add_argument("--caption-file", required=True); x.add_argument("--collab", default=""); x.add_argument("--publish", action="store_true")
+    x.add_argument("--alt-text", action="append", default=[], help="alt text per slide, in --image-url order (keywords help IG + Google search)")
     x = sp.add_parser("story"); x.add_argument("acct"); x.add_argument("--video-url"); x.add_argument("--image-url")
     x.add_argument("--publish", action="store_true")
     x = sp.add_parser("fb-photos"); x.add_argument("page"); x.add_argument("--image-url", action="append", required=True)
@@ -213,7 +214,9 @@ def main():
         ig = acct(a.acct)
         if not 2 <= len(a.image_url) <= 20:
             die(f"a carousel needs 2 to 20 images, got {len(a.image_url)}")
-        kids = [call("POST", f"{ig}/media", {"image_url": u, "is_carousel_item": "true"})["id"] for u in a.image_url]
+        alts = a.alt_text + [""] * (len(a.image_url) - len(a.alt_text))
+        kids = [call("POST", f"{ig}/media", {"image_url": u, "is_carousel_item": "true", **({"alt_text": t[:1000]} if t else {})})["id"]
+                for u, t in zip(a.image_url, alts)]
         for k in kids:
             wait(k, 5)
         c = call("POST", f"{ig}/media", {"media_type": "CAROUSEL", "children": ",".join(kids),
