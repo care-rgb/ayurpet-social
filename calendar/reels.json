@@ -364,10 +364,10 @@
   "type": "reel",
   "series": "Diwali: Care for Pets",
   "title": "Diwali is over. The smog isn't. (post-Diwali dog aftercare, short cut + AI stills)",
-  "status": "READY",
+  "status": "POSTED",
   "approved": "Karan 2026-11-10: approval relayed by Kainaat in chat; no written reply seen in the email thread yet",
   "times_ist": {
-   "ayurpetofficial": "18:15"
+   "ayurpetofficial": "18:05"
   },
   "accounts": [
    "ayurpetofficial"
@@ -380,6 +380,9 @@
   },
   "collaborators": [],
   "user_tags": [],
-  "edit_check": "PARTIAL 2026-11-10: frames checked, length 54.9 s, audio and video match; founder watched with sound? not confirmed. AI stills carry an on-screen 'AI image' tag; AI info label and music not set (API cannot)."
+  "edit_check": "PARTIAL 2026-11-10: frames checked, length 54.9 s, audio and video match; founder watched with sound? not confirmed. AI stills carry an on-screen 'AI image' tag; AI info label and music not set (API cannot).",
+  "posted": {
+   "ayurpetofficial": "https://www.instagram.com/reel/Dfj6tBzCHUV/"
+  }
  }
 ]
