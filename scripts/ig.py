@@ -23,6 +23,7 @@ Write (a container is created and processed; nothing goes live without --publish
   ig.py story <acct> (--video-url URL | --image-url URL) [--publish]
   ig.py publish <acct> <container_id>
   ig.py fb-photos <page> --image-url URL [...] --message-file F [--publish]    multi-photo Facebook Page post
+  ig.py fb-video <page> --video-url URL --message-file F [--title T] [--publish] Facebook Page video post
 Every command prints JSON on stdout. Errors go to stderr with Meta's message and exit code 2.
 """
 import argparse, json, os, sys, time, urllib.error, urllib.parse, urllib.request
@@ -157,6 +158,8 @@ def main():
     x.add_argument("--publish", action="store_true")
     x = sp.add_parser("fb-photos"); x.add_argument("page"); x.add_argument("--image-url", action="append", required=True)
     x.add_argument("--message-file", required=True); x.add_argument("--publish", action="store_true")
+    x = sp.add_parser("fb-video"); x.add_argument("page"); x.add_argument("--video-url", required=True)
+    x.add_argument("--message-file", required=True); x.add_argument("--title"); x.add_argument("--publish", action="store_true")
     a = p.parse_args()
     names = lambda s: [u.strip().lstrip("@") for u in s.split(",") if u.strip()]
 
@@ -243,6 +246,19 @@ def main():
             params[f"attached_media[{i}]"] = {"media_fbid": fid}
         post = call("POST", f"{page}/feed", params, tok=ptok["access_token"])
         out({"result": "POSTED", "page": ptok.get("name"), "post_id": post.get("id")})
+    elif a.cmd == "fb-video":
+        page = PAGES.get(a.page, a.page)
+        ptok = call("GET", page, {"fields": "access_token,name"})
+        if "access_token" not in ptok:
+            die("no page token: the system user needs the page as an asset with pages_manage_posts")
+        if not a.publish:
+            out({"result": "READY_NOT_PUBLISHED", "page": ptok.get("name"),
+                 "note": "page token works; run with --publish to post"}); return
+        # Facebook fetches the file from the public URL itself and processes it after this call returns
+        v = call("POST", f"{page}/videos", {"file_url": a.video_url, "description": caption(a.message_file),
+                 "title": a.title}, tok=ptok["access_token"])
+        out({"result": "POSTED", "page": ptok.get("name"), "video_id": v.get("id"),
+             "url": f"https://www.facebook.com/{page}/videos/{v.get('id')}"})
 
 
 if __name__ == "__main__":

@@ -384,5 +384,37 @@
   "posted": {
    "ayurpetofficial": "https://www.instagram.com/reel/Dfj6tBzCHUV/"
   }
+ },
+ {
+  "date": "2026-11-12",
+  "type": "reel",
+  "series": "GoodGut+",
+  "title": "How to fix your dog's gut, explained like you're five (GoodGut+ v2.1, 2:02)",
+  "status": "POSTING",
+  "approved": "Karan 2026-11-12 in chat: post today to both IG accounts + FB page, caption approved as drafted, no AI line",
+  "times_ist": {
+   "ayurpetofficial": "16:00",
+   "ayurpet_global": "16:00",
+   "facebook": "16:00"
+  },
+  "accounts": [
+   "ayurpetofficial",
+   "ayurpet_global",
+   "facebook"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-12_goodgut-explained-like-5_v2.1.mp4",
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-12_goodgut-explained-like-5_v2.1.mp4",
+   "facebook": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-12_goodgut-explained-like-5_v2.1.mp4"
+  },
+  "captions": {
+   "ayurpetofficial": "How to fix your dog's gut, explained like you're five 🐶\n\nEating grass, licking paws, loose stools. Most of the time it isn't a skin problem. It starts in the gut.\n\nA happy gut needs three things:\n1. Break food down (digestive enzymes)\n2. Calm the gut (triphala, milk thistle, bhumi amla)\n3. Feed the good bacteria (prebiotics from banana, pumpkin, sweet potato and chicory root)\n\nGoodGut+ does all three. A few drops a day, mixed into his food, and dogs love the taste.\n\nSave this, and send it to a dog parent whose dog won't stop licking his paws 🧡\n\nIf the tummy trouble keeps going, check in with your vet. Link in bio.\n\n#dogguthealth #doghealth #ayurveda #dogparents #ayurpet",
+   "ayurpet_global": "How to fix your dog's gut, explained like you're five 🐶\n\nEating grass, licking paws, loose stools. Most of the time it isn't a skin problem. It starts in the gut.\n\nA happy gut needs three things:\n1. Break food down (digestive enzymes)\n2. Calm the gut (triphala, milk thistle, bhumi amla)\n3. Feed the good bacteria (prebiotics from banana, pumpkin, sweet potato and chicory root)\n\nGoodGut+ does all three. A few drops a day, mixed into his food, and dogs love the taste.\n\nSave this, and send it to a dog parent whose dog won't stop licking his paws 🧡\n\nIf the tummy trouble keeps going, check in with your vet. Link in bio.\n\n#dogguthealth #doghealth #ayurveda #dogparents #ayurpet",
+   "facebook": "How to fix your dog's gut, explained like you're five 🐶\n\nEating grass, licking paws, loose stools. Most of the time it isn't a skin problem. It starts in the gut.\n\nA happy gut needs three things:\n1. Break food down (digestive enzymes)\n2. Calm the gut (triphala, milk thistle, bhumi amla)\n3. Feed the good bacteria (prebiotics from banana, pumpkin, sweet potato and chicory root)\n\nGoodGut+ does all three. A few drops a day, mixed into his food, and dogs love the taste.\n\nSave this, and send it to a dog parent whose dog won't stop licking his paws 🧡\n\nIf the tummy trouble keeps going, check in with your vet. Link in bio.\n\n#dogguthealth #doghealth #ayurveda #dogparents #ayurpet"
+  },
+  "collaborators": [],
+  "user_tags": [],
+  "edit_check": "2026-11-12: re-encoded from remotion/out/gg21_v2.mp4 (v2.1 render, Drive copy would not download), -14.5 LUFS, 122.4 s, 1080x1920, 75.6 MB",
+  "posted": {}
  }
 ]
