@@ -390,12 +390,12 @@
   "type": "reel",
   "series": "GoodGut+",
   "title": "How to fix your dog's gut, explained like you're five (GoodGut+ v2.1, 2:02)",
-  "status": "POSTING",
+  "status": "POSTED",
   "approved": "Karan 2026-11-12 in chat: post today to both IG accounts + FB page, caption approved as drafted, no AI line",
   "times_ist": {
-   "ayurpetofficial": "16:00",
-   "ayurpet_global": "16:00",
-   "facebook": "16:00"
+   "ayurpet_global": "16:04",
+   "ayurpetofficial": "16:05",
+   "facebook": "16:03"
   },
   "accounts": [
    "ayurpetofficial",
@@ -415,6 +415,10 @@
   "collaborators": [],
   "user_tags": [],
   "edit_check": "2026-11-12: re-encoded from remotion/out/gg21_v2.mp4 (v2.1 render, Drive copy would not download), -14.5 LUFS, 122.4 s, 1080x1920, 75.6 MB",
-  "posted": {}
+  "posted": {
+   "ayurpetofficial": "https://www.instagram.com/reel/Dfo2hNfDr1f/",
+   "ayurpet_global": "https://www.instagram.com/reel/Dfo2bgFDuLR/",
+   "facebook": "https://www.facebook.com/reel/1691452979274999/"
+  }
  }
 ]
