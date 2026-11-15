@@ -429,7 +429,7 @@
   "title": "Is it working? 3 signs your dog is relaxing",
   "status": "READY | Karan OK in chat 15 Nov 2026: post the top 3 global Amanda reels on India, 16-18 Nov",
   "times_ist": {
-   "ayurpetofficial": "17:00"
+   "ayurpetofficial": "19:00"
   },
   "accounts": [
    "ayurpetofficial"
@@ -449,7 +449,7 @@
   },
   "edit_check": "PASS 2026-10-27: watched end to end (frames at 0.5 s steps), no headline, captions lower third, no text on her face, burned-in source captions cropped out, designed cover, end card handle per account",
   "source": "mm1 (Mindful Moments 1, closing tips; sequel to 02); spec library/amanda/edits/10_working.py in care-rgb/ayurpet-reels",
-  "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-11-01, reel 10. Not yet on @ayurpetofficial (checked live feed 14 Nov). Slot 17:00 IST = best window (3 to 5:45 pm)."
+  "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-11-01, reel 10. Not yet on @ayurpetofficial (checked live feed 14 Nov).  | 15 Nov: slot 19:00 IST (the reel routine only fires at 07, 13, 19 and needs an exact match; 17:00 would never post)."
  },
  {
   "date": "2026-11-16",
@@ -459,7 +459,7 @@
   "title": "The calming sweep (fireworks night)",
   "status": "READY | Karan OK in chat 15 Nov 2026: post the top 3 global Amanda reels on India, 16-18 Nov",
   "times_ist": {
-   "ayurpetofficial": "17:00"
+   "ayurpetofficial": "19:00"
   },
   "accounts": [
    "ayurpetofficial"
@@ -480,7 +480,7 @@
   "cover_style": "yellow",
   "edit_check": "PASS 2026-10-23: built with the v3 rules, no headline in the video, captions lower third, no text on her face, designed cover, end card handle per account",
   "source": "mm3 (Mindful Moments, bladder sweep); spec library/amanda/edits/06_sweep.py in care-rgb/ayurpet-reels",
-  "note": "Added 15 Nov 2026. Global original: 2026-11-03, reel 06 (reach 288, 4 saves). Never posted on @ayurpetofficial (checked live feed and collaborators 15 Nov). Global Amanda reels ranked higher (02, lymph 10-13/10-14, 01, wellness 10-16) are already on the India grid."
+  "note": "Added 15 Nov 2026. Global original: 2026-11-03, reel 06 (reach 288, 4 saves). Never posted on @ayurpetofficial (checked live feed and collaborators 15 Nov). Global Amanda reels ranked higher (02, lymph 10-13/10-14, 01, wellness 10-16) are already on the India grid. | 15 Nov: slot 19:00 IST (the reel routine only fires at 07, 13, 19 and needs an exact match; 17:00 would never post)."
  },
  {
   "date": "2026-11-17",
@@ -490,7 +490,7 @@
   "title": "Dogs are masters of mindfulness",
   "status": "READY | Karan OK in chat 15 Nov 2026: post the top 3 global Amanda reels on India, 16-18 Nov",
   "times_ist": {
-   "ayurpetofficial": "17:00"
+   "ayurpetofficial": "19:00"
   },
   "accounts": [
    "ayurpetofficial"
@@ -510,7 +510,7 @@
   },
   "edit_check": "PASS 2026-10-27: watched end to end (frames at 0.5 s steps), no headline, captions lower third, no text on her face, burned-in source captions cropped out, designed cover, end card handle per account",
   "source": "mm7 (Mindful Moments 7, mindfulness); spec library/amanda/edits/07_masters.py in care-rgb/ayurpet-reels",
-  "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-10-30, reel 07. Not yet on @ayurpetofficial (checked live feed 14 Nov). Slot 17:00 IST = best window (3 to 5:45 pm)."
+  "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-10-30, reel 07. Not yet on @ayurpetofficial (checked live feed 14 Nov).  | 15 Nov: slot 19:00 IST (the reel routine only fires at 07, 13, 19 and needs an exact match; 17:00 would never post)."
  },
  {
   "date": "2026-11-22",
@@ -520,7 +520,7 @@
   "title": "Where your dog holds stress (shoulder massage)",
   "status": "HOLD: India re-run of the global Amanda reel; needs Karan's written OK (murada@theayurpet.com). Set READY only after his yes.",
   "times_ist": {
-   "ayurpetofficial": "17:00"
+   "ayurpetofficial": "19:00"
   },
   "accounts": [
    "ayurpetofficial"
@@ -540,6 +540,6 @@
   },
   "edit_check": "PASS 2026-10-27: watched end to end (frames at 0.5 s steps), no headline, captions lower third, no text on her face, burned-in source captions cropped out, designed cover, end card handle per account",
   "source": "mm2 (Mindful Moments 2, basic canine massage); spec library/amanda/edits/09_shoulders.py in care-rgb/ayurpet-reels",
-  "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-10-28, reel 09. Not yet on @ayurpetofficial (checked live feed 14 Nov). Slot 17:00 IST = best window (3 to 5:45 pm). | 15 Nov: left on HOLD; ranks 4th of the India-new Amanda reels (global reach 214)."
+  "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-10-28, reel 09. Not yet on @ayurpetofficial (checked live feed 14 Nov).  | 15 Nov: left on HOLD; ranks 4th of the India-new Amanda reels (global reach 214). | 15 Nov: slot 19:00 IST (the reel routine only fires at 07, 13, 19 and needs an exact match; 17:00 would never post)."
  }
 ]
