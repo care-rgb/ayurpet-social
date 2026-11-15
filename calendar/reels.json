@@ -422,12 +422,12 @@
   }
  },
  {
-  "date": "2026-11-16",
+  "date": "2026-11-18",
   "type": "reel",
   "series": "Amanda Ree x AyurPet (India re-run)",
   "reel": "10",
   "title": "Is it working? 3 signs your dog is relaxing",
-  "status": "HOLD: India re-run of the global Amanda reel; needs Karan's written OK (murada@theayurpet.com). Set READY only after his yes.",
+  "status": "READY | Karan OK in chat 15 Nov 2026: post the top 3 global Amanda reels on India, 16-18 Nov",
   "times_ist": {
    "ayurpetofficial": "17:00"
   },
@@ -452,12 +452,43 @@
   "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-11-01, reel 10. Not yet on @ayurpetofficial (checked live feed 14 Nov). Slot 17:00 IST = best window (3 to 5:45 pm)."
  },
  {
-  "date": "2026-11-19",
+  "date": "2026-11-16",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet (India re-run)",
+  "reel": "06",
+  "title": "The calming sweep (fireworks night)",
+  "status": "READY | Karan OK in chat 15 Nov 2026: post the top 3 global Amanda reels on India, 16-18 Nov",
+  "times_ist": {
+   "ayurpetofficial": "17:00"
+  },
+  "accounts": [
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-22_amanda_calming-sweep_v2-in.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-22_amanda_calming-sweep_v2_cover.jpg",
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "captions": {
+   "ayurpetofficial": "One slow stroke, head to tail, can help your dog let go of the fear. 🐾\n\nFor baraat crackers, the vet visit or any loud night, from Amanda Ree of @samadogwellbeing:\n1. Find a quiet spot where your dog feels safe, and sit close\n2. Hand on the head, one light stroke down the spine to the tail and down the back leg. Shake it off. Three times\n3. Watch for the sigh, the yawn, the body going soft\n\nSave this for the next wedding in your lane. Send it to a dog parent whose dog hides under the bed.\n\nGentle care, not a treatment. If your dog is in pain or panicking, call your vet.\n\n#AyurPet #AyurvedaForPets #DogParentsIndia #DogsOfIndia #CalmDog #IndieDogs"
+  },
+  "cover_style": "yellow",
+  "edit_check": "PASS 2026-10-23: built with the v3 rules, no headline in the video, captions lower third, no text on her face, designed cover, end card handle per account",
+  "source": "mm3 (Mindful Moments, bladder sweep); spec library/amanda/edits/06_sweep.py in care-rgb/ayurpet-reels",
+  "note": "Added 15 Nov 2026. Global original: 2026-11-03, reel 06 (reach 288, 4 saves). Never posted on @ayurpetofficial (checked live feed and collaborators 15 Nov). Global Amanda reels ranked higher (02, lymph 10-13/10-14, 01, wellness 10-16) are already on the India grid."
+ },
+ {
+  "date": "2026-11-17",
   "type": "reel",
   "series": "Amanda Ree x AyurPet (India re-run)",
   "reel": "07",
   "title": "Dogs are masters of mindfulness",
-  "status": "HOLD: India re-run of the global Amanda reel; needs Karan's written OK (murada@theayurpet.com). Set READY only after his yes.",
+  "status": "READY | Karan OK in chat 15 Nov 2026: post the top 3 global Amanda reels on India, 16-18 Nov",
   "times_ist": {
    "ayurpetofficial": "17:00"
   },
@@ -509,6 +540,6 @@
   },
   "edit_check": "PASS 2026-10-27: watched end to end (frames at 0.5 s steps), no headline, captions lower third, no text on her face, burned-in source captions cropped out, designed cover, end card handle per account",
   "source": "mm2 (Mindful Moments 2, basic canine massage); spec library/amanda/edits/09_shoulders.py in care-rgb/ayurpet-reels",
-  "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-10-28, reel 09. Not yet on @ayurpetofficial (checked live feed 14 Nov). Slot 17:00 IST = best window (3 to 5:45 pm)."
+  "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-10-28, reel 09. Not yet on @ayurpetofficial (checked live feed 14 Nov). Slot 17:00 IST = best window (3 to 5:45 pm). | 15 Nov: left on HOLD; ranks 4th of the India-new Amanda reels (global reach 214)."
  }
 ]
