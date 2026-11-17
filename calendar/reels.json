@@ -69,19 +69,17 @@
   "cover_style": "ivory"
  },
  {
-  "date": "2026-10-23",
+  "date": "2026-11-18",
   "type": "reel",
   "series": "Amanda Ree x AyurPet",
   "reel": "05",
   "title": "Your dog hears your stress",
-  "status": "HOLD: Karan to OK the v3 edit (no headline in the video, cold open, 35.7 s)",
+  "status": "READY",
   "times_ist": {
-   "ayurpet_global": "07:00",
-   "ayurpetofficial": "13:00"
+   "ayurpet_global": "07:00"
   },
   "accounts": [
-   "ayurpet_global",
-   "ayurpetofficial"
+   "ayurpet_global"
   ],
   "video_urls": {
    "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-10-22_amanda_hear-your-stress_v3-in.mp4",
@@ -95,12 +93,13 @@
    "samadogwellbeing"
   ],
   "captions": {
-   "ayurpetofficial": "Your dog can hear your stress, in your breath. 🐾 It's how service dogs tune in to their humans.\n\nBefore the festive rush, try this tonight with Amanda Ree of @samadogwellbeing:\n1. Watch their breath\n2. Mirror their pace\n3. Slow it down and sigh it out\n\nNotice if they follow you. Send this to someone whose dog always knows when they've had a bad day.\n\nSome B-roll clips in this video were made with AI.\n\n#AyurPet #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #DiwaliWithPets",
+   "ayurpetofficial": "Your dog can hear your stress, in your breath. 🐾 It's how service dogs tune in to their humans.\n\nTry this tonight with Amanda Ree of @samadogwellbeing:\n1. Watch their breath\n2. Mirror their pace\n3. Slow it down and sigh it out\n\nNotice if they follow you. Send this to someone whose dog always knows when they've had a bad day.\n\nSome B-roll clips in this video were made with AI.\n\n#AyurPet #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs",
    "ayurpet_global": "Your dog can hear your stress, in your breath. 🐾 It's how service dogs tune in to their humans.\n\nTry this tonight with Amanda Ree of @samadogwellbeing:\n1. Watch their breath\n2. Mirror their pace\n3. Slow it down and sigh it out\n\nNotice if they follow you. Send this to someone whose dog always knows when they've had a bad day.\n\nSome B-roll clips in this video were made with AI.\n\n#AyurPet #AyurvedaForPets #HolisticDogCare #DogBodyLanguage #AnxiousDog #SamaDog"
   },
   "cover_style": "ivory",
   "note_v3": "v3 2026-10-22: headline removed (title stays on the cover), opens on \"Your dog will naturally pick up on the rhythms of your breath\", repeating opener cut, 42.5 s to 35.7 s. v2 files kept for reference.",
-  "edit_check": "PASS 2026-10-22: v3, no headline in the video, captions lower third (never on her face), designed cover, end card handle per account"
+  "edit_check": "PASS 2026-10-22: v3, no headline in the video, captions lower third (never on her face), designed cover, end card handle per account",
+  "approved": "Karan 2026-11-17 in chat: \"Yes, schedule them\" (05, 08, 11 on @ayurpet_global, 18/19/20 Nov 07:00)"
  },
  {
   "date": "2026-10-26",
@@ -541,5 +540,65 @@
   "edit_check": "PASS 2026-10-27: watched end to end (frames at 0.5 s steps), no headline, captions lower third, no text on her face, burned-in source captions cropped out, designed cover, end card handle per account",
   "source": "mm2 (Mindful Moments 2, basic canine massage); spec library/amanda/edits/09_shoulders.py in care-rgb/ayurpet-reels",
   "note": "Added 14 Nov 2026 by Kainaat's Claude. Global original: date 2026-10-28, reel 09. Not yet on @ayurpetofficial (checked live feed 14 Nov).  | 15 Nov: left on HOLD; ranks 4th of the India-new Amanda reels (global reach 214). | 15 Nov: slot 19:00 IST (the reel routine only fires at 07, 13, 19 and needs an exact match; 17:00 would never post)."
+ },
+ {
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet",
+  "status": "READY",
+  "approved": "Karan 2026-11-17 in chat: \"Yes, schedule them\" (05, 08, 11 on @ayurpet_global, 18/19/20 Nov 07:00)",
+  "times_ist": {
+   "ayurpet_global": "07:00"
+  },
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "date": "2026-11-19",
+  "reel": "08",
+  "title": "The Heart Hug",
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-15_amanda_heart-hug_v1-gl.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-15_amanda_heart-hug_v1_cover.jpg",
+  "captions": {
+   "ayurpet_global": "For the dog who's new to your home, had a tough past, or is still learning to trust you. 🐾\n\nThe heart hug, from Amanda Ree of @samadogwellbeing:\n1. One hand on your chest\n2. If it feels natural, your other hand near your dog's heart\n3. Bring back a moment your dog looked at you in a special way, and stay with that warm feeling\n\nOver time you might notice them respond more calmly, more affectionately. Send this to someone whose rescue is still finding their feet.\n\n#AyurPet #AyurvedaForPets #RescueDog #AdoptDontShop #DogMindfulness #SamaDog"
+  },
+  "edit_check": "PASS 2026-11-15: watched end to end (contact sheet + frames), cold open, no headline, captions lower third, no text on her face, burned-in source captions and bullet panels covered, designed cover, end card @ayurpet_global, -13.9 LUFS",
+  "source": "mm5 (Mindful Moments 5, heart hug); spec library/amanda/edits/08_hearthug.py in care-rgb/ayurpet-reels"
+ },
+ {
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet",
+  "status": "READY",
+  "approved": "Karan 2026-11-17 in chat: \"Yes, schedule them\" (05, 08, 11 on @ayurpet_global, 18/19/20 Nov 07:00)",
+  "times_ist": {
+   "ayurpet_global": "07:00"
+  },
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "date": "2026-11-20",
+  "reel": "11",
+  "title": "The Walk",
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-15_amanda_the-walk_v2-gl.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-15_amanda_the-walk_v2_cover.jpg",
+  "captions": {
+   "ayurpet_global": "Your walk is more than exercise for your dog. 🐾\n\nAmanda Ree of @samadogwellbeing: dogs are pack animals, and moving in sync with you is part of how they feel safe. They look to you for guidance, and every walk together tells them you're steady.\n\nNext walk, keep the phone in your pocket for the first five minutes. Notice their pace, match it, and see what changes.\n\nSave this for your next walk. Send it to your walking buddy.\n\n#AyurPet #AyurvedaForPets #DogWalk #DogMindfulness #DogBond #SamaDog"
+  },
+  "edit_check": "PASS 2026-11-17: v2 (blurry deck clip swapped), contact sheet + frames checked, cold open, captions lower third, designed cover, end card @ayurpet_global, -13.9 LUFS, peak -1.5",
+  "source": "mm4 (Mindful Moments 4, walking); spec library/amanda/edits/11_walk.py in care-rgb/ayurpet-reels"
  }
 ]
