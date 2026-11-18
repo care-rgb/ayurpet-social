@@ -600,5 +600,185 @@
   },
   "edit_check": "PASS 2026-11-17: v2 (blurry deck clip swapped), contact sheet + frames checked, cold open, captions lower third, designed cover, end card @ayurpet_global, -13.9 LUFS, peak -1.5",
   "source": "mm4 (Mindful Moments 4, walking); spec library/amanda/edits/11_walk.py in care-rgb/ayurpet-reels"
+ },
+ {
+  "date": "2026-11-22",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet",
+  "reel": "12",
+  "title": "Where older dogs hold pain (lower back massage)",
+  "status": "HOLD: new Amanda reel, needs Karan's written OK. Set READY only after his yes.",
+  "times_ist": {
+   "ayurpet_global": "07:00"
+  },
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_lower-back_v2-gl.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_lower-back_v2_cover.jpg",
+  "captions": {
+   "ayurpet_global": "Older dogs hold a lot of their pain in the lower back. 🐾\n\nIt supports nearly every move they make, so it's where arthritis, stiffness and hip trouble show up, especially in larger breeds. Amanda Ree of @samadogwellbeing shows a gentle massage for it:\n1. Start near the spine, just behind the lower ribs. Rub slow circles with your palms\n2. Never press on the spine itself\n3. Move down to the glutes. Squeeze gently, then release\n4. Finish with a slow sweep down the hips and legs\n\nAbout five minutes on each side is plenty.\n\nSave this for your older dog. Send it to someone whose dog is slowing down.\n\nGentle care, not a treatment. If your dog is in pain, limping or recovering from surgery, see your vet first.\n\n#AyurPet #AyurvedaForPets #SeniorDog #DogMassage #DogArthritis #SamaDog"
+  },
+  "edit_check": "PASS 2026-11-19: v2 (her close re-framed on the Violet line, spine tag moved off the step label), 1 fps frames checked end to end, cold open, captions lower third, no text on her face, burned-in source captions cropped out, lip-sync guard OK, designed cover, end card handle per account, -14.0 LUFS, peak -1.5",
+  "source": "mm2 (Mindful Moments 2, basic canine massage); spec library/amanda/edits/12_hips.py in care-rgb/ayurpet-reels",
+  "note": "Added 19 Nov 2026 by the Amanda restart session. Preview sent to Karan in chat; nothing posts until he says yes."
+ },
+ {
+  "date": "2026-11-23",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet (India)",
+  "reel": "12",
+  "title": "Where older dogs hold pain (lower back massage)",
+  "status": "HOLD: new Amanda reel, needs Karan's written OK. Set READY only after his yes.",
+  "times_ist": {
+   "ayurpetofficial": "19:00"
+  },
+  "accounts": [
+   "ayurpetofficial"
+  ],
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_lower-back_v2-in.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_lower-back_v2_cover.jpg",
+  "captions": {
+   "ayurpetofficial": "Older dogs hold a lot of their pain in the lower back. 🐾\n\nIt supports nearly every move they make, so it's where arthritis, stiffness and hip trouble show up, especially in larger breeds. Amanda Ree of @samadogwellbeing shows a gentle massage for it:\n1. Start near the spine, just behind the lower ribs. Rub slow circles with your palms\n2. Never press on the spine itself\n3. Move down to the glutes. Squeeze gently, then release\n4. Finish with a slow sweep down the hips and legs\n\nAbout five minutes on each side is plenty.\n\nSave this for your older dog. Send it to someone whose dog is slowing down.\n\nGentle care, not a treatment. If your dog is in pain, limping or recovering from surgery, see your vet first.\n\n#AyurPet #AyurvedaForPets #DogsOfIndia #DogParentsIndia #SeniorDogs #DogCare"
+  },
+  "edit_check": "PASS 2026-11-19: v2 (her close re-framed on the Violet line, spine tag moved off the step label), 1 fps frames checked end to end, cold open, captions lower third, no text on her face, burned-in source captions cropped out, lip-sync guard OK, designed cover, end card handle per account, -14.0 LUFS, peak -1.5",
+  "source": "mm2 (Mindful Moments 2, basic canine massage); spec library/amanda/edits/12_hips.py in care-rgb/ayurpet-reels",
+  "note": "Added 19 Nov 2026 by the Amanda restart session. Preview sent to Karan in chat; nothing posts until he says yes."
+ },
+ {
+  "date": "2026-11-24",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet",
+  "reel": "14",
+  "title": "When your dog freezes",
+  "status": "HOLD: new Amanda reel, needs Karan's written OK. Set READY only after his yes.",
+  "times_ist": {
+   "ayurpet_global": "07:00"
+  },
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_when-your-dog-freezes_v2-gl.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_when-your-dog-freezes_v2_cover.jpg",
+  "captions": {
+   "ayurpet_global": "A dog who goes completely still isn't always being good. 🐾\n\nBody stiff, eyes locked. Amanda Ree of @samadogwellbeing explains that a freezing dog is often on high alert, deciding whether to run or defend themselves. It means they don't feel safe, and sometimes it's the only way they know how to cope.\n\nSo step in and help them out of the moment. One moment too soon is far better than a moment too late.\n\nStress isn't always loud. Sometimes it whispers.\n\nSend this to someone with a nervous dog.\n\n#AyurPet #AyurvedaForPets #DogBodyLanguage #AnxiousDog #DogStress #SamaDog"
+  },
+  "edit_check": "PASS 2026-11-19: v2 (yellow wipe and burned-in mm8 captions cropped out), 1 fps frames checked end to end, cold open, captions lower third, lip-sync guard OK, designed cover (boxer still), end card handle per account, -14.0 LUFS, peak -2.8",
+  "source": "mm8 (Mindful Moments 8, stress cues); spec library/amanda/edits/14_freezing.py in care-rgb/ayurpet-reels",
+  "note": "Added 19 Nov 2026 by the Amanda restart session. Preview sent to Karan in chat; nothing posts until he says yes."
+ },
+ {
+  "date": "2026-11-26",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet",
+  "reel": "13",
+  "title": "When not to massage your dog",
+  "status": "HOLD: new Amanda reel, needs Karan's written OK. Set READY only after his yes.",
+  "times_ist": {
+   "ayurpet_global": "07:00"
+  },
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_when-not-to-massage_v1-gl.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_when-not-to-massage_v1_cover.jpg",
+  "captions": {
+   "ayurpet_global": "Massage isn't right for every dog, every day. 🐾\n\nAmanda Ree of @samadogwellbeing says to skip it and talk to your vet first if your dog:\n1. Has a wound or an infection\n2. Is recovering from surgery\n3. Is pregnant\n4. Is in pain, limping or inflamed\n\nNot sure? Check with your vet before you start. For a calm, healthy dog, a few quiet minutes of your touch is one of the nicest things you can give them.\n\nSave this before your first massage. Send it to a friend who's just started.\n\n#AyurPet #AyurvedaForPets #DogMassage #DogCare #DogSafety #SamaDog"
+  },
+  "edit_check": "PASS 2026-11-19: v1, 1 fps frames checked end to end, cold open, checklist on her torso (clear of her face), captions lower third, designed cover, end card handle per account, -14.0 LUFS, peak -1.5",
+  "source": "mm2 (Mindful Moments 2, basic canine massage); spec library/amanda/edits/13_notfor.py in care-rgb/ayurpet-reels",
+  "note": "Added 19 Nov 2026 by the Amanda restart session. Preview sent to Karan in chat; nothing posts until he says yes."
+ },
+ {
+  "date": "2026-11-27",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet (India)",
+  "reel": "14",
+  "title": "When your dog freezes",
+  "status": "HOLD: new Amanda reel, needs Karan's written OK. Set READY only after his yes.",
+  "times_ist": {
+   "ayurpetofficial": "19:00"
+  },
+  "accounts": [
+   "ayurpetofficial"
+  ],
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_when-your-dog-freezes_v2-in.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_when-your-dog-freezes_v2_cover.jpg",
+  "captions": {
+   "ayurpetofficial": "A dog who goes completely still isn't always being good. 🐾\n\nBody stiff, eyes locked. Amanda Ree of @samadogwellbeing explains that a freezing dog is often on high alert, deciding whether to run or defend themselves. It means they don't feel safe, and sometimes it's the only way they know how to cope.\n\nSo step in and help them out of the moment. One moment too soon is far better than a moment too late.\n\nStress isn't always loud. Sometimes it whispers.\n\nSend this to someone with a nervous dog.\n\n#AyurPet #AyurvedaForPets #DogsOfIndia #DogParentsIndia #AnxiousDog #DogBodyLanguage"
+  },
+  "edit_check": "PASS 2026-11-19: v2 (yellow wipe and burned-in mm8 captions cropped out), 1 fps frames checked end to end, cold open, captions lower third, lip-sync guard OK, designed cover (boxer still), end card handle per account, -14.0 LUFS, peak -2.8",
+  "source": "mm8 (Mindful Moments 8, stress cues); spec library/amanda/edits/14_freezing.py in care-rgb/ayurpet-reels",
+  "note": "Added 19 Nov 2026 by the Amanda restart session. Preview sent to Karan in chat; nothing posts until he says yes."
+ },
+ {
+  "date": "2026-12-01",
+  "type": "reel",
+  "series": "Amanda Ree x AyurPet (India)",
+  "reel": "13",
+  "title": "When not to massage your dog",
+  "status": "HOLD: new Amanda reel, needs Karan's written OK. Set READY only after his yes.",
+  "times_ist": {
+   "ayurpetofficial": "19:00"
+  },
+  "accounts": [
+   "ayurpetofficial"
+  ],
+  "collaborators": [
+   "samadogwellbeing"
+  ],
+  "user_tags": [
+   "samadogwellbeing"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_when-not-to-massage_v1-in.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_amanda_when-not-to-massage_v1_cover.jpg",
+  "captions": {
+   "ayurpetofficial": "Massage isn't right for every dog, every day. 🐾\n\nAmanda Ree of @samadogwellbeing says to skip it and talk to your vet first if your dog:\n1. Has a wound or an infection\n2. Is recovering from surgery\n3. Is pregnant\n4. Is in pain, limping or inflamed\n\nNot sure? Check with your vet before you start. For a calm, healthy dog, a few quiet minutes of your touch is one of the nicest things you can give them.\n\nSave this before your first massage. Send it to a friend who's just started.\n\n#AyurPet #AyurvedaForPets #DogsOfIndia #DogParentsIndia #DogCare #DogSafety"
+  },
+  "edit_check": "PASS 2026-11-19: v1, 1 fps frames checked end to end, cold open, checklist on her torso (clear of her face), captions lower third, designed cover, end card handle per account, -14.0 LUFS, peak -1.5",
+  "source": "mm2 (Mindful Moments 2, basic canine massage); spec library/amanda/edits/13_notfor.py in care-rgb/ayurpet-reels",
+  "note": "Added 19 Nov 2026 by the Amanda restart session. Preview sent to Karan in chat; nothing posts until he says yes."
  }
 ]
