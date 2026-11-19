@@ -781,5 +781,28 @@
   "edit_check": "PASS 2026-11-19: v1, 1 fps frames checked end to end, cold open, checklist on her torso (clear of her face), captions lower third, designed cover, end card handle per account, -14.0 LUFS, peak -1.5",
   "source": "mm2 (Mindful Moments 2, basic canine massage); spec library/amanda/edits/13_notfor.py in care-rgb/ayurpet-reels",
   "note": "Added 19 Nov 2026 by the Amanda restart session. Preview sent to Karan in chat; nothing posts until he says yes."
+ },
+ {
+  "date": "2026-11-19",
+  "type": "reel",
+  "series": "Winter joint care",
+  "reel": "winter-joints",
+  "title": "Your senior dog is not slowing down because he's old. It's the cold.",
+  "status": "READY",
+  "times_ist": {
+   "ayurpetofficial": "19:00"
+  },
+  "accounts": [
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_winter-joints_v1-in.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-19_winter-joints_v1_cover.jpg",
+  "captions": {
+   "ayurpetofficial": "Your senior dog isn't slowing down because he's old. It's the cold. 🐾\n\nCold mornings make older joints feel stiff. Three things to do this winter:\n\n1. Get him off the marble floor. A folded blanket under his bed works.\n2. Give him warm water.\n3. Add five slow minutes before the walk, so his joints get time to wake up.\n\nFor extra care, we give Hip-O-Joint+ every day.\n\nSenior dogs don't complain. They just get quieter. Save this for a cold morning and send it to a senior dog parent.\n\n#AyurPet #AyurvedaForPets #SeniorDogs #SeniorDogCare #DogParentsIndia #DogsOfIndia #IndieDogs #WinterCare"
+  },
+  "edit_check": "Kainaat approved the cut in chat 19 Nov 2026; frames checked end to end, no side glances, last line ends on Leo into the end card, -14 LUFS. Not yet watched with sound by the agent.",
+  "note": "Added 19 Nov 2026 on Kainaat's yes (Karan delegated approvals to her 20 Nov). Leo clips are AI-made: turn on the Instagram AI label and add music in the app if posting by hand. The spoken Hip-O-Joint lines are a claim Kainaat chose to keep."
  }
 ]
