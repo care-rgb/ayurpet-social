@@ -5,8 +5,9 @@
   "pet_pages": 2,
   "influencers": 2,
   "brands": 2,
-  "total": 10,
-  "note": "Comments on OTHER accounts' posts. Replies to our own followers are on top of this, answered within the hour. Every comment needs Kainaat's yes in chat first, is specific to the post, and is worded differently from every other one."
+  "total": 11,
+  "note": "Comments on OTHER accounts' posts. Replies to our own followers are on top of this, answered within the hour. Every comment needs Kainaat's yes in chat first, is specific to the post, and is worded differently from every other one.",
+  "ayurveda_creators": 1
  },
  "targets": [
   {
@@ -142,6 +143,106 @@
     "ayurpetofficial"
    ],
    "note": "India pet brand",
+   "status": "active"
+  },
+  {
+   "username": "the_dog_nutritionist",
+   "group": "influencers",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "Clinical dog nutritionist, 233k, posts weekly",
+   "status": "active"
+  },
+  {
+   "username": "veterinarysecrets",
+   "group": "influencers",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "Dr. Andrew Jones, holistic vet, 428k",
+   "status": "active"
+  },
+  {
+   "username": "drpeterdobias",
+   "group": "influencers",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "Dr. Peter Dobias, natural care vet, 22k",
+   "status": "active"
+  },
+  {
+   "username": "dr.ruthroberts",
+   "group": "influencers",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "Holistic DVM, 11k",
+   "status": "active"
+  },
+  {
+   "username": "theholisticdoghealthcoach",
+   "group": "influencers",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "Holistic dog health coach, from a web list | API cannot read it: check by hand",
+   "status": "manual"
+  },
+  {
+   "username": "yournaturaldog",
+   "group": "influencers",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "Angela Ardolino, Your Natural Dog podcast | API cannot read it: check by hand",
+   "status": "manual"
+  },
+  {
+   "username": "doctorrekha",
+   "group": "ayurveda_creators",
+   "accounts": [
+    "ayurpetofficial",
+    "ayurpet_global"
+   ],
+   "note": "Dr. Rekha Radhamony, 4th generation Ayurveda doctor, Dubai and Kerala, 229k",
+   "status": "active"
+  },
+  {
+   "username": "_nitisheth_",
+   "group": "ayurveda_creators",
+   "accounts": [
+    "ayurpetofficial"
+   ],
+   "note": "Niti Sheth, Making Ayurveda Simple, 112k",
+   "status": "active"
+  },
+  {
+   "username": "drnitikakohli",
+   "group": "ayurveda_creators",
+   "accounts": [
+    "ayurpetofficial"
+   ],
+   "note": "Dr Nitika Kohli, MD Ayurveda, 188k, skin focus: keep comments non-medical",
+   "status": "active"
+  },
+  {
+   "username": "my_ayurvedic_life",
+   "group": "ayurveda_creators",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "Nidhi Pandya, bestselling Ayurveda author, 320k",
+   "status": "active"
+  },
+  {
+   "username": "radhidevlukia",
+   "group": "ayurveda_creators",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "Radhi Devlukia, trained Ayurveda practitioner, 2.4M, UK",
    "status": "active"
   }
  ]

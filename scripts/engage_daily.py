@@ -81,7 +81,7 @@ def main():
         today_n = sum(1 for o in state.get("outbound", []) if o.get("acct") == acct and o.get("date") == today)
         w(f"\n### 4. Outbound: what our targets posted lately (we have commented on {today_n} of {quota['total']} today)")
         cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=a.hours)
-        order = ["affiliates_partners", "pet_pages", "influencers", "brands"]
+        order = ["affiliates_partners", "pet_pages", "influencers", "ayurveda_creators", "brands"]
         fresh = []
         for r in wa.get("items", []):
             for p in r.get("posts", []):
