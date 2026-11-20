@@ -1,0 +1,148 @@
+{
+ "about": "Who we engage with on Instagram. status: active = checked and in the daily list, candidate = not yet checked (run engage.py watch-all), paused = skip, manual = not a business or creator account so the API cannot read it, check by hand. India-only content never goes through @ayurpet_global: a target meant for India lists only ayurpetofficial in accounts. This example file only holds public pet pages and brands. The real list (with partners and creators who wrote to us) stays on the laptop in engagement/targets.json because this repo is public.",
+ "quota_per_account_per_day": {
+  "affiliates_partners": 4,
+  "pet_pages": 2,
+  "influencers": 2,
+  "brands": 2,
+  "total": 10,
+  "note": "Comments on OTHER accounts' posts. Replies to our own followers are on top of this, answered within the hour. Every comment needs Kainaat's yes in chat first, is specific to the post, and is worded differently from every other one."
+ },
+ "targets": [
+  {
+   "username": "thedodo",
+   "group": "pet_pages",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "huge animal page, comment early on rescue and senior dog posts",
+   "status": "active"
+  },
+  {
+   "username": "dogsofinstagram",
+   "group": "pet_pages",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "large dog community page | paused 20 Nov: no post for months, re-check later",
+   "status": "paused"
+  },
+  {
+   "username": "weratedogs",
+   "group": "pet_pages",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "funny dog page, wit lands well",
+   "status": "active"
+  },
+  {
+   "username": "barkpost",
+   "group": "pet_pages",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "dog culture page | API cannot read it (handle unverified, private or personal): check by hand",
+   "status": "manual"
+  },
+  {
+   "username": "dogspotting",
+   "group": "pet_pages",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "dog photo community | API cannot read it (handle unverified, private or personal): check by hand",
+   "status": "manual"
+  },
+  {
+   "username": "tuckerbudzyn",
+   "group": "influencers",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "big golden retriever creator",
+   "status": "active"
+  },
+  {
+   "username": "jiffpom",
+   "group": "influencers",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "big creator, comment early",
+   "status": "active"
+  },
+  {
+   "username": "marniethedog",
+   "group": "influencers",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "senior dog creator, fits our senior care angle | paused 20 Nov: no post for months, re-check later",
+   "status": "paused"
+  },
+  {
+   "username": "thefarmersdog",
+   "group": "brands",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "taste reference in our standard",
+   "status": "active"
+  },
+  {
+   "username": "nativepet",
+   "group": "brands",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "taste reference in our standard",
+   "status": "active"
+  },
+  {
+   "username": "wildone",
+   "group": "brands",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "taste reference in our standard",
+   "status": "active"
+  },
+  {
+   "username": "fablepets",
+   "group": "brands",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "taste reference in our standard | paused 20 Nov: no post for months, re-check later",
+   "status": "paused"
+  },
+  {
+   "username": "barkbox",
+   "group": "brands",
+   "accounts": [
+    "ayurpet_global"
+   ],
+   "note": "big dog brand with a witty voice | API cannot read it (handle unverified, private or personal): check by hand",
+   "status": "manual"
+  },
+  {
+   "username": "supertails",
+   "group": "brands",
+   "accounts": [
+    "ayurpetofficial"
+   ],
+   "note": "India pet retailer | API cannot read it (handle unverified, private or personal): check by hand",
+   "status": "manual"
+  },
+  {
+   "username": "headsupfortails",
+   "group": "brands",
+   "accounts": [
+    "ayurpetofficial"
+   ],
+   "note": "India pet brand",
+   "status": "active"
+  }
+ ]
+}
