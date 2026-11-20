@@ -41,6 +41,13 @@ report. After the day's items are handled run `engage.py tags-seen <acct>` so to
    in the signed-in browser (Kainaat signs in herself) or Kainaat pastes them in the app.
 6. **Close the loop.** Mark handled items (`engage.py done`), log the day in `engagement/LOG.md` (counts, anything to follow up).
 
+## Approval dashboard (added 20 Nov 2026)
+Kainaat approves on a private page, "Engagement approvals" (an Artifact on her claude.ai account, its link is in chat, not in
+this public repo). Each morning Claude writes the day's items into its `queue` collection with `ArtifactData`: the person's
+exact words, our draft, the route (Instagram API, Chrome, or the app by hand). She edits, then Approves or Skips on the page.
+Claude only sends items whose status is `approved`, then sets them to `sent` (or `byhand` when Instagram refuses). Pending
+means nothing goes out.
+
 ## Approval rules
 - Nothing goes out without her yes. A yes covers only the drafts she saw, with her edits.
 - Never reply to anything that needs a decision (refund, price, medical question about a sick dog, legal, press): show it to
