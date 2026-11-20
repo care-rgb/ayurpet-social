@@ -44,7 +44,7 @@ report. After the day's items are handled run `engage.py tags-seen <acct>` so to
 ## Approval dashboard (added 20 Nov 2026)
 Kainaat approves on a private page, "Engagement approvals" (an Artifact on her claude.ai account, its link is in chat, not in
 this public repo). Each morning Claude writes the day's items into its `queue` collection with `ArtifactData`: the person's
-exact words, our draft, the route (Instagram API, Chrome, or the app by hand). She edits, then Approves or Skips on the page.
+exact words (for DMs the last 5 messages of the thread, theirs outlined), our draft, the route (Instagram API, Chrome, or the app by hand), and for comments the post's likes and comment count, its date and an Open the post button. Reposts are not available from Instagram's API, so the page says so. She edits, then Approves or Skips on the page.
 Claude only sends items whose status is `approved`, then sets them to `sent` (or `byhand` when Instagram refuses). Pending
 means nothing goes out.
 

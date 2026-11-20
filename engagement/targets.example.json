@@ -244,6 +244,33 @@
    ],
    "note": "Radhi Devlukia, trained Ayurveda practitioner, 2.4M, UK",
    "status": "active"
+  },
+  {
+   "username": "dogandvet",
+   "group": "influencers",
+   "accounts": [
+    "ayurpetofficial"
+   ],
+   "note": "Dr. Srikrishna Mishra, Indian vet, 4k followers, posts daily",
+   "status": "active"
+  },
+  {
+   "username": "acuvetindia",
+   "group": "influencers",
+   "accounts": [
+    "ayurpetofficial"
+   ],
+   "note": "AcuVet Veterinary Clinic, holistic and acupuncture vet (Dr. Akshay Shah), 6k",
+   "status": "active"
+  },
+  {
+   "username": "doggiedabbas",
+   "group": "brands",
+   "accounts": [
+    "ayurpetofficial"
+   ],
+   "note": "Doggie Dabbas, natural dog food, 27k | paused 20 Nov: last post 2023",
+   "status": "paused"
   }
  ]
 }

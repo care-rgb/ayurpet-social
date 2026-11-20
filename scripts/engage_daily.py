@@ -92,7 +92,7 @@ def main():
             rows = [x for x in fresh if x[0] == order.index(g)]
             w(f"\n**{g}** (daily goal {quota[g]})")
             for _, t, r, p in sorted(rows, key=lambda x: x[1], reverse=True):
-                w(f"- @{r['username']} ({r.get('followers')} followers) {p['at'][:16]} {p['permalink']}  {p['likes']} likes: {one_line(p['caption'], 110)}")
+                w(f"- @{r['username']} ({r.get('followers')} followers) {p['at'][:16]} {p['permalink']}  {p['likes']} likes, {p['comments']} comments: {one_line(p['caption'], 110)}")
             if not rows:
                 w("- nothing new in the window")
         summary.append(f"@{acct}: {inbox.get('needs_reply', '?')} DMs, {com.get('needs_reply', '?')} comments, {len(new)} new tags, {len(fresh)} target posts")
