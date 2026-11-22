@@ -881,5 +881,32 @@
   },
   "edit_check": "v2: emotional hook top 0-3.8 s, crop hides the profane in-game subtitle (8.5-10.5 s), end card 'Dogs never leave anyone behind. NOT EVEN IN GTA 6'. -14.2 LUFS. Frames checked.",
   "note": "Posted 22 Nov 2026 as trial reels after Karan asked for a more emotional version of the YouTube Short (the game-secret v1 was never published). Global DgDXYo7j5Hi (18109648561967860), official DgDXck_jZ4q (18121947859769558). is_shared_to_feed False on both."
+ },
+ {
+  "date": "2026-11-23",
+  "type": "reel",
+  "series": "GTA 6 trend (trial reels)",
+  "reel": "gta6-dog-island-v1",
+  "title": "GTA 6 has a dog lifeguard, game-secret cut (trial reel, A/B vs the emotional cut)",
+  "status": "SCHEDULED_ONE_OFF",
+  "times_ist": {
+   "ayurpet_global": "07:00",
+   "ayurpetofficial": "07:00"
+  },
+  "accounts": [
+   "ayurpet_global",
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/416f709587258707beb58d91dfdf3699362c52ff/reels/2026-11-22_gta6-dog-island_trial.mp4",
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/416f709587258707beb58d91dfdf3699362c52ff/reels/2026-11-22_gta6-dog-island_trial.mp4"
+  },
+  "cover_url": null,
+  "captions": {
+   "ayurpet_global": "Got lost at sea in GTA 6 and a dog on a jet ski came to save me 😭🐕\n\nLife jacket on. Goggles on. Zero hesitation.\n\nHe drove me to a secret island where his whole squad hangs out, and they handed me free shades 😎\n\nRockstar put a dog lifeguard in GTA 6 and honestly he's the best NPC in the game.\n\nBe honest: would you wait for the dog or swim back? 👇\n\n#GTA6 #GTAVI #GTA6Dog #GTA6Secrets #GTA6EasterEggs #DogIsland #GrandTheftAuto6 #RockstarGames #ViceCity #Gaming #Gamer #EasterEgg #DogsOfInstagram #DogLovers #AyurPet",
+   "ayurpetofficial": "Got lost at sea in GTA 6 and a dog on a jet ski came to save me 😭🐕\n\nLife jacket on. Goggles on. Zero hesitation.\n\nHe drove me to a secret island where his whole squad hangs out, and they handed me free shades 😎\n\nRockstar put a dog lifeguard in GTA 6 and honestly he's the best NPC in the game.\n\nBe honest: would you wait for the dog or swim back? 👇\n\n#GTA6 #GTAVI #GTA6Dog #GTA6Secrets #GTA6EasterEggs #DogIsland #GrandTheftAuto6 #RockstarGames #ViceCity #Gaming #Gamer #EasterEgg #DogsOfInstagram #DogLovers #AyurPet"
+  },
+  "edit_check": "v1: hook 'GTA 6 has a dog lifeguard' 0-3 s, crop hides the profane in-game subtitle, end card 'Wait for the dog or swim back?'. 15.4 s, -14 LUFS.",
+  "note": "Karan, 22 Nov: post the second reel also as a trial reel in the morning. Posted by one-off cloud routine 'GTA 6 trial reel v1 (23 Nov 07:00 IST)' with --trial MANUAL, not by the Amanda reel routine. Runs against the emotional cut posted 22 Nov to compare angles."
  }
 ]
