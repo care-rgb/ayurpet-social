@@ -150,6 +150,8 @@ def main():
     x = sp.add_parser("reel"); x.add_argument("acct"); x.add_argument("--video-url", required=True)
     x.add_argument("--caption-file", required=True); x.add_argument("--cover-url"); x.add_argument("--thumb-offset", type=int)
     x.add_argument("--collab", default=""); x.add_argument("--user-tag", default=""); x.add_argument("--no-feed", action="store_true")
+    x.add_argument("--trial", nargs="?", const="MANUAL", choices=["MANUAL", "SS_PERFORMANCE"],
+                   help="post as a trial reel (shown to non-followers first); SS_PERFORMANCE lets Instagram share it to followers if it does well")
     x.add_argument("--publish", action="store_true")
     x = sp.add_parser("carousel"); x.add_argument("acct"); x.add_argument("--image-url", action="append", required=True)
     x.add_argument("--caption-file", required=True); x.add_argument("--collab", default=""); x.add_argument("--publish", action="store_true")
@@ -211,7 +213,8 @@ def main():
         c = call("POST", f"{ig}/media", {"media_type": "REELS", "video_url": a.video_url, "caption": caption(a.caption_file),
                  "cover_url": a.cover_url, "thumb_offset": a.thumb_offset, "share_to_feed": "false" if a.no_feed else "true",
                  "collaborators": names(a.collab) or None,
-                 "user_tags": [{"username": u} for u in names(a.user_tag)] or None})["id"]
+                 "user_tags": [{"username": u} for u in names(a.user_tag)] or None,
+                 "trial_params": {"graduation_strategy": a.trial} if a.trial else None})["id"]
         finish(ig, c, a.publish, "REELS")
     elif a.cmd == "carousel":
         ig = acct(a.acct)
