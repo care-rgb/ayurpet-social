@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+*.token
+ledger/SCORECARD_*.md
+ledger/scorecard_*.csv
+ledger/followers.csv
