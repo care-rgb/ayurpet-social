@@ -908,5 +908,27 @@
   },
   "edit_check": "v1: hook 'GTA 6 has a dog lifeguard' 0-3 s, crop hides the profane in-game subtitle, end card 'Wait for the dog or swim back?'. 15.4 s, -14 LUFS.",
   "note": "Karan, 22 Nov: post the second reel also as a trial reel in the morning. Posted by one-off cloud routine 'GTA 6 trial reel v1 (23 Nov 07:00 IST)' with --trial MANUAL, not by the Amanda reel routine. Runs against the emotional cut posted 22 Nov to compare angles."
+ },
+ {
+  "date": "2026-11-26",
+  "type": "reel",
+  "series": "2D routine reel",
+  "reel": "routine-not-toys",
+  "title": "Your dog doesn't need more toys. He needs a routine. (India, 2D)",
+  "status": "HOLD: cut approved by Kainaat 25 Nov 2026; needs her yes on the posting slot (proposed 26 Nov 19:00 IST). Set READY only after that.",
+  "times_ist": {
+   "ayurpetofficial": "19:00"
+  },
+  "accounts": [
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-25_routine-not-toys_v1-in.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-25_routine-not-toys_v1_cover.jpg",
+  "captions": {
+   "ayurpetofficial": "Your dog doesn't need more toys. He needs a routine. 🐾\n\nDogs settle when the day has a shape:\n1. Same wake-up and walk time\n2. Five calm minutes after meals\n3. A quiet wind-down at night. Ours is a slow yak chew.\n\nAyurveda calls this dinacharya. Same idea, for dogs.\n\nSave this for tonight. Send it to the friend whose dog never settles.\n\n#AyurPet #AyurvedaForPets #DogParentsIndia #DogsOfIndia #IndieDogs #DogCare"
+  },
+  "note": "2D animation built in Remotion (ayurpet-2d, not in git yet), ElevenLabs stand-in female voice (Lara), yak chew plugged in. Adapted from the @doggoslab mechanism, see engine/briefs/2026-11-25_ayurpetofficial_routine-not-toys.md. Add music in the app. The pack render shows small-print claims; the routine claim still needs a source. After posting: file in the Drive Kaainaat folder and the file-index sheet, tag in engine/ledger/tags.csv."
  }
 ]
