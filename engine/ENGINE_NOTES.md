@@ -16,6 +16,10 @@ Goal: 10,000 followers combined by 22 Dec 2026 (about 145 a day). Optimise for s
 - Nothing is posted, scheduled, sent or commented without Kainaat's yes in chat. Karan's 20 Nov ruling: she is the approver.
 - Copy the mechanism, never the video. Our own dogs and footage. Brand rules (plain words, no em dashes, no medical claims, "6,000+ reviews",
   no Diwali on global, AI images labelled) unchanged. One post per account per day, 2 max.
+- RULE (Kainaat, 26 Nov 2026): never post a reel until Kainaat has seen and approved its cover in chat. The cover must follow the Sama Dog
+  layout in AyurPet brand language (title band on top, picture in the middle, one-line band at the bottom, all inside the profile-grid crop;
+  template in ayurpet-2d/src/Covers.tsx). Send the cover image with the approval ask, pass it with --cover-url, then check the live
+  thumbnail_url. The API cannot change a cover after posting, so a missed cover means delete and repost.
 - Reel covers (Kainaat, 24 Nov): every reel cover, especially the animated ones, is made in AyurPet brand language (same colours, fonts and
   layout family as the new carousel style) so the profile grid reads as one feed. Set the cover explicitly; never leave a random frame.
 
