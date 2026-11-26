@@ -932,5 +932,32 @@
   "note": "2D animation built in Remotion (ayurpet-2d, not in git yet), ElevenLabs stand-in female voice (Lara), yak chew plugged in. Adapted from the @doggoslab mechanism, see engine/briefs/2026-11-25_ayurpetofficial_routine-not-toys.md. Add music in the app. The pack render shows small-print claims; the routine claim still needs a source. After posting: file in the Drive Kaainaat folder and the file-index sheet, tag in engine/ledger/tags.csv.",
   "permalink": "https://www.instagram.com/reel/DgK46nSJbDV/",
   "approved": "Kainaat 2026-11-25 in chat: approved the cut, asked to post today only, not 26 Nov"
+ },
+ {
+  "date": "2026-11-26",
+  "type": "reel",
+  "series": "2D dog facts",
+  "reel": "dog-spins-circles",
+  "title": "Your dog spins in circles before he sleeps. Here is why. (2D)",
+  "status": "POSTED",
+  "approved": "Kainaat 2026-11-26 in chat: post today from global and India both",
+  "times_ist": {
+   "ayurpet_global": "posted via ig.py 26 Nov 2026 10:51 UTC",
+   "ayurpetofficial": "posted via ig.py 26 Nov 2026 10:53 UTC"
+  },
+  "accounts": [
+   "ayurpet_global",
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-26_dog-spins-circles_v1.mp4",
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-26_dog-spins-circles_v1.mp4"
+  },
+  "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-26_dog-spins-circles_v1_cover.jpg",
+  "permalinks": {
+   "ayurpet_global": "https://www.instagram.com/reel/DgM7nhuztKG/",
+   "ayurpetofficial": "https://www.instagram.com/reel/DgM7xmjOS2V/"
+  },
+  "note": "Adapted from the @pawkoapp dog-fact mechanism (Df6KWvIjB1z). 2D Remotion build in ayurpet-2d, ElevenLabs stand-in voice (Lara). No music added. File in Drive Kaainaat folder and the file-index sheet."
  }
 ]
