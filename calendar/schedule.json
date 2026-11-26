@@ -3826,7 +3826,7 @@
    "AAHA: at-home wellness checks",
    "WSAVA body condition score chart"
   ],
-  "status": "HOLD: waiting for Karan's written yes (preview sent 17 Nov 2026)",
+  "status": "PULLED: replaced by the rebuilt 1127_IN_hug (Karan approved 27 Nov 2026)",
   "note": "full-photo carousel, rendered with social-work/carousels/render.mjs from carousels/wk1118/build.py; no cutouts",
   "alt_text": [
    "A vet examining a dog on a clinic table. Text: Health check Do this 5-minute check every Sunday. (dog care, AyurPet)",
@@ -3836,6 +3836,68 @@
    "AyurPet teal card. Text: Found something new? Show your vet this week. A lump, a smell, a limp or a sudden weight change is worth a visit."
   ],
   "music": "calm, steady beat (search: 'sunday morning', 'chill')",
+  "music_step": "After publishing, open the post in the Instagram app, tap Edit, then Replace Audio, and add a trending track that fits the mood. The API can't add music."
+ },
+ {
+  "day": 10,
+  "date": "2026-11-27",
+  "post_time_ist": "19:00",
+  "title": "He might not love your hug.",
+  "kind": "feed",
+  "campaign": "Week of 27 Nov rebuild (sends and saves)",
+  "hook": "He might not love your hug.",
+  "lever": "send, save",
+  "slides": 8,
+  "files": {
+   "wk1126": [
+    "wk1126/1127_IN_hug_01.jpg",
+    "wk1126/1127_IN_hug_02.jpg",
+    "wk1126/1127_IN_hug_03.jpg",
+    "wk1126/1127_IN_hug_04.jpg",
+    "wk1126/1127_IN_hug_05.jpg",
+    "wk1126/1127_IN_hug_06.jpg",
+    "wk1126/1127_IN_hug_07.jpg",
+    "wk1126/1127_IN_hug_08.jpg"
+   ]
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_IN_hug_01.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_IN_hug_02.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_IN_hug_03.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_IN_hug_04.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_IN_hug_05.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_IN_hug_06.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_IN_hug_07.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_IN_hug_08.jpg"
+  ],
+  "alt_text": [
+   "A girl hugs a tan Indian street dog on a diwan; the dog looks sideways with the whites of his eyes showing and ears back. Text: He might not love your hug.",
+   "Text slide: 8 in 10 dogs in hug photos showed a sign of stress, from a 2016 look at 250 photos.",
+   "Close-up of a fawn dog held against a woman's chest, the white of its eye showing. Sign 1: whites of the eyes.",
+   "A black and white street dog hugged by a boy, ears pressed flat. Sign 2: ears flat back.",
+   "A beagle licking its lips while a child hugs it. Sign 3: a quick lip lick.",
+   "A golden retriever turning its head away from a woman leaning in. Sign 4: head turned away.",
+   "A relaxed street dog leaning into a man's hand scratching its chest. Try this: let him come to you.",
+   "Summary of the four signs with small photos, and the line: send this to the biggest hugger in your house."
+  ],
+  "status": "READY: Karan's written yes 27 Nov 2026 ('Approve both'), posts in the 19:00 IST daily run",
+  "note": "Rebuilt 26 Nov 2026: Flow photos, render_v2 (social-work/carousels/wk1126/render_v2.mjs); no cutouts",
+  "id": "1127_IN_hug",
+  "accounts": [
+   "ayurpetofficial"
+  ],
+  "instagram": {
+   "ayurpetofficial": "17841472849482734"
+  },
+  "captions": {
+   "ayurpetofficial_india": "He might not love your hug.\n\nMost dogs put up with hugs for us. Watch for the whites of his eyes, flat ears, a lip lick or a turned head. Any one of them means give him a little space.\n\nThe kind of affection most dogs ask for: you sit close and scratch his chest, and he leans in.\n\nSend this to the biggest hugger in your house.\n\nSource: Stanley Coren, Psychology Today, 2016 (250 photos); AKC on canine body language.\n\n#dogbodylanguage #indiandogs #dogparentsofindia #indieDogs #ayurpet",
+   "ayurpetofficial": "He might not love your hug.\n\nMost dogs put up with hugs for us. Watch for the whites of his eyes, flat ears, a lip lick or a turned head. Any one of them means give him a little space.\n\nThe kind of affection most dogs ask for: you sit close and scratch his chest, and he leans in.\n\nSend this to the biggest hugger in your house.\n\nSource: Stanley Coren, Psychology Today, 2016 (250 photos); AKC on canine body language.\n\n#dogbodylanguage #indiandogs #dogparentsofindia #indieDogs #ayurpet"
+  },
+  "sources": [
+   "Stanley Coren, Psychology Today, 2016 (250 hug photos)",
+   "AKC: canine body language"
+  ],
+  "music": "soft, warm acoustic (search: 'cozy', 'gentle')",
   "music_step": "After publishing, open the post in the Instagram app, tap Edit, then Replace Audio, and add a trending track that fits the mood. The API can't add music."
  },
  {
@@ -3879,7 +3941,7 @@
    "Merck Veterinary Manual: seborrhoea and dry skin in dogs",
    "PDSA: skin problems in dogs"
   ],
-  "status": "HOLD: waiting for Karan's written yes (preview sent 17 Nov 2026)",
+  "status": "PULLED: replaced by the rebuilt 1127_GL_sleep (Karan approved 27 Nov 2026)",
   "note": "full-photo carousel, rendered with social-work/carousels/render.mjs from carousels/wk1118/build.py; no cutouts",
   "alt_text": [
    "A Labrador standing still while its owner checks its coat. Text: Winter skin Heating on? Watch his skin. (dog care, AyurPet)",
@@ -3890,6 +3952,63 @@
    "AyurPet teal card. Text: Save this for the rest of winter. Send it to the friend whose dog leaves flakes on the sofa."
   ],
   "music": "soft, cosy acoustic (search: 'cozy', 'calm acoustic')",
+  "music_step": "After publishing, open the post in the Instagram app, tap Edit, then Replace Audio, and add a trending track that fits the mood. The API can't add music."
+ },
+ {
+  "day": 10,
+  "date": "2026-11-27",
+  "post_time_ist": "21:30",
+  "title": "How he sleeps tells you how he feels.",
+  "kind": "feed",
+  "campaign": "Week of 27 Nov rebuild (sends and saves)",
+  "hook": "How he sleeps tells you how he feels.",
+  "lever": "comment the number, send",
+  "slides": 7,
+  "files": {
+   "wk1126": [
+    "wk1126/1127_GL_sleep_01.jpg",
+    "wk1126/1127_GL_sleep_02.jpg",
+    "wk1126/1127_GL_sleep_03.jpg",
+    "wk1126/1127_GL_sleep_04.jpg",
+    "wk1126/1127_GL_sleep_05.jpg",
+    "wk1126/1127_GL_sleep_06.jpg",
+    "wk1126/1127_GL_sleep_07.jpg"
+   ]
+  },
+  "github_urls": [
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_GL_sleep_01.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_GL_sleep_02.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_GL_sleep_03.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_GL_sleep_04.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_GL_sleep_05.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_GL_sleep_06.jpg",
+   "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/wk1126/1127_GL_sleep_07.jpg"
+  ],
+  "alt_text": [
+   "A grey terrier mix asleep belly-up on a white duvet. Text: How he sleeps tells you how he feels.",
+   "A French bulldog asleep on its back, paws folded. Position 1: on his back.",
+   "A small brown dog curled in a tight donut on a knitted blanket. Position 2: curled up tight.",
+   "A golden retriever puppy asleep flat on its belly with legs stretched out. Position 3: the superman.",
+   "A black Labrador asleep on its side in a patch of sun. Position 4: on his side.",
+   "A dog asleep with its back pressed against a sleeping woman. Position 5: pressed against you.",
+   "Summary of the five positions with small photos and numbers. Comment the number."
+  ],
+  "status": "READY: Karan's written yes 27 Nov 2026 ('Approve both'), posts in the 19:00 IST daily run",
+  "note": "Rebuilt 26 Nov 2026: Flow photos, render_v2 (social-work/carousels/wk1126/render_v2.mjs); no cutouts",
+  "id": "1127_GL_sleep",
+  "accounts": [
+   "ayurpet_global"
+  ],
+  "instagram": {
+   "ayurpet_global": "17841465833626335"
+  },
+  "captions": {
+   "ayurpet_global": "How he sleeps tells you how he feels.\n\nPaws up means he feels safe. Curled tight usually means he's keeping warm or isn't fully settled. Pressed against you is trust.\n\nWhich one is yours? Comment the number.\n\nSend this to the person he sleeps next to.\n\nA sudden change in sleeping habits is worth a word with your vet.\n\n#dogsleeping #doglover #dogparents #dogbehavior #ayurpet"
+  },
+  "sources": [
+   "AKC: what your dog's sleeping position says"
+  ],
+  "music": "soft, sleepy lo-fi (search: 'lofi sleep', 'calm')",
   "music_step": "After publishing, open the post in the Instagram app, tap Edit, then Replace Audio, and add a trending track that fits the mood. The API can't add music."
  },
  {
