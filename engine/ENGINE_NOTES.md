@@ -22,3 +22,8 @@ Goal: 10,000 followers combined by 22 Dec 2026 (about 145 a day). Optimise for s
 ## Links to the rest of the system
 - Daily DM/comment engagement: `docs/ENGAGEMENT.md`, `scripts/engage.py`.
 - Posting: `calendar/schedule.json` and `calendar/reels.json` (cloud auto-poster), `scripts/ig.py`.
+
+## Reel covers: layout and the API limit (26 Nov 2026)
+- Layout (Kainaat, same family as the Sama Dog covers): title band on top (0-640), picture in the middle (640-1440), second line in a green band (1440-1920). Everything that matters stays inside the profile-grid crop (y 240 to 1680). Template: ayurpet-2d/src/Covers.tsx (CoverFrame).
+- Every reel gets `--cover-url` AND a check afterwards: read thumbnail_url from the Graph API; the 25 and 26 Nov reels showed a plain video frame there, not our cover.
+- Instagram's API cannot change a cover after posting. Fix a live reel in the app: Edit reel > Edit cover > Add from camera roll, or delete and repost (needs Kainaat's yes).
