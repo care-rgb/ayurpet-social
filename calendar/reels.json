@@ -961,7 +961,7 @@
   "note": "Adapted from the @pawkoapp dog-fact mechanism (Df6KWvIjB1z). 2D Remotion build in ayurpet-2d, ElevenLabs stand-in voice (Lara). No music added. File in Drive Kaainaat folder and the file-index sheet. India post deleted and reposted 2026-11-26 with brand cover (DgNGOqFTJ-m)."
  },
  {
-  "date": "2026-11-29",
+  "date": "2026-12-02",
   "type": "reel",
   "series": "Field Notes (Ghee, 2D cartoon)",
   "reel": "fieldnotes-age-gl",
@@ -983,10 +983,10 @@
   },
   "collaborators": [],
   "user_tags": [],
-  "note": "Built 27 Nov 2026 in ~/Documents/claude/ayurpet-social-studio (Remotion FieldNotes, ElevenLabs VO, soft mix). AI cartoon dog, no real footage."
+  "note": "Built 27 Nov 2026 in ~/Documents/claude/ayurpet-social-studio (Remotion FieldNotes, ElevenLabs VO, soft mix). AI cartoon dog, no real footage. | 28 Nov: moved from 29 Nov to 2 Dec to make room for the Yak Chew Affair (one post per account per day)."
  },
  {
-  "date": "2026-11-29",
+  "date": "2026-12-02",
   "type": "reel",
   "series": "Field Notes (Ghee, 2D cartoon)",
   "reel": "fieldnotes-age-in",
@@ -1008,10 +1008,10 @@
   },
   "collaborators": [],
   "user_tags": [],
-  "note": "Built 27 Nov 2026 in ~/Documents/claude/ayurpet-social-studio (Remotion FieldNotes, ElevenLabs VO, soft mix). AI cartoon dog, no real footage."
+  "note": "Built 27 Nov 2026 in ~/Documents/claude/ayurpet-social-studio (Remotion FieldNotes, ElevenLabs VO, soft mix). AI cartoon dog, no real footage. | 28 Nov: moved from 29 Nov to 2 Dec to make room for the Yak Chew Affair (one post per account per day)."
  },
  {
-  "date": "2026-12-02",
+  "date": "2026-12-03",
   "type": "reel",
   "series": "Field Notes (Ghee, 2D cartoon)",
   "reel": "fieldnotes-guilty-gl",
@@ -1033,10 +1033,10 @@
   },
   "collaborators": [],
   "user_tags": [],
-  "note": "Built 27 Nov 2026 in ~/Documents/claude/ayurpet-social-studio (Remotion FieldNotes, ElevenLabs VO, soft mix). AI cartoon dog, no real footage."
+  "note": "Built 27 Nov 2026 in ~/Documents/claude/ayurpet-social-studio (Remotion FieldNotes, ElevenLabs VO, soft mix). AI cartoon dog, no real footage. | 28 Nov: moved from 2 Dec to 3 Dec (Field Notes 01 now on 2 Dec, order kept)."
  },
  {
-  "date": "2026-12-02",
+  "date": "2026-12-03",
   "type": "reel",
   "series": "Field Notes (Ghee, 2D cartoon)",
   "reel": "fieldnotes-guilty-in",
@@ -1058,7 +1058,7 @@
   },
   "collaborators": [],
   "user_tags": [],
-  "note": "Built 27 Nov 2026 in ~/Documents/claude/ayurpet-social-studio (Remotion FieldNotes, ElevenLabs VO, soft mix). AI cartoon dog, no real footage."
+  "note": "Built 27 Nov 2026 in ~/Documents/claude/ayurpet-social-studio (Remotion FieldNotes, ElevenLabs VO, soft mix). AI cartoon dog, no real footage. | 28 Nov: moved from 2 Dec to 3 Dec (Field Notes 01 now on 2 Dec, order kept)."
  },
  {
   "date": "2026-12-05",
@@ -1116,13 +1116,26 @@
   "series": "Yak Chew Affair",
   "reel": "yak-chew-p1-chew-is-gone",
   "title": "Yak Chew Affair 1/3: The Chew Is Gone",
-  "status": "HOLD",
-  "accounts": [],
-  "video_urls": {},
-  "video_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-29_yak-chew-p1-chew-is-gone_v1.mp4",
+  "status": "READY",
+  "accounts": [
+   "ayurpet_global",
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-29_yak-chew-p1-chew-is-gone_v1.mp4",
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-29_yak-chew-p1-chew-is-gone_v1.mp4"
+  },
   "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-29_yak-chew-p1-chew-is-gone_v1_cover.jpg",
-  "caption": "Someone stole his chew. Guess who. 🐾\n\nPart 1 of 3: The Yak Chew Affair. Part 2 tomorrow.\n\nWho do you think did it? Tell us below 👇\n\n#AyurPet #DogsOfInstagram #DogParentsIndia #DogDrama #FunnyDogs #IndieDogs",
-  "note": "2D Remotion drama, 5 ElevenLabs voices. HOLD: needs Kainaat yes on cover + video, accounts, AI label decision. Dates are proposed."
+  "note": "2D Remotion drama, 5 ElevenLabs voices. Scheduled 28 Nov: 19:00 IST (13:30 UTC, 8:30am ET, 1:30pm UK) on both accounts; routine fires 07/13/19 IST only. AI label: check it is on at post time.",
+  "times_ist": {
+   "ayurpet_global": "19:00",
+   "ayurpetofficial": "19:00"
+  },
+  "captions": {
+   "ayurpet_global": "Someone stole his chew. Guess who. 🐾\n\nPart 1 of 3: The Yak Chew Affair. Part 2 tomorrow.\n\nWho do you think did it? Tell us below 👇\n\n#AyurPet #DogsOfInstagram #DogParentsIndia #DogDrama #FunnyDogs #IndieDogs",
+   "ayurpetofficial": "Someone stole his chew. Guess who. 🐾\n\nPart 1 of 3: The Yak Chew Affair. Part 2 tomorrow.\n\nWho do you think did it? Tell us below 👇\n\n#AyurPet #DogsOfInstagram #DogParentsIndia #DogDrama #FunnyDogs #IndieDogs"
+  },
+  "approved": "Kainaat 2026-11-28 in chat: schedule all three over the next three days, best time on global, same time on India. Covers were sent in chat the day before."
  },
  {
   "date": "2026-11-30",
@@ -1130,13 +1143,26 @@
   "series": "Yak Chew Affair",
   "reel": "yak-chew-p2-the-trial",
   "title": "Yak Chew Affair 2/3: The Trial",
-  "status": "HOLD",
-  "accounts": [],
-  "video_urls": {},
-  "video_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-30_yak-chew-p2-the-trial_v1.mp4",
+  "status": "READY",
+  "accounts": [
+   "ayurpet_global",
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-30_yak-chew-p2-the-trial_v1.mp4",
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-30_yak-chew-p2-the-trial_v1.mp4"
+  },
   "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-11-30_yak-chew-p2-the-trial_v1_cover.jpg",
-  "caption": "Be honest, you'd side with Mochi too 😭\n\nPart 2 of 3: The Trial. Part 3 tomorrow.\n\nMissed Part 1? It's on our page.\n\n#AyurPet #DogsOfInstagram #DogParentsIndia #DogDrama #FunnyDogs #IndieDogs",
-  "note": "2D Remotion drama, 5 ElevenLabs voices. HOLD: needs Kainaat yes on cover + video, accounts, AI label decision. Dates are proposed."
+  "note": "2D Remotion drama, 5 ElevenLabs voices. Scheduled 28 Nov: 19:00 IST (13:30 UTC, 8:30am ET, 1:30pm UK) on both accounts; routine fires 07/13/19 IST only. AI label: check it is on at post time.",
+  "times_ist": {
+   "ayurpet_global": "19:00",
+   "ayurpetofficial": "19:00"
+  },
+  "captions": {
+   "ayurpet_global": "Be honest, you'd side with Mochi too 😭\n\nPart 2 of 3: The Trial. Part 3 tomorrow.\n\nMissed Part 1? It's on our page.\n\n#AyurPet #DogsOfInstagram #DogParentsIndia #DogDrama #FunnyDogs #IndieDogs",
+   "ayurpetofficial": "Be honest, you'd side with Mochi too 😭\n\nPart 2 of 3: The Trial. Part 3 tomorrow.\n\nMissed Part 1? It's on our page.\n\n#AyurPet #DogsOfInstagram #DogParentsIndia #DogDrama #FunnyDogs #IndieDogs"
+  },
+  "approved": "Kainaat 2026-11-28 in chat: schedule all three over the next three days, best time on global, same time on India. Covers were sent in chat the day before."
  },
  {
   "date": "2026-12-01",
@@ -1144,12 +1170,25 @@
   "series": "Yak Chew Affair",
   "reel": "yak-chew-p3-the-throne",
   "title": "Yak Chew Affair 3/3: The Throne",
-  "status": "HOLD",
-  "accounts": [],
-  "video_urls": {},
-  "video_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-12-01_yak-chew-p3-the-throne_v2.mp4",
+  "status": "READY",
+  "accounts": [
+   "ayurpet_global",
+   "ayurpetofficial"
+  ],
+  "video_urls": {
+   "ayurpet_global": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-12-01_yak-chew-p3-the-throne_v2.mp4",
+   "ayurpetofficial": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-12-01_yak-chew-p3-the-throne_v2.mp4"
+  },
   "cover_url": "https://raw.githubusercontent.com/care-rgb/ayurpet-social/main/reels/2026-12-01_yak-chew-p3-the-throne_v1_cover.jpg",
-  "caption": "The queen did it. 😭\n\nPart 3 of 3: The Throne.\n\nSend this to a friend who doesn't have enough chews. A war is starting in their house and they don't know it yet. 🐾\n\n#AyurPet #DogsOfInstagram #DogParentsIndia #DogDrama #CatsVsDogs #FunnyDogs",
-  "note": "2D Remotion drama, 5 ElevenLabs voices. HOLD: needs Kainaat yes on cover + video, accounts, AI label decision. Dates are proposed. v2 (27 Nov... edit): dogs tumble from the climb, Duchess laughs then fixates on the chew, curious drop, all three dogs chewing at the end."
+  "note": "2D Remotion drama, 5 ElevenLabs voices. Scheduled 28 Nov: 19:00 IST (13:30 UTC, 8:30am ET, 1:30pm UK) on both accounts; routine fires 07/13/19 IST only. AI label: check it is on at post time. v2 (27 Nov... edit): dogs tumble from the climb, Duchess laughs then fixates on the chew, curious drop, all three dogs chewing at the end.",
+  "times_ist": {
+   "ayurpet_global": "19:00",
+   "ayurpetofficial": "19:00"
+  },
+  "captions": {
+   "ayurpet_global": "The queen did it. 😭\n\nPart 3 of 3: The Throne.\n\nSend this to a friend who doesn't have enough chews. A war is starting in their house and they don't know it yet. 🐾\n\n#AyurPet #DogsOfInstagram #DogParentsIndia #DogDrama #CatsVsDogs #FunnyDogs",
+   "ayurpetofficial": "The queen did it. 😭\n\nPart 3 of 3: The Throne.\n\nSend this to a friend who doesn't have enough chews. A war is starting in their house and they don't know it yet. 🐾\n\n#AyurPet #DogsOfInstagram #DogParentsIndia #DogDrama #CatsVsDogs #FunnyDogs"
+  },
+  "approved": "Kainaat 2026-11-28 in chat: schedule all three over the next three days, best time on global, same time on India. Covers were sent in chat the day before."
  }
 ]
